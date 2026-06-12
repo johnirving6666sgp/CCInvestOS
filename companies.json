@@ -31,6 +31,16 @@
    "date": "2026-06-12",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "MSFT",
+   "market": "US",
+   "name_zh": "微软",
+   "status": "喜欢",
+   "reason": "标注(依据 MSFT-20260611-02)",
+   "date": "2026-06-12",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
