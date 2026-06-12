@@ -1,0 +1,66 @@
+{
+ "updated": "2026-06-11",
+ "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。",
+ "companies": [
+  {
+   "ticker": "NVDA",
+   "market": "US",
+   "name": "NVIDIA",
+   "name_zh": "英伟达",
+   "focus": [
+    "AI 芯片需求与供给",
+    "数据中心资本开支",
+    "新一代 GPU 路线图",
+    "出口管制"
+   ]
+  },
+  {
+   "ticker": "MSFT",
+   "market": "US",
+   "name": "Microsoft",
+   "name_zh": "微软",
+   "focus": [
+    "Azure 增长",
+    "Copilot 商业化",
+    "OpenAI 关系",
+    "AI 资本开支回报"
+   ]
+  },
+  {
+   "ticker": "7203.T",
+   "market": "JP",
+   "name": "Toyota Motor",
+   "name_zh": "丰田汽车",
+   "focus": [
+    "EV/混动战略",
+    "固态电池",
+    "北美销量",
+    "日元汇率影响"
+   ]
+  },
+  {
+   "ticker": "6758.T",
+   "market": "JP",
+   "name": "Sony Group",
+   "name_zh": "索尼集团",
+   "focus": [
+    "图像传感器",
+    "游戏与PSN",
+    "影视音乐内容",
+    "分拆/重组动向"
+   ]
+  },
+  {
+   "ticker": "0700.HK",
+   "market": "HK",
+   "name": "Tencent",
+   "name_zh": "腾讯控股",
+   "focus": [
+    "游戏版号与新游",
+    "AI 大模型(混元)",
+    "广告与视频号",
+    "回购与股东回报"
+   ]
+  }
+ ]
+}
