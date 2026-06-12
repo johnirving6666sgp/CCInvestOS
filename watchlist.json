@@ -68,6 +68,13 @@
    "name": "Tempus AI",
    "name_zh": "Tempus AI",
    "focus": []
+  },
+  {
+   "ticker": "FATE",
+   "market": "US",
+   "name": "Fate Therapeutics",
+   "name_zh": "Fate Therapeutics",
+   "focus": []
   }
  ]
 }
