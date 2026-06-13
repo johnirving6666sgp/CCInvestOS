@@ -71,6 +71,16 @@
    "date": "2026-06-13",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "IRM",
+   "market": "US",
+   "name_zh": "Iron Mountain",
+   "status": "观察",
+   "reason": "Chokepoint候选：市场标签是\"旧经济档案公司\"，实际已悄然转型AI托管数据中心，存在错误定价可能。市值~$370亿，当前价$127，52周位置91%（高位，距高点仅-3.6%）。等待回调。",
+   "date": "2026-06-13",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
