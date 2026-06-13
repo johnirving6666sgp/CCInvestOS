@@ -103,6 +103,13 @@
    "name": "Quanta Services",
    "name_zh": "Quanta Services",
    "focus": []
+  },
+  {
+   "ticker": "IRM",
+   "market": "US",
+   "name": "Iron Mountain",
+   "name_zh": "Iron Mountain",
+   "focus": []
   }
  ]
 }
