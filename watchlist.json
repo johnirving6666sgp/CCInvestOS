@@ -96,6 +96,13 @@
    "name": "Coherent Corp",
    "name_zh": "Coherent Corp",
    "focus": []
+  },
+  {
+   "ticker": "PWR",
+   "market": "US",
+   "name": "Quanta Services",
+   "name_zh": "Quanta Services",
+   "focus": []
   }
  ]
 }
