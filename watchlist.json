@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-12",
+ "updated": "2026-06-13",
  "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。",
  "companies": [
   {
@@ -81,6 +81,13 @@
    "market": "HK",
    "name": "汇聚科技",
    "name_zh": "汇聚科技",
+   "focus": []
+  },
+  {
+   "ticker": "CLS",
+   "market": "US",
+   "name": "Celestica",
+   "name_zh": "Celestica",
    "focus": []
   }
  ]
