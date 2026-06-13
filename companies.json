@@ -61,6 +61,16 @@
    "date": "2026-06-13",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "PWR",
+   "market": "US",
+   "name_zh": "Quanta Services",
+   "status": "观察",
+   "reason": "Chokepoint候选：电力互联真实施工队，440亿美元积压订单，覆盖电厂到数据中心机架的完整电力路径。市值~$440亿在框架上限，当前价$708，52周位置82%（高位）。等待回调。",
+   "date": "2026-06-13",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
