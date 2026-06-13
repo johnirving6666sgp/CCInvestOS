@@ -89,6 +89,13 @@
    "name": "Celestica",
    "name_zh": "Celestica",
    "focus": []
+  },
+  {
+   "ticker": "COHR",
+   "market": "US",
+   "name": "Coherent Corp",
+   "name_zh": "Coherent Corp",
+   "focus": []
   }
  ]
 }
