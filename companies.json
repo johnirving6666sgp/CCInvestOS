@@ -51,6 +51,16 @@
    "date": "2026-06-13",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "COHR",
+   "market": "US",
+   "name_zh": "Coherent Corp",
+   "status": "观察",
+   "reason": "Chokepoint候选：光学收发器真实物理卡点，光纤交货期已达40周印证供应约束。市值~$200亿在框架内，当前价$385，52周位置88%（高位）。如板块性回调是首要候选。",
+   "date": "2026-06-13",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
