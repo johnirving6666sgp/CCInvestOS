@@ -138,6 +138,13 @@
    "name": "美光科技",
    "name_zh": "美光科技",
    "focus": []
+  },
+  {
+   "ticker": "7974.T",
+   "market": "JP",
+   "name": "任天堂",
+   "name_zh": "任天堂",
+   "focus": []
   }
  ]
 }
