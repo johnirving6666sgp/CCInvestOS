@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15",
+ "updated": "2026-06-16",
  "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。",
  "companies": [
   {
@@ -123,6 +123,13 @@
    "market": "US",
    "name": "Credo Technology",
    "name_zh": "Credo Technology",
+   "focus": []
+  },
+  {
+   "ticker": "SYM",
+   "market": "US",
+   "name": "Symbotic",
+   "name_zh": "Symbotic",
    "focus": []
   }
  ]
