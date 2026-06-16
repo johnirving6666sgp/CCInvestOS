@@ -34,3 +34,4 @@
 {"date":"2026-06-16","ticker":"MU","name_zh":"美光科技","action":"观察","price":1087.99,"currency":"USD","pos":"高位","reason":"标注","viaId":""}
 {"date":"2026-06-16","ticker":"TEM","name_zh":"Tempus AI","action":"喜欢","price":52.32,"currency":"USD","pos":"低位","reason":"标注(依据 TEM-20260616-02)","viaId":"TEM-20260616-02"}
 {"date":"2026-06-16","ticker":"NVO","name_zh":"诺和诺德","action":"不喜欢","price":43.48,"currency":"USD","pos":"低位","reason":"标注","viaId":""}
+{"date":"2026-06-16","ticker":"SYM","name_zh":"赛博替（Symbotic）","action":"喜欢","price":40.81,"currency":"USD","pos":"低位","reason":"标注","viaId":""}
