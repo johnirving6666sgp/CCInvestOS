@@ -1,0 +1,40 @@
+{
+ "date": "2026-06-16",
+ "items": [
+  {
+   "title": "微软遭股东集体诉讼：Azure减速+capex暴增被指'欺诈'，但股价逆势涨2.3%",
+   "summary": "密歇根养老基金指控微软管理层在2025年5月至2026年1月期间隐瞒Azure减速（40%→39%）和capex超支（单季+66%至375亿美元），并过度宣传Copilot与OpenAI收益。诉讼引发关注但市场不跌反涨，53/56分析师仍维持买入，平均目标价$561（距现价约+40%上行）。",
+   "source": "财经媒体",
+   "why": "MSFT处于52周低位（距高点-26.3%），诉讼揭示的'减速'已是旧闻，而Q3 Azure回升至40%、AI年化$370亿是反转证据。这是典型的'利空出尽+分析师高目标价'结构，对P1（王者归来）和P3（错杀成长）模式都有参考价值。",
+   "url": "https://parameter.io/microsoft-msft-stock-faces-shareholder-lawsuit-over-azure-growth-and-ai-spending/"
+  },
+  {
+   "title": "Nebius纳入Nasdaq-100+Bloom Energy电力协议，AI基建中小盘股单日最高涨17%",
+   "summary": "NBIS 6月15日大涨，三重催化叠加：6/22纳入Nasdaq-100触发指数买盘、与Bloom Energy签署$26亿燃料电池供电协议（250MW）、Q1营收6.8倍增至$399M。Reddit/WSB社区热度排名前三。",
+   "source": "Reddit/X",
+   "why": "印证H1（AI基建资本开支加速）和H6（电力是真实物理卡点）。但NBIS已距高点仅-1.7%，与H7'介入窗口尚未打开'假设直接冲突。对投资者而言，NBIS是监测AI基建情绪的晴雨表，而非当前介入标的。",
+   "url": "https://stockstotrade.com/news/nebius-group-nv-nbis-news-2026_06_15/"
+  },
+  {
+   "title": "腾讯元宝月活5735万，不足豆包五分之一；微信AI亲自下场，战略从App竞争转向生态锁定",
+   "summary": "QuestMobile数据显示元宝独立App月活5735万（豆包3亿+），春节红包拉新后DAU大幅回落。腾讯随即将战略重心转向微信内嵌AI语音入口，依托14.32亿月活壁垒构建护城河。",
+   "source": "雪球/钛媒体",
+   "why": "对H2假设（AI重投入公司定价偏差）是双面证据：元宝独立App表现弱是短期压力，但微信生态层策略是腾讯真正的差异化壁垒——市场目前用元宝MAU给腾讯定价，可能低估了微信AI的战略价值。腾讯4月以来回购108亿港元，管理层自身在底部增持。",
+   "url": "https://www.tmtpost.com/8014103.html"
+  },
+  {
+   "title": "Reddit热门：NVDA、RKLB、NBIS位列今日最多提及股，AI情绪全面回暖",
+   "summary": "AltIndex实时追踪显示（6月15日），NVDA、Rocket Lab（RKLB）、Nebius（NBIS）是Reddit各AI/投资板块提及量前三，均呈强烈看多情绪，背后是Nasdaq单日+2.9%的宏观拉动。",
+   "source": "Reddit",
+   "why": "零售投资者情绪先行指标——AI板块连续上涨后，零售买盘集中度在头部名字聚焦，意味着部分低市值AI基建标的可能正在被资金遗漏。结合H7（Chokepoint公司高位整固），零售跟风大名后，机构可能转向中小盘AI供应链的二线标的。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "Goldman Sachs预警：AI资本开支规模或导致大型科技股ROE下滑7个百分点",
+   "summary": "Goldman Sachs发布报告指出，以NVDA为代表的大型科技股，因AI驱动的巨额资本开支，ROE面临约7个百分点的下行压力，这是AI基建'繁荣→回报'过渡期的核心风险量化。",
+   "source": "财经媒体",
+   "why": "直接关联H1假设的反例观察点——'资本开支增速放缓信号或AI应用ROI不及预期'。GS的ROE框架是迄今最具体的量化预警，若2027年hyperscaler capex增速开始放缓，将是H1假设'证伪'的先行指标。投资者应在NVDA年度股东会（6/24）上关注管理层对ROI的表述。",
+   "url": "https://finance.yahoo.com/quote/NVDA/"
+  }
+ ]
+}
