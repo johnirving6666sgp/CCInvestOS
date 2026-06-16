@@ -131,6 +131,13 @@
    "name": "Symbotic",
    "name_zh": "Symbotic",
    "focus": []
+  },
+  {
+   "ticker": "MU",
+   "market": "US",
+   "name": "美光科技",
+   "name_zh": "美光科技",
+   "focus": []
   }
  ]
 }
