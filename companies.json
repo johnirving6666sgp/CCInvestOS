@@ -288,6 +288,16 @@
      "reason": "标注"
     }
    ]
+  },
+  {
+   "ticker": "NVO",
+   "market": "US",
+   "name_zh": "诺和诺德",
+   "status": "不喜欢",
+   "reason": "标注",
+   "date": "2026-06-16",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
