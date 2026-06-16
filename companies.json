@@ -256,6 +256,16 @@
    "date": "2026-06-16",
    "origin": "对话标注",
    "history": []
+  },
+  {
+   "ticker": "MU",
+   "market": "US",
+   "name_zh": "美光科技",
+   "status": "喜欢",
+   "reason": "标注",
+   "date": "2026-06-16",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
