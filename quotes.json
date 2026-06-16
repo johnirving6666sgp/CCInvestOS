@@ -27,13 +27,13 @@
  },
  "7203.T": {
   "ticker": "7203.T",
-  "price": 2865,
+  "price": 2867,
   "currency": "JPY",
-  "chg1d": -1.29,
+  "chg1d": -1.22,
   "high52": 3944,
   "low52": 2453,
-  "fromHigh": -27.4,
-  "fromLow": 16.8,
+  "fromHigh": -27.3,
+  "fromLow": 16.9,
   "pos": "低位",
   "posPct": 28,
   "date": "2026-06-16"
