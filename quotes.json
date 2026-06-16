@@ -27,9 +27,9 @@
  },
  "7203.T": {
   "ticker": "7203.T",
-  "price": 2862.5,
+  "price": 2863,
   "currency": "JPY",
-  "chg1d": -1.38,
+  "chg1d": -1.36,
   "high52": 3944,
   "low52": 2453,
   "fromHigh": -27.4,
@@ -40,15 +40,15 @@
  },
  "6758.T": {
   "ticker": "6758.T",
-  "price": 3248,
+  "price": 3246,
   "currency": "JPY",
-  "chg1d": -2.17,
+  "chg1d": -2.23,
   "high52": 4700,
   "low52": 3113,
   "fromHigh": -30.9,
   "fromLow": 4.3,
   "pos": "低位",
-  "posPct": 9,
+  "posPct": 8,
   "date": "2026-06-16"
  },
  "0700.HK": {
