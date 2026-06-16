@@ -145,6 +145,13 @@
    "name": "任天堂",
    "name_zh": "任天堂",
    "focus": []
+  },
+  {
+   "ticker": "LULU",
+   "market": "US",
+   "name": "露露柠檬",
+   "name_zh": "露露柠檬",
+   "focus": []
   }
  ]
 }
