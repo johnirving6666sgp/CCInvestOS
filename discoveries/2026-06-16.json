@@ -1,0 +1,16 @@
+{
+ "date": "2026-06-16",
+ "items": [
+  {
+   "date": "2026-06-16",
+   "ticker": "MU",
+   "market": "US",
+   "name_zh": "美光科技",
+   "pattern": "瓶颈猎手（Chokepoint Hunter）",
+   "thesis": "HBM4内存是AI基建真实物理卡点，美光是NVIDIA Vera Rubin平台HBM4三大供应商之一（与SK hynix、Samsung并列），Jensen Huang已公开警示内存短缺'可能持续数年'，AMD CEO亦点名HBM是下一个AI供应链瓶颈。",
+   "price_evidence": "美光近期触及历史新高$260附近后回落，当前约在$220-240区间（需验证）；52周高点约$260，若在高位+10%回撤内则不满足H7介入条件，但若出现20%+回调（即至$200以下）则进入评估窗口。NVIDIA×SK hynix协议明确将MU列为同级HBM4供应商，Vera Rubin已全产能出货。",
+   "key_question": "美光HBM4产能爬坡节奏与良率：能否在2026年H2兑现份额扩张？若SK hynix占NVDA需求50-70%，MU的增量空间能否支撑当前估值倍数？出口管制对中国市场DRAM需求的影响是否拖累非HBM业务？",
+   "status": "待反馈"
+  }
+ ]
+}
