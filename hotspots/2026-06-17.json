@@ -1,0 +1,40 @@
+{
+ "date": "2026-06-17",
+ "items": [
+  {
+   "title": "SpaceX SPCX完成史上最大IPO：融资857亿美元，上市两日涨43%，期权今日上线",
+   "summary": "SpaceX于6月12日在Nasdaq上市，以$135定价，首日+19%收于$161，两日累计涨43%，成为史上最大IPO（总融资$85.7B，超越沙特阿美$25.6B）。6月16日期权正式交易上线，FOMC周叠加SPCX期权开盘，市场情绪高度活跃。",
+   "source": "CNBC / Saxo / Charlie Bilello Blog",
+   "why": "SPCX IPO引发大规模资金再配置效应：一是机构资金从NVDA/MSFT/TSLA等Mag7撤出流入SPCX，是当前科技股普跌的部分原因；二是SPCX与NVDA（AI算力基础设施）、Starlink（卫星互联网即数据中心替代品）高度相关，是新一轮AI+基础设施叙事的旗帜性资产。r/wallstreetbets超1600条SPCX讨论，社区分歧显著：牛派视为'世代性押注'，熊派质疑浮动股份不足10%、流通量过低。",
+   "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html"
+  },
+  {
+   "title": "FOMC首次Warsh会议：6月16-17日召开，市场预期维持利率3.50-3.75%不变",
+   "summary": "新任美联储主席Kevin Warsh主持首次FOMC政策会议（6月16-17日），预期维持利率3.50-3.75%不变，Warsh将于6月17日下午召开首次新闻发布会。同日日本央行如期加息25bp至1.00%，为31年新高，美元/日元稳定在160上方。",
+   "source": "Saxo Options Brief / Charlie Bilello Blog",
+   "why": "Warsh首次亮相将奠定2026下半年货币政策信号。若Warsh语气偏鹰（强调通胀>4%均值），美元走强将进一步压制日元，利好7203.T（出口收益转化）但加剧港股折价。对NVDA/MSFT等高估值科技股，若Warsh释放'不急于降息'信号，短期估值承压，但不改变AI资本开支大趋势。",
+   "url": "https://www.home.saxo/content/articles/options/options-brief--spacex-options-live-fomc-week--16-june-2026-16062026"
+  },
+  {
+   "title": "AI债券发行潮：NVDA $250亿领跑，超级科技公司集体锁定长期AI融资成本",
+   "summary": "NVIDIA以$250亿债券（订单$855亿）引领新一波AI基础设施债券融资潮，标志着超级科技公司正通过低成本投资级债务（最低利差仅20bp/Treasuries）锁定未来30年AI基建资本。这是自2021年NVDA上次发债以来首次回归，公司债信用等级AA。",
+   "source": "Bloomberg / Yahoo Finance / TechTimes",
+   "why": "三重信号叠加：①超三倍认购率=债市机构以30年眼光押注AI需求不衰；②NVDA选择债而非股权融资=对当前股价的隐含认可（认为当前估值是合理下限）；③若跟进者包括MSFT/META/AMZN，将形成AI基础设施融资的标准化范式，进一步压低AI capex的资金成本，正向H1假设。假设H1强增强证据。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-25b-bond-deal-sends-173300745.html"
+  },
+  {
+   "title": "任天堂 vs 美光的'内存价格负相关'：Switch 2大卖但股价跌至52周低位-50%",
+   "summary": "市场分析揭示了一个罕见的负相关现象：随着内存价格因AI需求飙升，美光/Kioxia受益而涨价，任天堂Switch 2的COGS（内存成本约¥1000亿冲击）反而拖累利润率预期，导致7974.T股价逆势下跌至52周低位，距高点已跌逾50%。",
+   "source": "Moomoo Community / Quartr",
+   "why": "这正是P3'错杀成长'与P1'王者归来'的重叠信号：Switch 2实际销量(19M目标、10M已售)极其强劲，逻辑未被证伪；而股价下跌是'内存成本恐慌'而非平台需求崩塌。9月美欧提价落地后，成本压力可能被重新定价为'已消化'。是当前观察池中最值得深挖的P1候选。",
+   "url": "https://www.moomoo.com/community/feed/nintendo-earnings-preview-strong-initial-sales-for-switch-2-yet-116496724787206"
+  },
+  {
+   "title": "微软MSFT：Q3 FY2026 Azure重回31%增速，$1900亿capex承诺，但距52周高点仍-27%",
+   "summary": "最新数据显示MSFT Q3 FY2026营收619亿（+13% YoY），Azure增速31%（AI服务贡献18pp），Fortune 500中超80%企业已采用Azure AI服务，全年capex承诺约$1900亿。股东集体诉讼（St. Clair Shores）标的期间为2025年5月至2026年1月28日（Azure减速期），当前已进入诉讼尾声，基本面已改善。",
+   "source": "TradingKey / GuruFocus / Insider Monkey",
+   "why": "MSFT是当前监控列表中基本面反转最清晰而股价仍在低位的标的（-27.3%）。诉讼是历史事件，Q4 FY2026（7月底）财报若显示Azure维持30%+且Copilot付费席位加速，将是P1王者归来的强触发事件。假设H2关键观察节点即将到来。",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261940833-microsoft-stock-forecast-ai-infrastructure-spending-msft-buy-tradingkey"
+  }
+ ]
+}
