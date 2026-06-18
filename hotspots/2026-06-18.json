@@ -1,0 +1,40 @@
+{
+ "date": "2026-06-18",
+ "items": [
+  {
+   "title": "Warsh鹰派首秀震动市场：9/18官员支持2026年加息，点阵图剧变，科技股急跌",
+   "summary": "美联储6月17日维持利率3.50-3.75%不变，但点阵图显示9名官员支持年内至少一次加息（3月为零），2年期收益率飙升16BP至4.216%。Warsh宣布放弃前瞻指引，S&P 500单日跌1.21%，Nasdaq跌1.34%，微软、Meta、Alphabet领跌。",
+   "source": "财经媒体",
+   "why": "利率预期急剧重置是所有高估值成长股的系统性风险因子。对AI重资本投入企业（MSFT、NVDA供应链）折现压力加大；对低位价值股（丰田、索尼）相对吸引力提升。是本周最重要的宏观变量，直接影响组合中所有低位标的的买入时机判断。",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-17-2026"
+  },
+  {
+   "title": "SpaceX IPO创史上最大：$1.77万亿估值、首日+19%，三天内超越亚马逊市值",
+   "summary": "SpaceX（SPCX）6月12日以$135/股定价上市，募资$750亿，首日涨约19%，三个交易日内市值突破$2万亿，超越亚马逊。同日宣布以$600亿收购AI编程助手Cursor。6月17日FOMC后首度下跌，收盘仍较IPO价格高约40%。",
+   "source": "财经媒体",
+   "why": "SpaceX的成功定价是$3.6万亿AI/科技IPO管线（含OpenAI、Anthropic）的市场容量试金石。SpaceX高价能否维持将直接影响后续大型成长型IPO的定价信心。对持仓无直接影响，但Musk旗下SpaceX-Tesla潜在合并传言值得关注（Tesla-SpaceX合并预期压制Tesla独立估值）。",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-17-2026"
+  },
+  {
+   "title": "Reddit社区本周最热AI基建股：NVDA、NBIS、RKLB领衔，WSB转向Snap异动",
+   "summary": "AltIndex数据（6月15日）显示Reddit AI情绪最强票为NVDA、NBIS、Rocket Lab，三者基本面AI评分与情绪一致。WSB则出现Snap 24小时提及量+333%的短线异动，与AI主线无关。",
+   "source": "Reddit/AltIndex",
+   "why": "NVDA与NBIS社区热度与机构叙事高度重合，散户情绪已完全price in，意味着这两支股票的'散户alpha'已基本消失——反而是低关注度的Chokepoint标的（CRDO财报后大跌时无人关注）更符合P4模式。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "中东局势：美伊达成临时和平协议草案，霍尔木兹海峡潜在封堵风险边际缓解",
+   "summary": "6月15日美国与伊朗宣布14点备忘录草案，市场曾短暂反弹。但6月17日Trump在G7峰会表示协议未最终确定，并保留军事选项，局势仍存不确定性。能源价格压力是2026年CPI加速（4月3.8% YoY）的核心驱动。",
+   "source": "Yahoo Finance / CNBC",
+   "why": "中东和平协议若正式落地，将压低能源通胀，为Fed年内降息重新打开窗口，利好成长股整体估值。但当前不确定性仍高——这是比Fed鹰派更根本的宏观变量，需持续跟踪伊朗协议签署进展。对日本制造业标的（丰田、索尼）：日元汇率与能源成本均受中东局势影响。",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rises-sp-500-and-nasdaq-slip-ahead-of-fed-rate-decision-225641465.html"
+  },
+  {
+   "title": "DeepSeek完成$70亿融资：投资者零投票权，中国AI芯片自主化加速，腾讯/字节面临格局冲击",
+   "summary": "DeepSeek于6月16日完成$70亿新一轮融资，但给予投资者零投票权，引发治理争议。同期ByteDance距与中国国产芯片Iluvatar CoreX购买5万块芯片仅一步之遥。分析认为中国AI芯片国产化替代正在加速。",
+   "source": "TipRanks",
+   "why": "DeepSeek巨额融资加剧中国AI大模型竞争烈度，直接威胁腾讯元宝/混元生态竞争地位（已知元宝月活5735万落后豆包）。中国AI芯片自主化趋势长期对NVDA出口管制逻辑形成缓冲——但短期NVDA已'largely conceded'中国市场，影响边际有限。",
+   "url": "https://www.cnbc.com/quotes/700-HK"
+  }
+ ]
+}
