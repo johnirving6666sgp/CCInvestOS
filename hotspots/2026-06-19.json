@@ -1,0 +1,40 @@
+{
+ "date": "2026-06-19",
+ "items": [
+  {
+   "title": "NVIDIA Blackwell每兆瓦运行Agent数量是Hopper的20倍，AgentPerf重定义AI算力竞争维度",
+   "summary": "Artificial Analysis发布业界首个Agentic AI基准AgentPerf，NVIDIA GB300 NVL72以每瓦Agent并发量压倒AMD MI355X，同期MLPerf Inference v6.0 Blackwell Ultra也全面领先。AI算力竞争话语权从训练FLOPS迁移到推理效率，为数据中心资本开支加速提供新的量化叙事。",
+   "source": "财经媒体",
+   "why": "这不是单纯的benchmark PR——每瓦Agent并发量直接对应数据中心电力成本，是超大规模数据中心选型的实际决策因子。若Blackwell单位算力成本优势得到市场认可，将加速H100/H200向Blackwell的迁移订单，支撑NVDA FY2027 $91B指引的质量。",
+   "url": "https://blockchain.news/news/nvidia-blackwell-agentperf-benchmark-2026"
+  },
+  {
+   "title": "微软Copilot Cowork GA+消费计费：企业AI从'席位费'到'使用量'的商业模式革命",
+   "summary": "微软Copilot Cowork 6月16日全球正式可用，当日起消费计费，企业端自主AI Agent首次进入规模化商用阶段。路线图披露多Agent编排和低代码Studio将于2026年底落地，Azure OpenAI依赖度同步下降。",
+   "source": "财经媒体",
+   "why": "消费计费模式（pay-per-use）对Azure营收的弹性贡献远高于固定席位费，若企业Cowork使用量在Q4 FY2026（9月财报）中体现，将成为Azure增速反转的最直接证据，直接回应当前股东诉讼中'AI投入ROI'的质疑。MSFT在52周低位，此事件是潜在的估值修复触发点。",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/"
+  },
+  {
+   "title": "Nintendo Switch 2实际出货超1986万台，6月Direct发布多款第一方大作，FY2027软件内容管线充实",
+   "summary": "任天堂FY2026出货量1986万台超指引，6月Nintendo Direct宣布《塞尔达》重制、三部Xenoblade等重磅内容，秋季口袋妖怪新作将是下一催化剂。股价仍在52周低位（距高点-51.1%）。",
+   "source": "财经媒体",
+   "why": "硬件量能已验证、软件阵容充实、股价在历史低位——任天堂是观察池中最符合P1王者归来初步特征的标的之一。日本零利率环境下，稳定盈利的消费科技公司获机构重新定价的概率正在上升。",
+   "url": "https://tech-insider.org/nintendo-switch-2-sales-19-million-2026/"
+  },
+  {
+   "title": "Lululemon全年指引大幅下调：北美营收-5%、EPS指引腰斩，年初至今跌幅40%但Elliott激进入股虎视眈眈",
+   "summary": "LULU Q1小幅超预期但全年指引崩塌，北美核心市场萎缩5%，全年EPS指引$10.95-11.15远低预期$13.26；新CEO 9月接任，Elliott $10亿持股形成外部压力。",
+   "source": "财经媒体",
+   "why": "LULU当前在52周低位（-54.9%），空头叙事（指引下调）与多头叙事（激进投资者+CEO换届+中国+30%）并存，是典型的高波动错杀候选。关键问题：北美业务下滑是品牌老化还是产品失误？新CEO能否在2个季度内扭转，是买入时机的核心判断变量。",
+   "url": "https://sherwood.news/markets/nintendo-falls-as-switch-2-sales-forecast-disappoints/"
+  },
+  {
+   "title": "r/WallStreetBets 2026年度十大股票：NBIS第五、叙事从散户赌博转向AI基建，零售投资者'双杠铃'策略成型",
+   "summary": "WSB 2026年度社区票选TOP10：Amazon(1)、Rocket Lab(2)、AST SpaceMobile(3)、Alphabet(4)、Nebius(5)、Reddit(6)，显示社区在大盘科技蓝筹与AI高风险成长股之间形成'杠铃配置'，NBIS受到散户和机构双重追捧。",
+   "source": "Reddit",
+   "why": "散户资金流向是短期波动的重要来源。NBIS已在WSB获得高关注度+纳入Nasdaq-100+机构上调目标价三重催化，但这也意味着故事已充分传播，逆向思维需关注当散户拥挤时的回调风险。对投资者而言，这是H7（Chokepoint公司高位警告）的社区面佐证。",
+   "url": "https://finviz.com/news/285484/wallstreetbets-2026-index-top-10-stocks-chosen-by-retail"
+  }
+ ]
+}
