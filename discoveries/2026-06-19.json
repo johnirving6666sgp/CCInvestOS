@@ -1,0 +1,16 @@
+{
+ "date": "2026-06-19",
+ "items": [
+  {
+   "date": "2026-06-19",
+   "ticker": "LUMENTUM",
+   "market": "US",
+   "name_zh": "Lumentum Holdings",
+   "pattern": "瓶颈猎手（Chokepoint Hunter）",
+   "thesis": "光学收发器/光子集成电路领域的真实物理卡点，与COHR构成AI互联层直接竞争，但市值约$23亿，远小于COHR（$117亿），处于机构覆盖盲区边缘，同在AI光互联需求爆发窗口。",
+   "price_evidence": "LITE当前约$18-22区间（需确认），52周位置需独立验证；已作为COHR/CRDO对比标的出现在Yahoo Finance和StockTitan AI互联板块列表中，与COHR同类但市值差距4-5倍，显示潜在的相对低位。",
+   "key_question": "Lumentum在800G/1.6T transceiver市场的份额走势是否跟随COHR同向加速？当前订单积压和客户集中度（datacom vs telecom）如何？52周实际价格位置需独立确认后才能升级为喜欢。",
+   "status": "待反馈"
+  }
+ ]
+}
