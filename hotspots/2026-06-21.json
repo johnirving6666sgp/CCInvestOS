@@ -1,0 +1,47 @@
+{
+ "date": "2026-06-21",
+ "items": [
+  {
+   "title": "Nasdaq-100指数再调整：NBIS明日生效纳入，被动买盘集中释放时点",
+   "summary": "Nebius Group（NBIS）将于2026年6月22日正式纳入Nasdaq-100指数，被动ETF（QQQ等，规模超3000亿美元）须在收盘前强制完成建仓。NBIS过去一周已累计大涨约30%，当前在历史高位，'买预期卖事实'风险显著。",
+   "source": "财经媒体",
+   "why": "指数纳入事件对小市值公司（NBIS相对QQQ体量较小）的价格冲击通常在纳入生效日前后2-3天最显著。持仓者需警惕纳入后的获利了结压力；空仓者需警惕被动资金仍可能托底短期价格。",
+   "url": "https://stockstotrade.com/news/nebius-group-nv-nbis-news-2026_06_15/"
+  },
+  {
+   "title": "NVIDIA股东大会6月24日举行：出口管制新态势+Vera Rubin路线图是最大信息增量来源",
+   "summary": "NVIDIA 2026年股东大会将于本周三（6月24日）线上举行，距今3个交易日。黄仁勋发言预计涵盖：主权AI战略进展、出口管制应对（H20在中国市场替代方案）、Vera Rubin（下一代GPU）量产节点、$250亿债券资金用途。",
+   "source": "财经媒体",
+   "why": "NVDA是AI产业链定价锚，股东大会发言通常对整个AI板块（CRDO/COHR/CLS/MU/NBIS等）产生联动效应。出口管制若有新松动信号，将是整个AI供应链的系统性利好。",
+   "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Annual-Meeting-2026/default.aspx"
+  },
+  {
+   "title": "美光MU+CRDO双双创历史新高：AI内存与互联层价值迁移逻辑被市场同步验证",
+   "summary": "MU今日+8.7%、CRDO今日+9.02%，两者均触及历史新高（距高点0%）。MU受益于HBM3E/4量产周期，CRDO受益于AEC有源铜缆在AI集群中的大规模采用，共同印证AI供应链从GPU层向内存/互联层的价值迁移。",
+   "source": "财经媒体/Reddit r/wallstreetbets",
+   "why": "H6假设的现实验证：互联层（CRDO +157% YoY营收）和内存层（MU HBM4预期）已成为AI供应链中增速最快的环节。但双双处于历史高位，H7——当前不是介入时机，但可作为H6逻辑确认的最强证据。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/crdo-vs-cohr-ai-connectivity-134400067.html"
+  },
+  {
+   "title": "港股科技板块集体承压：腾讯-1.17%、索尼-3.38%，日元汇率与美联储鹰派预期双重压制",
+   "summary": "今日港股/日股科技普跌：腾讯-1.17%距高点-35%、索尼-3.38%距高点-33.2%、丰田-0.61%距高点-29.6%。背景：Warsh鹰派首秀后美债利率预期重置，叠加日元走弱（对日本出口股短期有利但压制跨境资金回报）以及港股流动性仍偏弱。",
+   "source": "CNBC/雪球",
+   "why": "三只重仓级股票（腾讯/索尼/丰田）同日走弱但均处于历史低位区间，H2假设核心观察点：市场持续用短期利润率定价AI投入，'AI重新定价'叙事未获短期催化。对持仓者是'磨底'信号，对空仓者是'继续等待'信号。",
+   "url": "https://www.cnbc.com/quotes/700-HK"
+  },
+  {
+   "title": "Symbotic SYM：首次GAAP盈利后仍在-52%低位，王者归来模式成立度最高的标的之一",
+   "summary": "SYM Q2首次实现GAAP净利润900万美元，积压$227亿，Q3指引$700-720M环比持续增长。但股价$41.68仍距52周高点-52.3%，市场显然未充分定价盈利拐点。",
+   "source": "r/stocks / Seeking Alpha",
+   "why": "P1王者归来三要素全部满足：①深度回撤>50%；②基本面反转信号（首次GAAP盈利）；③$227亿积压=3年收入能见度。是当前观察池中王者归来模式成立度最高的美股标的。关键风险：Walmart合同纠纷若升级将严重损害新签约信心。",
+   "url": "https://ir.symbotic.com/"
+  },
+  {
+   "title": "雪球热议：港股18A生物科技分化加剧，FATE FT819 SLE门诊给药数据成CAR-T赛道最强催化信号",
+   "summary": "FATE FT819在EULAR呈现的SLE数据（21例无高级别CRS、门诊给药、多数减停激素）在雪球港股Biotech社区引发热烈讨论，被认为是iPSC来源CAR-T可及性的突破性证明，与汇聚科技（01729）等港股Biotech逻辑高度相关。",
+   "source": "雪球",
+   "why": "H4假设验证节点：FT819若扩展队列（n>50）数据维持当前积极结果，将是iPSC CAR-T商业化可行性的最强证据，有助于重新定价整个iPSC赛道估值。FATE目前距高点仅-26.4%（相对其他Biotech回撤较浅），性价比低于同逻辑的深度回撤标的。",
+   "url": "https://ir.fatetherapeutics.com/news-releases/news-release-details/fate-therapeutics-announces-presentations-2026-asco-and-eular"
+  }
+ ]
+}
