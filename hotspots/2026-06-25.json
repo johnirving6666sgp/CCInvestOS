@@ -1,0 +1,47 @@
+{
+ "date": "2026-06-25",
+ "items": [
+  {
+   "title": "美光Q3史诗超预期：营收$414.6亿(+346%)、Q4指引$500亿，AI内存供给紧张远未见顶",
+   "summary": "美光Q3 FY2026营收$414.6亿、EPS $25.11均大幅超预期，Q4指引$500亿再次碾压市场预期$429亿。数据中心收入7倍增，股价盘后涨15%，带动SMH+3%、DRAM ETF+10%。CNBC称美光成为'科技新利润之王'，HBM4供给周期确认远未结束。",
+   "source": "财经媒体",
+   "why": "美光财报是当前AI基建景气最强的实物验证——Q4$500亿指引意味着FY2027年化营收有望突破$2000亿。对NVDA（客户验证Blackwell/Vera Rubin拉动内存需求）、NBIS/CLS（数据中心持续扩张）、整个AI供应链均是最强背书。关注H1（AI资本开支）与H6（供应链Chokepoint价值迁移）两大假设。",
+   "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html"
+  },
+  {
+   "title": "OpenAI×Broadcom发布Jalapeño自研AI推理芯片：ASIC路线第一次实物化挑战NVDA推理主导权",
+   "summary": "OpenAI与Broadcom联合发布首款自研推理ASIC'Jalapeño'，性能/瓦据称大幅优于现有方案，目标2026年底小规模部署、2028年H1全速运转，最终规模10GW。Broadcom股价涨3%，NVDA短期冲击有限（Altman称'仍是忠实大客户'），但推理层ASIC化趋势正式开始。",
+   "source": "财经媒体",
+   "why": "Jalapeño是AI芯片竞争格局的里程碑事件：大型模型公司开始向下整合到硅层。NVDA训练侧护城河短期无虞，但推理层定价权将受压。对CRDO/COHR（Broadcom Tomahawk网络硅将被大量采购用于Jalapeño部署）是潜在催化剂，印证H6（互联层价值迁移）。",
+   "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html"
+  },
+  {
+   "title": "微软×Chevron签署20年2.67GW专属供电协议（Project Kilby）：AI电力军备竞赛进入'自建电厂'新阶段",
+   "summary": "微软与Chevron在德州Permian Basin签署20年购电协议，建设2.67GW天然气发电站专供AI数据中心，首期~70亿美元，2028年首期电力交付。完全绕过德州主网，GE Vernova燃气轮机为核心设备。这是美国油气巨头与超大规模数据中心的最大单笔能源合作。",
+   "source": "财经媒体",
+   "why": "AI电力供应已成为超出芯片和建设的最紧迫瓶颈。微软率先锁定20年独立电力，将引发Meta/Google/Amazon的跟进效应。GEV（GE Vernova）是最直接受益者（7台大型燃气轮机）。印证H8（电力层是下一个最确定Chokepoint），PWR（电力基础设施施工）也是间接受益方向。",
+   "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center"
+  },
+  {
+   "title": "雪球热议：黄金/白银/原油6月24日盘中暴跌4-6%，特朗普发声+鹰派美联储预期叠加大宗商品抛售",
+   "summary": "6月24日，现货黄金跌破4000美元/盎司（-近4%）、白银-5%、原油同步下跌，证券时报报道特朗普当日发声推动大宗商品恐慌抛售。雪球用户分析认为美元指数强势（创13个月高位101+）与鹰派紧缩预期形成商品空头共振窗口。",
+   "source": "雪球/东方财富",
+   "why": "大宗商品暴跌叠加鹰派利率预期，可能对IRM、PWR等高股息REIT/防御型AI基建股产生短期压制。同时通缩式大宗下跌如果持续，将降低数据中心电力成本，对MU/NVDA的毛利率有长期正面效应。关注中国人民银行6月25日5000亿MLF操作对港股流动性的对冲效果。",
+   "url": "https://caifuhao.eastmoney.com/news/20260625012442193268280"
+  },
+  {
+   "title": "Cerebras(CBRS)首次财报后股价-10%：Q2毛利率指引36-38%引担忧，但$200亿OpenAI合同锁定需求端",
+   "summary": "Cerebras Q1 2026营收$193.4亿(+92% YoY)，但Q2毛利率指引降至36-38%（Q1为47%），市场担忧外租算力压缩利润，股价盘后-10%，从$226跌至接近IPO价$185附近。同时OpenAI Jalapeño发布并未影响其$200亿供电合同有效性。",
+   "source": "CNBC / 财经媒体",
+   "why": "Cerebras是目前最接近'错杀成长'(P3)逻辑的新上市AI基础设施公司：$200亿锚定合同+AWS合作+IPO后情绪抛售。但市值$498亿仍58倍P/S，估值风险极高。关注是否触发用户观察池的'回调至合理区间'条件（目前从$311高点已跌28%）。暂不纳入观察池但值得跟踪。",
+   "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html"
+  },
+  {
+   "title": "Alphabet加入道琼斯指数（替换Verizon）；SK Hynix计划最快7月10日纳斯达克上市融资290亿美元",
+   "summary": "Alphabet确认加入DJIA替换Verizon，标志科技/AI股在传统指数的权重提升。韩国存储巨头SK Hynix计划最早7月10日以纳斯达克二次上市方式融资290亿美元，将是2026年最大科技IPO之一，HBM供应链资本密集度持续提升。",
+   "source": "财经媒体",
+   "why": "SK Hynix $290亿融资说明HBM内存资本开支军备竞赛正在提速——这是对美光Q3超强财报的战略回应，也是对NVDA Vera Rubin HBM4需求的提前押注。假设H1（AI资本开支）再次增强。对MU竞争格局有一定影响，但供给约束下竞争扩产反而印证需求端确定性。",
+   "url": "https://finance.yahoo.com/quote/MSFT"
+  }
+ ]
+}
