@@ -1,0 +1,16 @@
+{
+ "date": "2026-06-25",
+ "items": [
+  {
+   "date": "2026-06-25",
+   "ticker": "GEV",
+   "market": "US",
+   "name_zh": "GE Vernova",
+   "pattern": "瓶颈猎手（Chokepoint Hunter）",
+   "thesis": "Project Kilby实锤7台大型燃气轮机订单，数据中心电力设备Q1单季订单$24亿创纪录，气电backlog从83GW快速扩至100GW（年底预计110GW），电力层是AI基建最确定的物理卡点，GEV是最直接受益的大市值标的。",
+   "price_evidence": "GEV股价2026年初至今+80%（Citi上调至$345作为顶级半导体推荐），处于高位区间；但Project Kilby等长期合同锁定订单确认基本面不会快速恶化，任何板块性技术回调（目标：从近期高点回撤15-20%）将是重要入场窗口。当前距52周高位约-6.8%（基于Benzinga Broadcom技术分析间接数据），具体回撤需实时确认。",
+   "key_question": "GEV燃气轮机产能是否能满足AI数据中心爆发式需求（当前backlog已达100GW但交货周期多长）？相比核电/可再生能源，天然气电力的政策风险如何量化？GEV当前估值（P/E约45x）是否已充分定价AI电力超级周期？",
+   "status": "待反馈"
+  }
+ ]
+}
