@@ -1,0 +1,40 @@
+{
+ "date": "2026-06-26",
+ "items": [
+  {
+   "title": "Micron MU史诗级Q3财报引发「AI内存超级周期」共识，Reddit提及量24小时暴增131%",
+   "summary": "MU Q3 FY2026调整后EPS $25.11（+1200% YoY），营收$414.6亿（+4倍），Q4指引$500亿继续超预期。Reddit上MU提及量24小时暴增131%，成最热门话题。Micron/SK Hynix/三星三强格局下AI HBM供给仍然偏紧，高定价环境预计延续。6月25日市场整体受MU带动走高：S&P +0.52%、道指+0.65%、纳指+0.24%。CoreWeave/Nebius/IREN作为AI算力代理股同步上涨。",
+   "source": "Reddit WSB / AltIndex / TheStreet",
+   "why": "MU数据是整条AI供应链需求侧最直接的实证——若AI内存需求可支撑如此规模的盈利爆发，则GPU/互联/电力各层需求均得到间接验证。对NVDA（Blackwell用HBM3e）、NBIS/CRWV（租用算力需要内存）、CLS（AI服务器机架）均构成正向催化。假设H1增强。",
+   "url": "https://www.tipranks.com/news/why-coreweave-crwv-nebius-and-iren-stocks-are-rising-today-6-25-26"
+  },
+  {
+   "title": "微软Xbox因内存成本上涨再次涨价，苹果iPhone同步提价——AI算力需求对消费电子硬件成本产生传导效应",
+   "summary": "6月25日消息：微软宣布Xbox游戏机再度提价（TipRanks「Microsoft Stock Falls after Firm Raises Xbox Prices Again due to Memory Shortage」），苹果iPhone同步提价，两大主机厂商将内存成本转嫁给消费者。背景：AI训练/推理对HBM/DRAM的需求挤压了消费电子可用产能，导致成本上涨。",
+   "source": "TipRanks / TheStreet",
+   "why": "这是AI算力需求挤压消费电子供应链的首个主流可见信号，印证MU财报中「AI内存高定价」的供给约束逻辑。对游戏硬件业者（7974.T、索尼）是成本压力，对CRDO/COHR/MU等供应链是需求强度确认。对H6（隐形卡点价值迁移）构成增强证据。",
+   "url": "https://www.cnbc.com/markets/stocks/MSFT"
+  },
+  {
+   "title": "GTA6正式开启预购（6月25日）：主机游戏史上最高期待值新作，或重塑2026-2027游戏生态资本开支格局",
+   "summary": "R星正式公布GTA6封面图及概念图，并于6月25日开启预购。GTA6被市场预期以$80美元定价（马里奥卡丁车世界成功在先），若登陆Switch 2将是任天堂FY2027最大外部催化剂；若维持PS/Xbox/PC独占则利好索尼/微软游戏收入。",
+   "source": "腾讯新闻游戏频道 / TipRanks",
+   "why": "GTA6是10年等待的跨代级游戏，对7974.T（Switch 2版本是否确认）、6758.T（PS5独占则直接受益）、MSFT（Xbox版本是否有独占协议）均有直接投资影响。亦是「游戏硬件周期」内容驱动力的最大单一变量。",
+   "url": "https://news.qq.com/rain/a/20260620A05P2S00"
+  },
+  {
+   "title": "Reddit WSB当周「社区救市」热点：Wendy's WEN一日暴涨引发meme股风格轮动信号",
+   "summary": "6月25日Reddit r/WallStreetBets上「We need to save Wendy's」帖子病毒式传播，配合WEN新CFO任命，零售资金集体推升Wendy's股价。这是2026年首个明显的散户驱动meme行情，显示WSB社区在AI主线缺乏新催化剂时转向经典「拯救式」叙事。",
+   "source": "TheStreet / Reddit WSB",
+   "why": "meme行情是市场情绪过热→资金寻找新叙事的信号。当WSB社区开始炒作落后消费股而非AI股，意味着AI主线短期动能可能在消化Micron财报后暂歇。对高位AI供应链股（CRDO/COHR/PWR/IRM）是间接警示——散户资金轮动压力可能加剧。",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-25-2026"
+  },
+  {
+   "title": "黄仁勋「每个Token都是利润」宣言 + 超导微机构Supermicro走私案：AI合规风险成2026年新监管前沿",
+   "summary": "黄仁勋股东大会宣告「有用AI时代」，同步将Supermicro联合创始人$25亿走私案（DOJ已起诉）定性为「死路」。中国AI芯片市场份额从NVDA近95%降至约55%，华为以20%份额快速崛起（IDC 2026Q1数据）。参议员Warren邀请黄仁勋出席芯片出口管制听证会（两党共识）。",
+   "source": "TheStreet / TradingKey / Thelec.net",
+   "why": "出口管制从「政策风险」变为「持续结构性约束」。NVDA中国收入份额从13%→9%仍在下行，但Huang的鲜明表态降低了监管进一步收紧NVDA的政治风险。Huawei份额扩张是长期追踪项，若超过30%则重新评估NVDA在华策略。对H1（AI Capex加速）无实质影响，但对全球AI基础设施地缘碎片化有深远含义。",
+   "url": "https://thenextweb.com/news/nvidia-huang-national-security-smuggled-chips-dead-end"
+  }
+ ]
+}
