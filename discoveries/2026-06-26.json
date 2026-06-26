@@ -1,0 +1,16 @@
+{
+ "date": "2026-06-26",
+ "items": [
+  {
+   "date": "2026-06-26",
+   "ticker": "CRWV",
+   "market": "US",
+   "name_zh": "CoreWeave",
+   "pattern": "瓶颈猎手（Chokepoint Hunter）",
+   "thesis": "AI计算租赁「操作系统」——Rosenblatt称其「increasingly looks like the de facto OS for AI」，已于6月22日纳入Nasdaq-100，与Nebius并列neocloud双龙头，Bernstein数据显示其每兆瓦IT收入高于IREN，Micron史诗级财报进一步印证算力需求景气度；不在当前监控列表内。",
+   "price_evidence": "6月25日CoreWeave（CRWV）股价处于高位区间，自6月22日纳入Nasdaq-100后持续走强，TipRanks显示6月25日涨幅显著；52周区间暂无精确数据但年内已成新晋AI基础设施权重股，市值已进入中大型区间。需独立获取精确52周位置数据再评估是否符合H7（回调等待）。",
+   "key_question": "CRWV当前52周位置是否已>85%分位？若是，则需等待回调；若近期因市场波动出现>20%回撤且基本面无恶化，则是P4（瓶颈猎手）的介入窗口。核心风险：NVDA独家供应依赖+大客户集中度（Meta占大单）。",
+   "status": "待反馈"
+  }
+ ]
+}
