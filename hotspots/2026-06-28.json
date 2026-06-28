@@ -1,0 +1,40 @@
+{
+ "date": "2026-06-28",
+ "items": [
+  {
+   "title": "OpenAI IPO推迟至2027：引爆科技板块多米诺——ORCL本周创2001年以来最大跌幅，SoftBank单日-13%",
+   "summary": "NYT报道OpenAI倾向将IPO推迟至2027年，Altman坚持$1万亿估值底线。此消息引发连锁反应：Oracle（深度绑定OpenAI供电合同$3000亿）股价创2001年科网泡沫以来最差单周；SoftBank（持有OpenAI大量敞口）单日-13%；MSFT（持OpenAI 27%股权）跌至52周新低；韩国KOSPI因内存+AI双重打压单日暴跌约6%。OpenAI披露2025年净亏损$385亿（计算资源支出$340亿），SpaceX IPO后股价从$202跌至$153也令市场对万亿美元估值产生审慎情绪。",
+   "source": "财经媒体（NYT/Yahoo Finance/TipRanks）",
+   "why": "OpenAI IPO推迟是本周全球AI股票波动的核心宏观触发器，将'AI资本开支ROI何时兑现'的结构性辩论推向新高潮，直接影响MSFT、CRWV、NBIS、NVDA、MU的情绪面。对用户持仓全局均有解读价值。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/openai-may-delay-blockbuster-ipo-211919988.html"
+  },
+  {
+   "title": "内存通胀'组件危机'：Apple涨价6.6%跌、Xbox涨$100-150、MU超预期后回调——AI基建成本压力进入消费品价格链",
+   "summary": "Apple以内存/存储价格骤升为由对iPad/MacBook大幅提价，股价单日跌6.6%（近一年最大单日跌幅）；微软Xbox主机宣布8月起涨价$100-150，并明确表示内存/存储成本已涨2.5倍、预计2027年再翻倍；MU超级财报后反跌约7%（获利盘+情绪切换）。韩国三星、SK hynix同步重挫，KOSPI单日-6%。",
+   "source": "CNBC / Insider Monkey / Investing.com",
+   "why": "内存通胀从AI数据中心蔓延至消费电子价格，标志着供应链紧张程度已超过历史参考，支撑MU长期超级周期逻辑（假设H1增强），但也意味着非内存受益方（MSFT、消费电子品牌）面临边际成本压力，值得持续跟踪成本转嫁能力。",
+   "url": "https://www.cnbc.com/quotes/MSFT"
+  },
+  {
+   "title": "CRWV被Rosenblatt定性为'AI的de facto操作系统'——首次覆盖目标价$250，距当前价+160%",
+   "summary": "Rosenblatt（6月25日）首次覆盖CoreWeave给予买入评级目标价$250，是当前华尔街最高目标价之一，认为CRWV正成为AI工作负载的底层操作系统。Cantor独立确认CRWV Q2积压有望大幅超预期，且已锁定$300亿2027年ARR目标约90%。同日Micron超预期财报短暂提振AI基建板块整体情绪，CRWV盘前一度冲高。",
+   "source": "TipRanks / Cantor Fitzgerald",
+   "why": "这是Rosenblatt对CRWV的战略级定性——从GPU租赁服务商重新定位为'AI操作系统'，若这一认知被市场广泛接受，将驱动估值体系重构。与NBIS形成鲜明对比（CRWV过去一年-35.5% vs NBIS +455.9%），当前CRWV相对价值可能更具吸引力。",
+   "url": "https://www.tipranks.com/news/rosenblatt-says-buy-coreweave-crwv-stock-as-it-looks-increasingly-like-the-de-facto-operating-system-for-ai"
+  },
+  {
+   "title": "雪球/X热议：MSFT是否是'本轮AI周期最被误解的大型科技股'——52只分析师全买入 vs 股价创历史最差H1",
+   "summary": "MSFT年初至今跌25%创2000年以来最差H1，与此同时AI收入年化$370亿（+123%）、Azure增速40%、商业RPO$6270亿（+99%）全线创历史新高。这一'基本面最强、股价最弱'的极端分歧在雪球/X财经大V圈广泛讨论，核心争论在于：AI资本开支$1900亿全年是'赌国运的对的投资'还是'超出合理回报周期的资本浪费'。Polymarket预测MSFT 6月底收于$450以上概率仅11%。",
+   "source": "雪球 / 24/7 Wall St. / Polymarket",
+   "why": "这一分歧本身就是最大的投资信号：52只分析师一致看多（目标$561）vs 市场情绪如此悲观，说明存在极端预期差（假设H2直接适用）。7月28日财报是检验'ROI拐点是否到来'的关键时刻。",
+   "url": "https://247wallst.com/investing/2026/06/26/microsoft-has-fallen-25-this-year-what-could-push-msft-back-to-500/"
+  },
+  {
+   "title": "AI基建超级周期再获实证：2027年Hyperscaler资本开支预测升至$1万亿——AI供应链整体景气确认",
+   "summary": "NVDA最新电话会议中披露，2027年AI超大规模数据中心资本开支将升至$1万亿（年级预测）。结合MU CEO确认HBM供需紧张延至2027年以后，BofA预测AI内存超级周期持续至2030年，构成AI基础设施投资多年高景气的三重确认。市场短期因OpenAI IPO推迟而波动，但中长期AI基建加速逻辑（假设H1）获得最强季度实证。",
+   "source": "Yahoo Finance / BofA / TradingKey",
+   "why": "这是理解本周AI板块整体波动的'分母'：短期情绪受OpenAI IPO事件打压，但基本面确认的增量信息是正面的。AI基建长期受益方（CRWV、NBIS、CLS、PWR、IRM）的多年景气逻辑未受损。",
+   "url": "https://finance.yahoo.com/technology/ai/articles/prediction-nvidias-stock-skyrocket-june-091000304.html"
+  }
+ ]
+}
