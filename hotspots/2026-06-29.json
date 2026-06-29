@@ -1,0 +1,40 @@
+{
+ "date": "2026-06-29",
+ "items": [
+  {
+   "title": "AI内存短缺成'存亡危机'：苹果MacBook涨价6%、AWS GPU算力块涨20%，供应约束全面实物化",
+   "summary": "本周最核心宏观信号：Apple因内存短缺被迫宣布MacBook/iPad提价，股价单日-6%；同日MU暴涨16%；AWS 7月1日起GPU算力块涨约20%。三个事件共同确认：AI内存和GPU算力的实物供应约束已从产业链层面蔓延至终端消费者定价。",
+   "source": "财经媒体 (Fortune/CNN/TheStreet)",
+   "why": "这是本周最重要的宏观信号：AI基础设施供应约束已到达实体经济定价层。对H1（AI基建加速未见顶）是最强证据；对MU/NBIS/CRWV等供给侧受益标的是基本面加速信号；对MSFT/AAPL等需求侧大买家是成本压力信号。这一供需结构如不破坏，AI超级周期将持续。",
+   "url": "https://fortune.com/2026/06/26/stocks-memory-supply-crisis-wall-street-selloff-fear-chip-shortages/"
+  },
+  {
+   "title": "Goldman Sachs NVDA vs MU二选一：选择NVDA（目标价$285，+48%），但MU短期更受催化",
+   "summary": "Goldman Sachs分析师Schneider认为NVDA当前估值更具吸引力（forward PE ~22x vs MU更高），维持NVDA买入目标价$285；但市场实际资金本周明显向MU轮动。CNBC分析：NVDA进入技术性调整，'热钱'出逃中。",
+   "source": "TipRanks / Goldman Sachs",
+   "why": "大行旗帜鲜明选边NVDA，但短期市场行为与之相悖——这种分歧本身是投资者需要判断的关键：是趋势性轮动还是短期噪音？若NVDA 8月26日财报超预期，资金可能迅速回流。当前$192.53是基本面视角下较好的分批建仓区间。",
+   "url": "https://www.tipranks.com/news/nvidia-or-micron-goldman-sachs-chooses-the-top-ai-stock-to-buy"
+  },
+  {
+   "title": "中国AI追赶加速：Zhipu GPT级模型闯入，Z.AI对标美国前沿，韩国KOSPI因SK Hynix/三星触发熔断",
+   "summary": "CNBC 6月26日双线报道：Zhipu AI在Anthropic/OpenAI受出口管制情况下，凭借本土模型'进攻'全球AI前沿；Z.AI正逼近美国AI边界。同期韩国KOSPI（SK Hynix+三星占半壁）因AI内存景气过热触发熔断，2026年以来涨幅约90%。",
+   "source": "CNBC",
+   "why": "两个并行信号：①中国AI替代效应加速形成，对美国出口管制政策的边际影响值得关注（NVDA中国收入风险）；②韩国市场过热熔断提示：HBM超级周期预期已被充分定价，需警惕情绪过热后的剧烈回调风险，连带影响MU等相关标的。",
+   "url": "https://www.cnbc.com/quotes/NVDA"
+  },
+  {
+   "title": "Reddit热榜（6/28）：NVDA仍居榜首、NBIS mentions急升，Adobe暴涨103%提及量引发关注",
+   "summary": "AltIndex实时数据（6月28日12:30 PST）：Reddit当日最多提及股NVDA保持强AI Score+看涨情绪，NBIS mentions快速上升，Adobe(ADBE) 24小时内提及量+103%（疑似财报催化）。",
+   "source": "Reddit/AltIndex",
+   "why": "散户情绪仍高度集中在AI基础设施叙事。NVDA居首符合机构大行看涨共识；NBIS散户关注上升但机构均价目标已被超越，需谨慎追高。Adobe mentions异动可能是Q2财报/AI Firefly催化，值得短期关注。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "CoreWeave股价从高点$173跌至$96（-44.5%），$1000亿积压+Rosenblatt $250目标价与债务风险形成博弈",
+   "summary": "CRWV本周在$93-98区间交投，距52周高点已回撤超44%，但基本面：Q1收入$20.8亿（+100%+），订单积压约$1000亿，已纳入Nasdaq-100，Rosenblatt首次覆盖目标价$250。主要风险：$250亿债务+每年$310-350亿资本开支计划。",
+   "source": "Robinhood / TipRanks",
+   "why": "CRWV进入值得认真评估的价格区间。$1000亿积压对应约$52亿市值（6倍积压覆盖），若Q2财报进一步确认积压增长，王者归来逻辑可能被触发。关键问题：$250亿债务的再融资风险+OpenAI客户集中度。这是本周最值得深度研究的潜在入场机会。",
+   "url": "https://robinhood.com/us/en/stocks/CRWV/"
+  }
+ ]
+}
