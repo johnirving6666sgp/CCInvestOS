@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26",
+ "updated": "2026-06-29",
  "note": "公司分类库。status: 喜欢(买观察仓深入研究) | 观察(中间态持续跟踪) | 不喜欢(存档不再推荐,满半年提醒重审)。history 记录每次变更。",
  "companies": [
   {
@@ -353,6 +353,16 @@
    "status": "喜欢",
    "reason": "标注",
    "date": "2026-06-26",
+   "origin": "网页标注",
+   "history": []
+  },
+  {
+   "ticker": "RDDT",
+   "market": "US",
+   "name_zh": "Reddit",
+   "status": "喜欢",
+   "reason": "标注",
+   "date": "2026-06-29",
    "origin": "网页标注",
    "history": []
   }
