@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-01",
+ "items": [
+  {
+   "title": "Magnificent 7六月蒸发$2.3万亿市值：AI重资本开支辩论主导六月，半导体指数却+6%",
+   "summary": "Magnificent 7（MSFT、NVDA、AAPL、AMZN、GOOGL、TSLA、META）六月合计市值缩水约$2.3万亿，占S&P 500同期市值损失的三分之二以上。MSFT跌20%、NVDA跌13%，但费城半导体指数（含TSMC、MU、ASML）同期反涨6%。市场资金从'AI买家'轮动至'AI供应商'。",
+   "source": "财经媒体",
+   "why": "这是2026年最重要的板块轮动主线：大模型/云计算公司（付AI基建账单的一方）受capex辩论持续压制，而内存/芯片/供应链（收钱的一方）逆势上涨。Q2财报季（7月起）将是验证窗口——Azure/AWS/GCP是否真正加速是关键。",
+   "url": "https://www.investing.com/news/stock-market-news/magnificent-7-stocks-lose-23-trillion-in-june-4767667"
+  },
+  {
+   "title": "Super Micro台湾办公室遭突袭：NVDA芯片走私中国调查实物化，台湾考虑立法入罪",
+   "summary": "台湾检察机关6月29日突击搜查SMCI台湾办公室、6名个人住宅及3家关联公司，已查扣约50台内置NVDA芯片的服务器，调查NVDA AI芯片经日本转口中国的走私链。SMCI股价跌8%至$28，NVDA不受波及。台湾当局正讨论将AI芯片非法出口中国列为刑事罪行。",
+   "source": "财经媒体",
+   "why": "出口管制执法已从'美国监管层'扩展至'台湾司法层'，走私链实物证据（服务器实物截获）使未来AI芯片走私风险更高。对NVDA长期是利好（合规渠道定价权巩固），对SMCI是持续重大风险，对整个AI供应链是监管收紧的强烈信号。",
+   "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60171652/super-micro-taiwan-offices-raided-stock-takes-another-hit"
+  },
+  {
+   "title": "Reddit r/WallStreetBets发起'拯救Wendy's'运动：六月散户最热炒作标的",
+   "summary": "六月下旬，r/WallStreetBets大规模流传'We need to save Wendy's'帖子，叠加新CFO任命，散户资金推动Wendy's股价短期暴涨。该股空头占比约23%，具短逼潜力。被认为是GameStop式社区动员的当月最典型案例。",
+   "source": "Reddit",
+   "why": "WSB散户军团本月精力集中在Wendy's而非AI股，折射出：①AI股高位使散户缺乏快速暴富的故事②小市值+高空头的'经典WSB配方'回归。对监控池无直接影响，但提示散户情绪正从AI转向传统困境股，AI板块回调或缺少散热阀。",
+   "url": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "NVIDIA×Palantir主权AI合作落地；Alphabet取代Verizon加入道琼斯：AI重组全球指数",
+   "summary": "NVDA与Palantir联合宣布在主权AI环境中部署NVIDIA AI及Nemotron开放模型，强化政府/国防算力需求。同期Alphabet正式取代Verizon加入道琼斯工业平均指数，进一步扩大科技权重在蓝筹指数中的占比。",
+   "source": "财经媒体",
+   "why": "主权AI是NVDA对华出口受阻后最重要的需求替代路径——欧洲35台超算+韩国GW级AI Cloud+Palantir政府合作，构成非中国需求的第二增长曲线。Alphabet入道指则引发被动资金配置调整，关注后续权重影响。",
+   "url": "https://finance.yahoo.com/quote/NVDA/"
+  },
+  {
+   "title": "MSFT微软多项证券集体诉讼：$3570亿市值损失期间，原告指控隐瞒Azure减速与AI投资效益虚报",
+   "summary": "多起证券集体诉讼（Robbins Geller等）指控MSFT在2025年5月至2026年1月期间就Azure增速、AI capex强度及Copilot实际采用率发布误导性声明，相关期间股价下跌10-12%、市值损失约$3570亿。原告召集截止日期为2026年8月11日。",
+   "source": "财经媒体",
+   "why": "诉讼对MSFT构成持续头风，但历史上大型科技股类似诉讼鲜有实质影响——核心关注是7月27日Q4财报能否提供'反诉证据'（Azure回到40%+、Copilot ROI数据）。若财报强劲，法律风险将被市场快速淡化；若财报再度令人失望，股价将面临双重打击。",
+   "url": "https://simplywall.st/stocks/us/software/nasdaq-msft/microsoft"
+  }
+ ]
+}
