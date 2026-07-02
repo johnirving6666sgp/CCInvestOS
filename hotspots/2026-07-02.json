@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-02",
+ "items": [
+  {
+   "title": "Meta Compute震动AI基建板块：neocloud逻辑首次面临「最大客户变竞争者」的结构性考验",
+   "summary": "Bloomberg独家：Meta计划推出Meta Compute，向开发者出售过剩GPU算力及托管模型，直接挑战CoreWeave/Nebius/IREN等neocloud商业模式。META当日涨+10%（市值+$1490亿），CRWV跌-13.9%，NBIS跌-17%，IREN跌-6.5%，Nasdaq 100当日跌-4.5%半导体板块拖累。",
+   "source": "Bloomberg/247WallSt/Benzinga",
+   "why": "这是AI基建投资逻辑的第一次真正结构性冲击：hyperscaler从「需求方」转为「供给竞争方」。投资者需重新评估所有neocloud公司的客户集中度风险，并审视H6假设（AI供应链隐形卡点）中neocloud层的定价权是否被永久削弱。",
+   "url": "https://247wallst.com/investing/2026/07/01/nebius-coreweave-and-iren-tumble-on-metas-cloud-ambitions-is-this-the-end-of-the-neocloud-boom/"
+  },
+  {
+   "title": "UBS五星分析师：CXL互联市场2030年将达$70-100亿，MRVL大涨+4%、ALAB暴涨+16%",
+   "summary": "UBS顶级分析师Timothy Arcuri（全球排名第2）将MRVL目标价从$230上调至$340（Buy），ALAB从$205上调至$400（Hold），预计2027年CXL相关ASIC市场约$1B，2028年$2B，理由是数据中心向全机架和多机架CXL架构演进。MSFT为ALAB Leo产品关键客户，2H26出货量预期大幅提升。",
+   "source": "TipRanks/Investing.com",
+   "why": "直接印证假设H6（AI供应链隐形卡点从GPU层向互联层迁移）。CXL（PCIe内存池化互联）是GPU Chokepoint之外的下一层物理卡点。MRVL/ALAB已被机构发现不再是盲区，但CXL确认性数据首次由顶级分析师以具体数字支撑，对CRDO等AEC互联公司同样是边际正面信号。",
+   "url": "https://www.tipranks.com/news/mrvl-and-alab-stocks-surge-after-a-five-star-ubs-analyst-sees-big-cxl-upside"
+  },
+  {
+   "title": "Michael Burry做空NVDA/AMAT/SOXX/TSLA，称半导体乖离度达2000年以来最高",
+   "summary": "Burry在Substack披露做空NVDA($198.09入场)、AMAT($729.40)、SOXX ETF（看跌期权从Jan27展期至Mar27，执行价上移至$400+）及TSLA($416.22)。他指出SOXX距200日均线乖离为2000年以来仅见，并认为韩国大规模芯片投资计划是「终点的起点」。SOXX 2026年H1涨幅+102%。",
+   "source": "IBTimes UK/Benzinga/StockTwits",
+   "why": "历史上Burry做空往往有先见之明但时机提前。当前半导体板块技术性乖离与Burry警告共振，若叠加Meta算力竞争压力，AI基建板块可能迎来更大幅度的情绪性回调窗口。投资者应评估组合中半导体仓位的风险敞口，并关注是否触发H7观察触发点（Chokepoint公司回撤至52周中位以下）。",
+   "url": "https://www.ibtimes.co.uk/michael-burry-short-positions-ai-stocks-1806326"
+  },
+  {
+   "title": "MSFT 2026上半年跌-23%为2000年以来最差，但53/56分析师维持买入、平均目标$561（+46%）",
+   "summary": "MSFT 2026上半年跌23%，创2000年以来Mag 7最差半年表现。同时即将宣布裁员<2.5%（~5700人），涉及销售/咨询/Xbox。但Stocktwits零售情绪转为看多，机构分析师共识$561目标价（基于22x forward P/E最低估值+RPO$6270亿积压+$370亿AI年化收入）。7月28日Q4财报将是最关键催化剂。",
+   "source": "Yahoo Finance/StockAnalysis",
+   "why": "MSFT当前兼具P1（王者归来）+P3（错杀成长）特征：股价处52周低位(-29.1%)，基本面（Azure 40%增速、Copilot 2000万席位）与股价严重背离。若7/28财报Azure继续维持40%+增速，将为股价修复提供最强信号。目前是本观察池中最具「低位+强基本面」特征的公司。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-layoffs-coming-next-week-054022713.html"
+  },
+  {
+   "title": "RDDT单日+13.93%：广告机构正式将Reddit纳入2026核心数字广告生态，7月7日行业电话会被列为主角",
+   "summary": "Reddit被Citizens和Ad Agency Tierra列入7月7日2026数字广告趋势电话会核心平台（与META/GOOGL/SNAP/APP并列），标志Reddit从「meme论坛」正式升格为机构认可的广告平台。当日股价+13.93%至$197.76，当前分析师目标价区间$245-265仍有25%+上行空间。",
+   "source": "StocksToTrade",
+   "why": "Reddit广告地位确立是持续估值修复的结构性驱动力，而非一次性事件。7月7日电话会可能带来更多广告主数据，推动进一步催化。RDDT处于52周中位区间，符合P2戴维斯双击（广告收入增长+估值修复）的初期条件。",
+   "url": "https://stockstotrade.com/news/reddit-inc-rddt-news-2026_07_01/"
+  }
+ ]
+}
