@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-02",
+ "items": [
+  {
+   "date": "2026-07-02",
+   "ticker": "IREN",
+   "market": "US",
+   "name_zh": "IREN Limited（AI/高性能计算数据中心）",
+   "pattern": "王者归来",
+   "thesis": "从比特币矿业转型AI/HPC数据中心（可再生能源供电），同日被Meta Compute消息错杀-6.5%，但其AI数据中心转型逻辑与Meta内化算力竞争关联度低，处于52周均线附近的技术支撑位，可能是被情绪拖累的结构性错杀。",
+   "price_evidence": "当日跌约-6.5%（Meta冲击联动），50周均线正被测试，若跌破则进入$30附近March低位区间；当前位置约50-52周区间中位，符合H7观察触发条件的接近点",
+   "key_question": "IREN的AI数据中心转型中，其客户结构是否与Meta/Meta依赖型neocloud重叠？可再生能源供电的差异化定位是否足够绕开Meta的竞争冲击？",
+   "status": "待反馈"
+  }
+ ]
+}
