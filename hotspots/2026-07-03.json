@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-03",
+ "items": [
+  {
+   "title": "Meta宣布'Meta Compute'云计划：AI算力过剩开始外溢，Neocloud商业模式遭机构质疑",
+   "summary": "彭博报道Meta计划将其庞大AI基础设施对外销售算力，直接冲击CoreWeave(-13.92%)、Nebius(-17%)等Neocloud公司。Bernstein指出超大规模云厂商入局Neocloud领域只是时间问题。同日SOX指数暴跌6.3%，形成AI周期见顶的情绪冲击。",
+   "source": "Bloomberg / Axios",
+   "why": "Meta云计划若成真，将重构AI算力外购vs自建vs Neocloud的竞争格局。CRWV、NBIS等Neocloud标的的商业模式可持续性进入核心争议区，是H1（AI基建加速）与Neocloud逻辑分叉的关键节点。",
+   "url": "https://www.axios.com/2026/07/02/ai-meta-stocks-chips"
+  },
+  {
+   "title": "Jefferies CIO调查：Azure以27点优势压倒AWS，云支出加速至10.1%增速——MSFT最强企业需求证据",
+   "summary": "Jefferies最新CIO调查显示Azure首选率55% vs AWS 28%，差距从2025年12月的7点急速扩大至27点；68%的CIO预计增加Azure支出；85%的CIO预计2027年底前超半数工作负载上云。",
+   "source": "Jefferies / TipRanks",
+   "why": "这是迄今为止最直接的企业端AI云需求证据，在MSFT股价仍处52周低位（-28%）的背景下，构成强力买入信号的基本面支撑。7月29日Q4财报前最关键的预判数据。",
+   "url": "https://www.tipranks.com/news/microsoft-msft-azure-widens-lead-over-aws-in-jefferies-cio-survey"
+  },
+  {
+   "title": "SOX指数Q3两日跌12%——杠杆ETF踩踏机制解析：SOXL等产品放大跌幅，基本面未变",
+   "summary": "Axios/Investing.com分析：本轮芯片股暴跌的幕后推手之一是SOXL（3倍做多半导体ETF）的每日强制再平衡机制——市场下跌时被动卖出放大负反馈。Oppenheimer分析师直言'这轮SMH涨幅被远超AI多头预期的资金驱动'，本质上是杠杆积累后的技术性踩踏。",
+   "source": "Investing.com / Reddit社区",
+   "why": "理解这一机制有助于区分'技术性踩踏杀估值'与'基本面恶化'——对于AI基建逻辑完整的标的（NVDA、MU、CLS等），踩踏式下跌反而可能是买入窗口。这是H7（等待真实回调窗口）的重要背景。",
+   "url": "https://www.investing.com/analysis/the-chip-selloff-is-not-just-about-ai-theres-a-bigger-problem-under-the-hood-200682649"
+  },
+  {
+   "title": "索尼PlayStation实体光盘2028年全面停产：游戏行业最后一块实体媒介阵地宣告落幕",
+   "summary": "索尼7月1日正式公告，2028年1月起停止生产所有新PlayStation游戏实体光盘，全面转向数字发行。实体游戏已仅占索尼收入约3%，GTA6、Rockstar已同步宣布数字优先策略。",
+   "source": "PlayStation Blog / Forbes / CNBC",
+   "why": "游戏行业结构性转变加速：索尼PSN平台货币化能力提升，对任天堂（7974.T）构成差异化利好（唯一保留实体卡带的主流主机），同时提示零售游戏分销链的长期萎缩趋势。",
+   "url": "https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html"
+  },
+  {
+   "title": "TEM CEO关联实体单日减持$960万，但Freedom Capital称TEM是最接近'AI即医生'愿景的上市公司",
+   "summary": "Tempus AI CEO Lefkofsky关联的Gray Media和Blue Media在TEM股价跳涨6%创五个月高点后次日减持$960万。同时Freedom Capital首次覆盖给持有/$59目标，肯定TEM5500家医院连接、500PB数据的壁垒，Stocktwits零售情绪升至'极度看多'。",
+   "source": "Stocktwits / Barchart",
+   "why": "CEO减持与极度看多情绪并存，是典型的信号混淆节点——需判断减持是套现计划还是对业务前景的信心动摇，对TEM持仓者是关键风险管理时机。",
+   "url": "https://stocktwits.com/news-articles/markets/equity/tem-ceo-linked-share-sale-cloud-ai-as-physician-story/cZme5wMR71Y"
+  }
+ ]
+}
