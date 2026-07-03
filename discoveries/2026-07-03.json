@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-03",
+ "items": [
+  {
+   "date": "2026-07-03",
+   "ticker": "CBRS",
+   "market": "US",
+   "name_zh": "Cerebras Systems",
+   "pattern": "错杀成长 (P3)",
+   "thesis": "AI推理芯片赛道唯一的晶圆级AI计算公司，Q1营收+94% YoY达$193.4M，OpenAI多年合作伙伴，但因客户集中风险和高估值被市场年初至今抛售约29%，Ark Invest在下跌中加仓——基本面加速与股价下跌形成明显预期差。",
+   "price_evidence": "CBRS年初至今-29%，52周区间下落中（QQ数据显示距52周高点有显著回撤），当前仍被UBS给$320目标价（相对当前有大幅上行空间）。Cathie Wood在下跌后明显加仓",
+   "key_question": "OpenAI是否占CBRS收入的70%+？若OpenAI Jalapeño自研芯片量产，对CBRS的客户集中风险如何量化？CBRS的晶圆级芯片在推理场景vs训练场景的竞争力边界在哪里？",
+   "status": "待反馈"
+  }
+ ]
+}
