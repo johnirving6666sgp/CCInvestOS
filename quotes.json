@@ -10,7 +10,7 @@
   "fromLow": 23.1,
   "pos": "中位",
   "posPct": 47,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "MSFT": {
   "ticker": "MSFT",
@@ -23,46 +23,46 @@
   "fromLow": 10.7,
   "pos": "低位",
   "posPct": 20,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "7203.T": {
   "ticker": "7203.T",
-  "price": 2793,
+  "price": 2828,
   "currency": "JPY",
-  "chg1d": 2.51,
+  "chg1d": 1.25,
   "high52": 3944,
   "low52": 2453.5,
-  "fromHigh": -29.2,
-  "fromLow": 13.8,
+  "fromHigh": -28.3,
+  "fromLow": 15.3,
   "pos": "低位",
-  "posPct": 23,
-  "date": "2026-07-03"
+  "posPct": 25,
+  "date": "2026-07-04"
  },
  "6758.T": {
   "ticker": "6758.T",
-  "price": 3330,
+  "price": 3380,
   "currency": "JPY",
-  "chg1d": 2.46,
+  "chg1d": 1.5,
   "high52": 4700,
   "low52": 3113,
-  "fromHigh": -29.1,
-  "fromLow": 7,
+  "fromHigh": -28.1,
+  "fromLow": 8.6,
   "pos": "低位",
-  "posPct": 14,
-  "date": "2026-07-03"
+  "posPct": 17,
+  "date": "2026-07-04"
  },
  "0700.HK": {
   "ticker": "0700.HK",
-  "price": 430.2,
+  "price": 431.2,
   "currency": "HKD",
-  "chg1d": 0.09,
+  "chg1d": 0.23,
   "high52": 677.5,
   "low52": 411.8,
-  "fromHigh": -36.5,
-  "fromLow": 4.5,
+  "fromHigh": -36.4,
+  "fromLow": 4.7,
   "pos": "低位",
   "posPct": 7,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "TEM": {
   "ticker": "TEM",
@@ -75,7 +75,7 @@
   "fromLow": 42.2,
   "pos": "低位",
   "posPct": 29,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "FATE": {
   "ticker": "FATE",
@@ -88,7 +88,7 @@
   "fromLow": 217.4,
   "pos": "高位",
   "posPct": 95,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "01729": {
   "ticker": "01729",
@@ -105,7 +105,7 @@
   "fromLow": 118.3,
   "pos": "中位",
   "posPct": 57,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "COHR": {
   "ticker": "COHR",
@@ -118,7 +118,7 @@
   "fromLow": 285.2,
   "pos": "高位",
   "posPct": 73,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "PWR": {
   "ticker": "PWR",
@@ -131,7 +131,7 @@
   "fromLow": 79.4,
   "pos": "高位",
   "posPct": 72,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "IRM": {
   "ticker": "IRM",
@@ -144,7 +144,7 @@
   "fromLow": 48.6,
   "pos": "高位",
   "posPct": 71,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "NBIS": {
   "ticker": "NBIS",
@@ -157,7 +157,7 @@
   "fromLow": 386.7,
   "pos": "高位",
   "posPct": 71,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "CRDO": {
   "ticker": "CRDO",
@@ -170,7 +170,7 @@
   "fromLow": 175.5,
   "pos": "高位",
   "posPct": 72,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "SYM": {
   "ticker": "SYM",
@@ -183,7 +183,7 @@
   "fromLow": 10.8,
   "pos": "低位",
   "posPct": 9,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "MU": {
   "ticker": "MU",
@@ -196,20 +196,20 @@
   "fromLow": 830.2,
   "pos": "高位",
   "posPct": 79,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "7974.T": {
   "ticker": "7974.T",
-  "price": 7137,
+  "price": 7132,
   "currency": "JPY",
-  "chg1d": 2.25,
+  "chg1d": -0.07,
   "high52": 14655,
   "low52": 6589,
   "fromHigh": -51.3,
-  "fromLow": 8.3,
+  "fromLow": 8.2,
   "pos": "低位",
   "posPct": 7,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "LULU": {
   "ticker": "LULU",
@@ -222,7 +222,7 @@
   "fromLow": 12.3,
   "pos": "低位",
   "posPct": 9,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "CRWV": {
   "ticker": "CRWV",
@@ -235,7 +235,7 @@
   "fromLow": 26.6,
   "pos": "低位",
   "posPct": 17,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
  },
  "RDDT": {
   "ticker": "RDDT",
@@ -248,6 +248,19 @@
   "fromLow": 59.8,
   "pos": "中位",
   "posPct": 49,
-  "date": "2026-07-03"
+  "date": "2026-07-04"
+ },
+ "CBRS": {
+  "ticker": "CBRS",
+  "price": 204.86,
+  "currency": "USD",
+  "chg1d": -7.42,
+  "high52": 311.07,
+  "low52": 168.52,
+  "fromHigh": -34.1,
+  "fromLow": 21.6,
+  "pos": "低位",
+  "posPct": 25,
+  "date": "2026-07-04"
  }
 }
