@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-05",
+ "items": [
+  {
+   "title": "6月非农仅5.7万，大幅低于预期11.5万：道指创历史新高，纳指反跌——资金从芯片流向传统板块",
+   "summary": "美国6月就业新增57,000人（预期115,000），失业率降至4.2%但劳动参与率收缩。弱数据引发降息预期升温，道指创收盘新高52,900点，但纳斯达克随半导体板块再跌0.8%。SMH ETF两日累计-11%，MU、SNDK分别两日跌超12%、20%。新任Fed主席Kevin Warsh（鹰派倾向）面临政策两难。",
+   "source": "财经媒体",
+   "why": "弱就业数据触发行业轮动：科技/半导体获利了结，资金流向传统周期与防御板块。对AI芯片投资者而言，这是情绪性压力而非基本面恶化，可能形成P3错杀机会窗口。",
+   "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Intel (INTC) 12个月涨幅+455%：TipRanks头条分析师将目标价上调100%称Foundry故事'太好不能忽视'，WSB讨论热度居高",
+   "summary": "Intel股价因Apple与Intel/Samsung探讨美国本土代工合作（Bloomberg爆料）而大幅飙升，过去12个月涨幅逾455%。TipRanks今日发文称顶级分析师将INTC目标价上调100%。WSB 24小时内INTC被提及41次，59%正面情绪。分析师共识仍倾向防守（13买入/30持有/5卖出），前向P/E达125x。",
+   "source": "Reddit r/wallstreetbets / TipRanks",
+   "why": "INTC作为AI供应链'意外逆袭者'引发零售+机构双重关注，与H6瓶颈猎手逻辑交叉——但已在高位，需评估Apple代工合作真实性。7月Q2财报（指引$138-148亿营收）是下一验证节点。",
+   "url": "https://www.cnn.com/markets/stocks/NVDA"
+  },
+  {
+   "title": "Meta Cloud入场致Neocloud全线踩踏：CRWV -14%、NBIS -17%、IREN -28%（五日），Roth称超卖、Bernstein称竞争只是时间问题",
+   "summary": "Meta宣布研究将过剩AI算力商业化出售（Meta Compute），引发Neocloud板块历史性踩踏。三日后CRWV稳定在$82附近（距高点-50%），CEO同期抛售$3800万股，机构对看法两极分化：Roth认为超跌可买、Bernstein维持跑输/$67目标。Seeking Alpha分析指CRWV需2028年前实现84%年均增速才能兑现估值。",
+   "source": "财经媒体 / 机构研报",
+   "why": "Neocloud赛道定价权从'稀缺算力溢价'向'与超大规模竞争折价'切换，是AI供应链投资最核心的结构性风险重估。对CRWV/NBIS/IREN持仓者，需重新评估客户集中度与取或付合同的法律约束力。",
+   "url": "https://seekingalpha.com/article/4919343-coreweave-stock-meta-compute-scare-a-long-term-buying-opportunity"
+  },
+  {
+   "title": "微软Frontier Co. vs Amazon $10亿工程部门：企业AI落地'最后一公里'成两大云厂商决战主战场",
+   "summary": "MSFT投$25亿成立Frontier Co.（6000人FDE模式），Amazon同期成立$10亿工程部门，二者均瞄准企业AI定制化实施市场。核心差异：MSFT明确IP归属客户，消除数据泄露顾虑；Amazon聚焦AWS生态绑定。Jefferies CIO调查显示Azure以55% vs AWS 28%大幅领先。",
+   "source": "CNBC / Barchart",
+   "why": "企业AI落地市场规模或超万亿，谁赢得'安全AI实施首选伙伴'定位将决定未来3年云市场份额格局。MSFT此举直接回应H2假设（AI重投入公司预期差修复），是观察MSFT能否从'硬件开支担忧'切换到'落地变现证明'的关键节点。",
+   "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html"
+  },
+  {
+   "title": "索尼停产实体游戏光盘引发行业热议：Reddit批'反消费者'，前暴雪总裁遗憾，任天堂成唯一保留实体媒介主流主机平台",
+   "summary": "索尼2028年1月停产所有PlayStation实体新游光盘，全面转向数字发行。Reddit用户大规模批评'反消费者行为'，媒体翻出索尼历史旧账；前暴雪总裁Mike Ybarra对此表达遗憾，呼吁建立'数字版承诺'机制。对任天堂而言，Switch 2成主流主机中唯一保留实体卡带的平台，差异化优势进一步凸显。",
+   "source": "IT之家 Game频道 / CNBC",
+   "why": "索尼数字化转型短期引发玩家反感，间接为任天堂实体卡带生态创造差异化叙事。任天堂股价当前52周低位（-51%），若Switch 2软件催化剂加速变现，P1王者归来逻辑进一步强化。",
+   "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+  }
+ ]
+}
