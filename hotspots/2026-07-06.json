@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-06",
+ "items": [
+  {
+   "title": "富士康Q2营收+39.8% YoY至$787亿，6月单月+52.1%创历史记录，AI服务器持续强需求",
+   "summary": "台湾富士康（作为NVDA最大服务器组装商）Q2营收大幅超越LSEG智能预估值（$787亿 vs 预期$743亿），AI服务器及云网络产品是主要驱动力；公司指引Q3 AI机架出货继续增长，但警告地缘政治风险（中东冲突扰乱供应链，Strait of Hormuz运输受阻）。",
+   "source": "财经媒体",
+   "why": "富士康是AI硬件需求的最直接代理指标之一，Q2超预期增长实物验证了H1（AI资本开支未见顶）。同时地缘政治警告提示供应链风险，对NVDA、CLS等供应链公司均有传导意义。",
+   "url": "https://www.marketscreener.com/news/foxconn-second-quarter-revenue-jumps-company-cautions-on-geopolitics-ce7f5edadc8dfe27"
+  },
+  {
+   "title": "Reddit r/stocks & AltIndex：NVDA、NBIS是近期Reddit最多提及AI股，Adobe因未知利好单日+89%提及量",
+   "summary": "过去48小时Reddit讨论中NVDA和NBIS获最多关注，散户情绪仍倾向做多AI基础设施。Adobe在WSB提及量单日飙升89%，疑似有短期催化剂尚未明朗；CRWV和NBIS本周大幅震荡后Stocktwits情绪维持'bullish'。",
+   "source": "Reddit",
+   "why": "散户情绪仍然看多NVDA/NBIS，与机构层面的BNP/Bernstein谨慎形成分歧。Adobe异动值得关注，若有财报或合作消息可能形成短期交易机会（但Adobe不在监控池，供参考）。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "MSFT 7月28日Q4财报前：市场定价如'硬件周期衰退股'，但分析师56:0强烈买入均值$561",
+   "summary": "FinanceFeeds深度：市场目前对MSFT的定价逻辑类似'资本密集型硬件公司进入下行周期'，而非'正在大规模投入的企业软件公司'。这一定价错位可能在财报验证Azure增速+capex趋缓后被快速修正。56位分析师零分歧Strong Buy、目标价$561，距当前价$390有44%空间。",
+   "source": "财经媒体",
+   "why": "MSFT是当前投资组合中最具王者归来(P1)+错杀成长(P3)特征的标的之一。7月28日财报是3-6个月内最关键的单一数据点，投资者需预先设定情景框架（Azure>35%+capex趋稳=买入信号）。",
+   "url": "https://financefeeds.com/microsoft-msft-stock-price-prediction-2026-2027-2030/"
+  },
+  {
+   "title": "腾讯+阿里+百度罕见联合投资可灵AI（快手旗下），融资30亿美元，估值达1300亿元，对赌5年内IPO",
+   "summary": "快手旗下视频生成AI独角兽可灵AI首轮外部融资落地，腾讯、阿里巴巴、百度三大互联网巨头同时入局，融资规模约$42亿人民币（约$30亿美元），估值1300亿元。这是中国AI应用层少见的三巨头联合背书案例。",
+   "source": "雪球",
+   "why": "腾讯对可灵的投资标志着中国AI应用层（视频生成）商业化进入关键加速阶段，与腾讯自身混元模型形成生态布局。对0700.HK是短期正面催化剂，验证腾讯'AI投入被市场低估'的假设H2。",
+   "url": "https://stock.finance.sina.com.cn/hkstock/news/00700.html"
+  },
+  {
+   "title": "Mag 7六月市值蒸发$2.3万亿，为历史最大单月跌幅；MSFT+NVDA双双处于52周低位/中位，'最佳买点还是价值陷阱'成热议",
+   "summary": "247 Wall St报道Mag 7在6月合计蒸发$2.3万亿市值，为有史以来最大单月集体跌幅。AI资本开支辩论+估值重评是主因，MSFT下跌尤为严重（-$5700亿单月）。进入7月后资金出现明显分歧：机构持续逢低买入MSFT，散户则在NVDA/NBIS之间摇摆。",
+   "source": "财经媒体",
+   "why": "这轮巨量抛售是否已将AI大型科技股调整到合理买点，是当前投资组合最核心的宏观判断题。结合7月28日MSFT财报和8月26日NVDA财报形成双重验证窗口。",
+   "url": "https://247wallst.com/companies/msft/"
+  }
+ ]
+}
