@@ -1,0 +1,47 @@
+{
+ "date": "2026-07-07",
+ "items": [
+  {
+   "title": "Dow突破53000历史新高 vs Nasdaq芯片股两连阴：「伟大轮动」Q3第一周延续",
+   "summary": "7月6日，Dow创历史收盘新高53,056点（+0.29%），S&P 500+0.72%，但Nasdaq在芯片股拖累下仅+1.12%。本周市场主线：弱于预期的非农数据（仅57K，预期约120K）→美联储「走一步看一步」→资金从半导体/AI基础设施向非科技蓝筹和AI软件层旋转。Quantum Strategy机构同日宣布「清仓美股AI（除中国）」，转向中国AI应用。",
+   "source": "CNBC",
+   "why": "「大轮动」叙事直接影响用户持仓的NVDA/MU/CLS等芯片侧仓位，同时对MSFT/腾讯等AI软件层构成相对利好；弱非农压低通胀预期，有利于成长股估值修复。",
+   "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "SpaceX今日正式纳入Nasdaq-100，Wedbush：「有史以来最差异化的科技资产」",
+   "summary": "SpaceX于7月7日正式加入Nasdaq-100指数，触发被动ETF强制配置买盘。Wedbush Dan Ives称SpaceX是「Starlink连接+Starship发射+Colossus AI集群」三业务融合的「垂直整合超大规模算力」，并将其列为顶级差异化科技资产。SpaceX 6月12日纳斯达克IPO估值创历史IPO记录。",
+   "source": "TheStreet",
+   "why": "SpaceX纳指加入将推动Nasdaq-100估值中枢上移并产生成分股再平衡效应（其他成分股权重被动稀释）。更重要的是：SpaceX自建Colossus集群叙事如果得到市场认可，可能改变「谁能替代NVDA/CRWV」的讨论框架。",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020"
+  },
+  {
+   "title": "TeraWulf单日暴涨16%：Anthropic签署20年Kentucky数据中心协议，初期$190亿以上收入",
+   "summary": "TeraWulf（WULF）7月6日大涨逾16%，因Anthropic签署20年长期协议使用其肯塔基州数据中心，该中心支持约400MW算力，首期电力交付预计2027年下半年。协议预计在初始期内贡献超$190亿收入。",
+   "source": "CNBC",
+   "why": "AI数据中心「电力+算力」长期锁定协议正成为超高溢价资产；印证H8（能源/电力层是下一个最确定卡点）。WULF目前未在用户监控名单，但模式高度匹配P4（Chokepoint Hunter）——核电+数据中心的长期锁定合同是绕不过的物理卡点。",
+   "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Reddit +11.6%：AI数据授权扩大+购物广告工具，今日作为正式广告平台参加Citizens趋势电话会",
+   "summary": "RDDT近日同步推进AI数据授权（Google/OpenAI续约谈判定价将大幅上调）与商业广告（「community intelligence」购物工具），Q1营收+69% YoY、净利润$2.04亿，今日被Citizens/Tierra广告电话会与META/GOOGL并列作为核心平台分析。股价$200附近，近一周+16.6%。",
+   "source": "Yahoo Finance/Simply Wall St",
+   "why": "RDDT的「内容护城河×AI数据稀缺性×广告货币化」三角形叙事正在获得机构认可，7月7日广告电话会是近期核心催化剂，投资者应关注会议对RDDT广告趋势的具体描述。",
+   "url": "https://finance.yahoo.com/technology/ai/articles/reddit-rddt-eyes-higher-ai-161412422.html"
+  },
+  {
+   "title": "雪球热议：港股年内回购规模超900亿港元，6月创年内新高——腾讯、港交所、友邦领衔",
+   "summary": "Wind数据显示，2026年港股市场年内回购规模超900亿港元，6月无论回购家数还是金额均创年内月度新高。腾讯（5.01亿港元/6月30日单日）、港交所、友邦为代表性回购主力，雪球用户认为港股整体「股息率+回购/市值」指标已优于A股，仅次于美股成熟蓝筹。",
+   "source": "雪球",
+   "why": "港股回购加速是H4/H5「王者归来」模式的重要印证——优质公司主动在低位买回股份，是管理层对自身价值判断的硬信号。腾讯持续高强度回购对估值底部提供有力支撑。",
+   "url": "https://xueqiu.com/S/00700"
+  },
+  {
+   "title": "X/Twitter财经大V：Kyber延期令AMD MI500X+Google TPUv8i获得追赶窗口，CRDO/MRVL/ALAB短期受益",
+   "summary": "SemiAnalysis发布Kyber延迟分析后，X平台InvestingVisual等大V迅速解读：CPO时间轴后推意味着现有可插拔光模块（CRDO/COHR/ALAB）受益期延长；同时NVDA在Rubin Ultra大规模扩展领域「缺乏经过验证的解决方案」，为AMD MI500X和Google TPUv8i提供追赶时间窗口，引发芯片竞争格局讨论热潮。",
+   "source": "X/Twitter",
+   "why": "供应链卡点叙事（H6）的实时验证场景：Kyber PCB延迟是真实物理制造卡点，让可插拔光模块供应商的价值窗口意外延长。也提示H7需更新——CRDO/COHR在利好催化下从高位进一步上涨，介入时机判断需重新校准。",
+   "url": "https://x.com/InvestingVisual/status/2074048375339577547"
+  }
+ ]
+}
