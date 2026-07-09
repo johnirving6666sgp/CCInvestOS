@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-09",
+ "items": [
+  {
+   "title": "美伊霍尔木兹海峡再度激化：Trump宣布停火'已结束'，油价单日暴涨+5%，Nasdaq -1.16%",
+   "summary": "7月8日，美军对伊朗发动系列打击（报复伊朗攻击商船），Trump在北约峰会称停火'已结束'并扬言封锁霍尔木兹海峡、占领Kharg岛。WTI原油两日涨幅超7%至$73.52，Brent升至$78.02；Nasdaq 7月8日收跌1.16%，S&P 500跌0.45%，而Nasdaq当日收盘时半导体板块反弹导致实际跌幅小于盘中。",
+   "source": "CNBC/NBC News",
+   "why": "地缘风险正在成为叠加在AI调整之上的第二层波动源——油价飙升推高通胀预期→压制美联储降息空间→科技估值承压。同时对日本（进口能源大国，丰田/索尼成本上升）和港股（风险偏好下行）形成压力。投资者需在AI叙事短暂松动+地缘能源冲击之间定位配置节奏。",
+   "url": "https://www.nbcnews.com/business/business-news/oil-prices-surge-stocks-tumble-trump-iran-ceasefire-over-hormuz-rcna353446"
+  },
+  {
+   "title": "DeepSeek自研AI推理芯片（Reuters报道）：NVDA单日跌2%，但次日因H200解禁预期反弹+3.5%",
+   "summary": "Reuters 7月7日曝光DeepSeek启动自研AI推理芯片项目（约一年前启动，早期阶段），意在减少对NVDA/华为依赖，引发芯片股恐慌；费城半导体指数单日跌5.7%，MU跌4.7%，SNDK跌10%。7月8日出现逆转——北京拟有限放行AI头部公司购买H200，NVDA当日+3.47%，Nasdaq半导体板块收复部分失地。",
+   "source": "Reuters/Benzinga/Investing.com",
+   "why": "这是本周最重要的芯片股叙事转折：短期恐慌（自研替代）被政策利好（H200有限解禁）快速对冲，但长期隐患依然存在——推理芯片市场正从NVDA主导逐步走向多元化。对CRDO（有源电缆/PCIe重定时器，偏推理侧）、CBRS（Wafer-Scale推理芯片）影响值得持续跟踪。",
+   "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-reportedly-develops-ai-chip-192001405.html"
+  },
+  {
+   "title": "Perplexity选择NVDA Vera芯片（胜过Intel和AMD）：AI应用层真实采购决策验证GPU生态护城河",
+   "summary": "CNBC/TipRanks报道，Perplexity AI在对NVDA Vera、Intel和AMD芯片进行AI推理速度测试后，选择NVDA Vera平台作为其核心基础设施。此消息恰在DeepSeek自研芯片报道同日出现，形成鲜明对比——应用层真实买家仍投票给NVDA。",
+   "source": "TipRanks/CNBC",
+   "why": "验证假设H1：AI基建需求并未因自研芯片恐慌而实质性改变采购决策。NVDA CUDA生态锁定效应（切换成本极高）是分析师维持$300目标价的核心逻辑。这也反击了'大模型公司全面转向自研'的悲观叙事。",
+   "url": "https://www.cnn.com/markets/stocks/NVDA"
+  },
+  {
+   "title": "Samsung Q2营收+19倍超预期却暴跌6.25%：好数据遇上'利多出尽'，AI内存板块逻辑转折点信号",
+   "summary": "三星Q2营业利润同比增长约19倍，超越过去三年累计利润总和；但股价当日暴跌6.25%至277,500韩元。背景：市场对AI内存（HBM3E）定价前景出现分歧，叠加全球芯片板块整体承压，导致'基本面超预期但股价大跌'的反直觉现象。MU同日下跌4.7%。",
+   "source": "TradingKey/Brecorder",
+   "why": "AI内存板块（MU、SK Hynix、Samsung）正在经历'成长股的估值重评'——即便收入超预期，若增速预期已被充分定价，股价仍可大幅下跌。这为H7假设（Chokepoint公司处高位）提供新证据：MU YTD+300%后遭遇估值消化期，介入需等待更大回调。",
+   "url": "https://www.tradingkey.com/news/market-movers/262018374-market-movers-nvda-20260708"
+  },
+  {
+   "title": "Cerebras CEO演讲澄清毛利率'被误解'，Cathie Wood ARK抄底$2250万——AI芯片新秀的高波动博弈",
+   "summary": "CBRS首份财报后CEO Andrew Feldman接受CNBC专访称毛利率指引被市场误读，强调公司正从niche硬件向AI基础设施提供商转型；Cathie Wood ARK于6月24~25日合计买入约10万股CBRS（约$2250万），信号明确。分析师UBS目标价$320、Needham $300，Wedbush $280。",
+   "source": "CNBC/TipRanks/QuiverQuant",
+   "why": "CBRS是2026年最高风险/高回报的AI芯片押注：从$386高点跌至$182，市值蒸发超过一半，但营收超预期+Cathie Wood背书+多家机构高目标价构成反弹基础。关键节点：9月2日下季财报。若毛利率轨迹改善，将触发强力王者归来信号。",
+   "url": "https://www.cnbc.com/quotes/CBRS"
+  }
+ ]
+}
