@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-10",
+ "items": [
+  {
+   "title": "AI财报季开幕：Mag7 capex回报是市场下半年的最大考题",
+   "summary": "7月下旬起MSFT(7/29)、Meta、Alphabet、Amazon将陆续公布Q2/Q4财报。投资者核心问题只有一个：数千亿美元AI基础设施开支是否开始转化为可见的收入增长和利润率改善？若答案为否，AI估值泡沫可能面临系统性重评。",
+   "source": "财经媒体",
+   "why": "这是下半年市场最大的方向性二元事件。NVDA/AVGO/CRWV/NBIS/CLS等AI供应链标的的走势将高度取决于Mag7 capex guidance是否继续上调。",
+   "url": "https://finance.yahoo.com/video/capex-spending-ai-power-markets-191310327.html"
+  },
+  {
+   "title": "Apple×Broadcom $300亿+芯片协议：'美国制造'叙事成为大盘AI链新催化剂",
+   "summary": "Apple宣布$300亿+对Broadcom的芯片采购协议，锁定至2031年，并追加$15亿扩产投资。这不仅是AVGO的利好，更向市场传递信号：大型科技公司在关税压力下加速推进'美国本土芯片供应链'战略，将带动一批美国半导体制造商受益。",
+   "source": "财经媒体",
+   "why": "触发AI供应链重新定价：与其炒'芯片出口'，不如看美国本土半导体制造业的政策红利。AVGO是本次最直接受益者，同时对PWR（数据中心建设）形成间接利好叙事。",
+   "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html"
+  },
+  {
+   "title": "MSFT Copilot集体诉讼升温：'AI投入讲故事vs实际交付'的司法层面裁决将至",
+   "summary": "多家律所对MSFT发起证券集体诉讼，指控其在2025年5月-2026年1月间就Copilot采用率和Azure AI回报存在重大虚假陈述。WSJ曾报道Copilot面临'品牌定位混乱+互操作性问题'。诉讼索赔截止日8月11日，法庭审判或历时2-4年。",
+   "source": "财经媒体",
+   "why": "这将成为'AI商业化兑现'最具代表性的司法测试。若MSFT 7月29日财报能展示Copilot的实质增长数据，诉讼影响将被基本面压制；若不能，市场情绪可能因此形成负反馈。对MSFT投资者而言这是近期最值得监控的尾部风险。",
+   "url": "https://www.globenewswire.com/news-release/2026/07/08/3324319/9788/en/Bronstein-Gewirtz-Grossman-LLC-Urges-Microsoft-Corporation-Investors-to-Act-Class-Action-Filed-Alleging-Investor-Harm.html"
+  },
+  {
+   "title": "Neocloud板块（CRWV/NBIS/IREN）：Meta竞争恐慌后的超跌反弹，结构性分歧依然尖锐",
+   "summary": "7月8日CRWV/NBIS/IREN集体反弹，市场开始质疑Meta Cloud威胁是否被过度定价。Morgan Stanley认为Meta neocloud策略与超大规模云厂商直接竞争模式不同；但Bernstein和BNP仍持谨慎立场，认为定价压力是真实且长期的。CRWV内部人90天套现超$30亿是最大隐忧。",
+   "source": "TipRanks/财经媒体",
+   "why": "Neocloud板块的每日波动已成为AI基建牛熊情绪的晴雨表。CRWV距高点-43%、NBIS距高点-25%，但基本面（$99.4亿积压+112%增长）与技术面（日线均线全线压制）形成极度分裂。这类'基本面强但技术面弱'的错杀局面，正是P1模式需要持续跟踪的窗口。",
+   "url": "https://www.tipranks.com/news/crwv-nbis-iren-why-neocloud-stocks-bounced-back-on-7-8-26"
+  },
+  {
+   "title": "NVDA Nemotron 3 Ultra发布+H200中国松动信号：双重催化撑起AI'基础设施叙事'",
+   "summary": "本周NVDA收到两项积极信号：①官方发布Nemotron 3 Ultra模型（低成本超越顶级闭源模型）；②The Information报道中国拟允许顶级AI公司购买H200，NVDA应声反弹。NVDA当前约$202，前向PE约22x为七年低点，BofA/TD Cowen双双重申买入。",
+   "source": "财经媒体/NVIDIA Newsroom",
+   "why": "NVDA是最核心的AI基建代理标的，两个催化剂都指向同一方向：AI推理需求加速+中国市场潜在重开。但H200出口政策实际落地进展仍不明朗，需持续跟踪实际出货数据。对H1（AI基建capex持续加速）构成增强证据。",
+   "url": "https://www.cnn.com/markets/stocks/NVDA"
+  }
+ ]
+}
