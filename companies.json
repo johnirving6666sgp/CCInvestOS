@@ -289,9 +289,9 @@
    "ticker": "MU",
    "market": "US",
    "name_zh": "美光科技",
-   "status": "观察",
-   "reason": "标注",
-   "date": "2026-06-16",
+   "status": "喜欢",
+   "reason": "标注(依据 MU-20260702-02)",
+   "date": "2026-07-10",
    "origin": "网页标注",
    "history": [
     {
@@ -307,6 +307,11 @@
     {
      "date": "2026-06-16",
      "status": "不喜欢",
+     "reason": "标注"
+    },
+    {
+     "date": "2026-06-16",
+     "status": "观察",
      "reason": "标注"
     }
    ]
