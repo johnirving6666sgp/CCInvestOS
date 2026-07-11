@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-11",
+ "items": [
+  {
+   "title": "SK Hynix美国ADR 7倍超额认购：AI内存需求热度未减，机构资金仍在涌入",
+   "summary": "SK Hynix即将发布的美国ADR据报获7倍以上超额认购，成为过去一周芯片板块最热资本市场事件之一。Hynix过去一年股价涨超7倍，以HBM供应为核心价值支撑。",
+   "source": "财经媒体",
+   "why": "超额认购信号说明机构对HBM/AI内存的中期需求仍高度看多，对持有MU（同赛道）的投资者是正面验证；也侧面说明市场并未真正认为AI基建资本开支见顶（H1增强）。",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/07/09/stock-market-today-july-9-ai-chip-technology-stocks-rally-overcoming-ceasefire-worries/"
+  },
+  {
+   "title": "Meta AI芯片9月量产+自建云算力：neocloud竞争压力进入实质落地阶段",
+   "summary": "路透7月9日报道Meta计划9月开始制造定制AI芯片，2027年算力目标14GW；同时Meta Compute已开始向外部出售过剩算力。Meta CEO扎克伯格本周亲自解释为何'AI云业务有意义'，市场担忧CRWV/NBIS等neocloud定价权受压。",
+   "source": "Reuters/TipRanks",
+   "why": "这是过去2周影响CRWV/NBIS最大的单一变量。Meta从'最大客户'变成'潜在竞争者'，定价压力是真实的。对CRWV持仓者：$1000亿积压中Meta占比是关键，8月18日财报必须披露。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-10-075400187.html"
+  },
+  {
+   "title": "Strait of Hormuz冲突+油价飙升：地缘风险成美股最大宏观变量，AI板块呈现避风港效应",
+   "summary": "美伊在霍尔木兹海峡的军事冲突持续升温，油价明显走高。在此背景下7月8日-10日美股波动加大，但AI/半导体板块展现出相对抗跌性，Nasdaq最终周线收涨。PepsiCo因消费者信心走弱/高油价承压，消费类股领跌。",
+   "source": "CNBC/Schwab",
+   "why": "地缘风险成为Q3的新宏观变量，但AI capex（内需驱动）相对免疫，这反而使得NVDA/MSFT/MU等AI基建股具备防御属性。投资者应关注7月14日CPI数据和Fed主席Warsh国会证词对利率走势的影响。",
+   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+  },
+  {
+   "title": "Q3财报季正式开启：7月14日大型银行+CPI数据双重催化，AI公司窗口7月底至8月",
+   "summary": "7月14日JPMorgan/BofA/Goldman/Wells Fargo/Citigroup集体发财报，同日公布6月CPI；7月15日ASML财报；7月16日TSM财报；7月28/30日MSFT/TEM财报；8月5-20日NVDA/CRWV/CBRS陆续登场。整个Q3财报季将是AI资本开支ROI的集中验证窗口。",
+   "source": "Schwab/Motley Fool",
+   "why": "对用户持仓高度相关：MSFT(7/28)、TEM(7/30)是最近的两个关键节点，能否给出Copilot采用率实证和EBITDA正转将直接决定短期走势。NVDA(8月底)是季度最大事件。建议投资者在7月14日CPI前后根据利率走向调整仓位结构。",
+   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+  },
+  {
+   "title": "腾讯减持快手$15亿港元股份：从战略持股转向资本优化，回购资金或继续向外开放",
+   "summary": "7月7日，腾讯以43.25港元出售2.73亿快手股票，筹资约$15亿港元，较市价折扣6%。同期腾讯参投可灵AI $30亿融资，形成'减持成熟股权→投入早期AI资产'的资本再配置逻辑。",
+   "source": "Bloomberg/CNBC",
+   "why": "对腾讯投资者：减持快手是积极信号，说明腾讯管理层在主动优化资本结构（释放流动性）并再投AI（可灵）。结合持续回购（过去10日50亿港元），腾讯的股东回报方向清晰，但股价仍在低位（-32%）。",
+   "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html"
+  }
+ ]
+}
