@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-12",
+ "items": [
+  {
+   "date": "2026-07-12",
+   "ticker": "ONTO",
+   "market": "US",
+   "name_zh": "Onto Innovation",
+   "pattern": "瓶颈猎手（Chokepoint Hunter）",
+   "thesis": "HBM/先进封装（CoWoS/2.5D）检测的物理卡点——每颗NVDA Blackwell GPU的HBM堆叠必须经过ONTO Dragonfly平台验证才能出货；AI封装良率瓶颈无法绕过，但市值仅约$70亿，机构覆盖仍低于NVDA/MU等核心芯片股。",
+   "price_evidence": "ONTO 7月10日收盘$321.44，年初至今+94%，过去一年+212%；分析师中位目标$350-410；Q2指引$320-330M（环比加速）；7月8日因AI芯片情绪回暖单日+4.8%。52周范围大致$140-$380，当前处于高位约75-80%区间——H7条件（低位触发）尚未满足，需等待板块性回调至40%以下。",
+   "key_question": "① ONTO当前处高位，回撤至$250以下且基本面无重大恶化时才符合H7触发条件；② Dragonfly G5资格认证是否扩展至更多HBM4客户？③ $1.3B可转债发行是否稀释长期EPS增长？④ 客户集中度（TSMC/SK Hynix）是否构成单点风险？",
+   "status": "待反馈"
+  }
+ ]
+}
