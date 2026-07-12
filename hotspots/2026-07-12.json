@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-12",
+ "items": [
+  {
+   "title": "AI芯片设备超级周期：AMAT/KLA/ONTO/Lam集体验证——设备层正成为2026年最确定的AI受益卡点",
+   "summary": "24/7 Wall St.今日（7月11日）深度报告：Applied Materials将2026年半导体设备增速预期从>20%上调至>30%；KLA批准$70亿回购；Lam创季度记录；Onto Innovation Q2指引$320-330M。分析师形容这是'协调性资本开支洪流，设备商是收费站'。ONTO年初至今已涨94%、过去一年涨212%。",
+   "source": "财经媒体",
+   "why": "设备层（AMAT/KLA/ONTO/Lam）正从AI投资叙事转向实际订单和营收兑现，是H6、H8假设最直接的实证。Onto Innovation（ONTO）特别值得关注：HBM/2.5D先进封装检测的物理卡点，YTD已涨94%但基本面继续加速，需评估是否仍有安全边际。",
+   "url": "https://247wallst.com/investing/2026/07/11/these-5-chip-stocks-are-riding-the-ai-fab-spending-wave/"
+  },
+  {
+   "title": "SK海力士正式登陆纳斯达克ADR，HBM垄断地位吸引全球资金；规模或达$280亿成史上最大ADR之一",
+   "summary": "SK Hynix于7月9日在纳斯达克挂牌，计划通过ADR融资约$280亿，公司一年内已涨逾7倍，市值约$1万亿。SK Hynix在HBM市场占超50%市场份额，是NVDA AI芯片关键内存供应商。",
+   "source": "财经媒体",
+   "why": "HBM供应链的全球流动性事件，强化MU的竞争压力与估值对比；同时验证AI基建资本开支（H1）的货币化路径。对NVDA-MU-AI芯片整个生态的估值体系有参考意义。",
+   "url": "https://ts2.tech/en/nvidia-shares-edge-higher-in-new-york-one-key-china-risk-still-lingers/"
+  },
+  {
+   "title": "中国AI算力Token支出指数较5月高点跌约20%：AI信仰震荡期，算力股面临叙事分叉",
+   "summary": "四大证券报/新浪财经援引报道：衡量AI实际使用热度的Token支出指数较5月高点下跌约20%，叠加Meta出租富余算力信号，触发全球AI算力股7月初普遍回调。分析认为AI基础设施从'普遍乐观'走到'关键分歧点'。",
+   "source": "雪球/新浪财经",
+   "why": "这是H1假设最重要的潜在'反例'信号——若AI实际使用量（Token消耗）增速放缓，AI基建资本开支回报率预期将受冲击。需密切跟踪Q2财报季hyperscaler的actual workload数据，是H1假设的核心证伪观察点。",
+   "url": "https://finance.sina.com.cn/stock/y/2026-07-10/doc-inihhkuk3977698.shtml"
+  },
+  {
+   "title": "Reddit/r/wallstreetbets热议：NVDA、NBIS、AMZN居最多提及股；Netflix提及量24小时+176%",
+   "summary": "AltIndex数据（7月10日更新）：Reddit过去24小时最多提及NVDA、NBIS、AMZN，三者AI评分和情绪均看多；Netflix提及量激增176%可能与Q2财报预期相关；Teradyne、Onto Innovation等设备股也在讨论圈升温。",
+   "source": "Reddit",
+   "why": "零售资金情绪领先机构半拍——NBIS持续高热度反映散户对neocloud叙事的坚持；而设备股ONTO等升温说明聪明散户资金正向更深供应链层渗透，与H6假设方向一致。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "腾讯游戏Q2版号监管：国家新闻出版总署Q2累计批准483个游戏版号，同比+13%，游戏板块港股集体大涨",
+   "summary": "GF Securities/Morningstar数据：国家新闻出版总署2026年Q2共批准483个游戏版号，同比增长13%，Morningstar分析师Ivan Su认为版号供给正常化使其'不再是影响盈利性的主要因素'。游戏板块7月5日港股爆涨，腾讯领涨。",
+   "source": "GuruFocus/财经媒体",
+   "why": "游戏版号监管是腾讯估值压制的核心原因之一。Q2+13%同比增长属于版号供给正常化的实证验证，是腾讯H2假设（市场低估AI投入+游戏监管改善）的双重修复信号。",
+   "url": "https://www.gurufocus.com/news/8944778/mobile-game-stocks-surge-tencent-tcehy-and-bilibili-bili-lead-the-rally"
+  }
+ ]
+}
