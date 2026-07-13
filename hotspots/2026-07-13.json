@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-13",
+ "items": [
+  {
+   "title": "SK Hynix（SKHY）今日正式切换Nasdaq常规交易，全球最大外资IPO（$265亿）开启正式定价",
+   "summary": "SK Hynix上周五以$149/ADR定价，首日开盘$170（+14%），今日（7月13日）从临时代码SKHYV正式切换至SKHY常规交易。本次为史上最大外资美股IPO，超Alibaba 2014年记录。七倍超额认购，Baillie Gifford/Coatue等角石投资者认购$70亿。SK Hynix控制全球57%高带宽内存（HBM）市场份额，营收同比+198%，毛利率超70%。",
+   "source": "TechCrunch / Nasdaq Trader",
+   "why": "SK Hynix是NVDA Blackwell GPU的HBM3E唯一核心供应商，其Nasdaq上市将AI内存供应链从韩国引入美股生态，为MU、NVDA等AI基建投资者提供直接同行参照。SK Hynix CEO已表示HBM供给短缺将延续至2030年后，是今日最强AI供需约束信号。",
+   "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
+  },
+  {
+   "title": "超大规模数据中心capex 2026年升至$7500亿，2027年突破$1万亿；McKinsey预测2030年全球AI数据中心总投入$7万亿",
+   "summary": "Yahoo Finance汇总数据显示四大超大规模数据中心（AWS/Azure/Google/Meta）2026年AI资本开支已升至$7500亿，2027年预计超$1万亿。McKinsey预测全球AI驱动的数据中心基础设施累计投入2030年将达$7万亿，Moody's估算四大超大规模厂商五年内资本投入超$3万亿。",
+   "source": "Yahoo Finance / McKinsey / Moody's",
+   "why": "这是本周AI基建投资主线最核心的宏观锚点，直接支撑H1（AI基建capex持续加速）、H6（物理卡点价值迁移）和H8（能源/电力/冷却层景气确认）三个假设。对PWR/CLS/IRM/NBIS等AI基建物理层公司构成持续催化。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-7-100000088.html"
+  },
+  {
+   "title": "CNBC：AI正进入'新阶段'，华尔街从'AI euphoria'转向'AI rationalization'，关注盈利兑现能力",
+   "summary": "CNBC 7月11日报道，分析师认为AI正从基础设施狂热期进入理性化阶段——市场开始区分'真正有AI盈利变现能力'的公司与'仅有capex故事'的公司。这与MSFT替换OpenAI模型（控成本）、CBRS毛利率指引收窄（-10%~-19%单日跌幅）等实际事件吻合。",
+   "source": "CNBC",
+   "why": "这一'从故事到盈利'的结构性转变是7月财报季最重要的评估框架：MSFT（7/29）、TEM（7/30）、CLS（7/27）的核心看点已从增速转向毛利率与EBITDA路径。对CRWV、CBRS等仍在亏损扩张阶段的公司估值压力持续。",
+   "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html"
+  },
+  {
+   "title": "Reddit社区与自媒体本周热议：NVDA、NBIS、Netflix涨幅最大，AI内存短缺叙事成最强共识",
+   "summary": "AltIndex数据（7月10日截止24小时）显示Reddit全平台最多提及股票为NVDA、NBIS、AMZN，情绪整体看多。Netflix因未披露的催化因素Reddit提及量飙升1216%。Nebius（NBIS）2026年YTD已涨240%+，Reddit与机构双重看多但估值已高。",
+   "source": "AltIndex / Reddit r/stocks",
+   "why": "NBIS是用户观察池成员，Reddit热度叠加Nasdaq-100纳入后机构被动资金流入，但NBIS已处于52周高位（距高点-23.4%），不满足H7的介入窗口条件。Netflix异常热度值得周内追踪（可能是Q2财报预热）。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "微软MAI模型替代OpenAI/Anthropic在Office产品内部署，OpenAI-MSFT关系重新定价风险引爆市场讨论",
+   "summary": "Bloomberg确认微软已在Excel和Outlook中用自研MAI模型替换OpenAI和Anthropic，每周处理数万次提示。此举被市场解读为MSFT主动降低外部AI模型成本依赖，但同时引发对'OpenAI IPO后MSFT持股价值'以及'Copilot商业化推进能否加速'的分析师辩论。MSFT 7月29日Q4财报是关键检验点。",
+   "source": "Bloomberg / CNBC",
+   "why": "直接影响MSFT估值的两大核心叙事（与OpenAI的协同价值、AI成本管控能力）同步受到检验，是Q4财报前最重要的提前观察窗口。对MSFT在52周-29%低位的价值投资者而言，这是双刃剑——降成本利好毛利，但OpenAI协同叙事弱化可能压低AI溢价。",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html"
+  }
+ ]
+}
