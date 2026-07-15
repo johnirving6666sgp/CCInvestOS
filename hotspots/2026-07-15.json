@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-15",
+ "items": [
+  {
+   "title": "6月CPI低于预期：同比3.5%，联储7月加息概率从42%骤降至17%",
+   "summary": "美国6月CPI环比下降0.4%，同比3.5%，均低于市场预期（环比-0.2%，同比3.8%）。联储7月会议加息概率从前一日42%跌至17%，半导体板块当日反弹，SMH ETF+2.5%，NVDA+4%，MU+5%。",
+   "source": "财经媒体",
+   "why": "通胀意外回落是2026年迄今最重要的宏观利好之一：直接降低AI高倍股折现率压力，为半导体/成长股反弹提供宏观支撑。但9月仍有60%概率加息，需持续跟踪。",
+   "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "WSB/Reddit热议：Oracle提及量暴增1045%，MU/NVDA持续领跑Reddit热度榜",
+   "summary": "截至7月14日，WallStreetBets 24小时内Oracle（ORCL）提及量暴增1045%。Reddit整体AI股讨论中，SpaceX（SPCX）、Micron（MU）、NVDA情绪最为积极，散户情绪显示对AI基建股的乐观情绪并未因7月初的回调而动摇。",
+   "source": "Reddit / AltIndex",
+   "why": "散户情绪指标领先于机构流量，Oracle的爆发式热度（可能与其AI数据中心合同消息相关）是需跟踪的发现信号；MU/NVDA持续强势印证AI叙事的散户共识稳固。",
+   "url": "https://altindex.com/wallstreetbets"
+  },
+  {
+   "title": "Meta云业务威胁持续发酵：Zuckerberg确认'AI云出租或有商业意义'，CRWV/NBIS再跌",
+   "summary": "Meta CEO扎克伯格公开表示AI云业务'may make sense'，Bloomberg内部备忘录显示Meta正在评估向开发者出租算力模型。CRWV/NBIS 7月13日再度急跌，CRWV已从高点跌去46%。CoreWeave $99.4亿积压中$35.2亿来自Meta——若Meta转为竞争者，这一依赖将成为重大风险。",
+   "source": "财经媒体/TipRanks",
+   "why": "Neocloud商业模式的护城河质疑正在系统化：无专有技术、纯算力租赁，当最大客户变成最大竞争对手，定价权将大幅下移。这是本轮AI基建投资叙事中最值得警惕的结构性风险。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-nebius-shares-slide-meta-141141929.html"
+  },
+  {
+   "title": "AMD Zen 6 Venice将于7月22日在Advancing AI 2026发布，Citi预期'行业震撼级公告'",
+   "summary": "AMD确认将在7月22日的Advancing AI 2026大会上发布Zen 6 Venice处理器，花旗研究员暗示将有'行业震撼级'公告，Stifel同步上调AMD目标价至$635。AMD当日+6%，AI CPU供需缺口或在2027-2028成为关键变量。",
+   "source": "TradingKey",
+   "why": "Zen 6发布是7月最重要的芯片产品事件，将直接影响AMD在AI服务器CPU市场与Intel/ARM的竞争格局，同时对Celestica/Coherent等AI服务器供应链构成潜在订单利好。",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262029542-amd-nvidia-ai-chip-zte-kingsoft-maginfra-h200-boa-620-cpu-tradingkey"
+  },
+  {
+   "title": "雪球热议：腾讯拟以$20亿回购Manus全部股权，AI Agent战略布局引发市场热炒",
+   "summary": "腾讯牵头中方资本拟从Meta手中回购通用AI Agent独角兽Manus全部股权（$20亿估值），腾讯保持少数股东地位。雪球社区热议此举对腾讯微信AI Agent生态的战略意义，认为是继混元大模型、微信AI助手之后的又一步棋。",
+   "source": "雪球/南方都市报",
+   "why": "Manus是全球AI Agent赛道最受关注的中国公司之一，腾讯入股将强化其在通用智能代理领域的战略地位，与14亿MAU微信生态形成潜在协同，是腾讯H2假设（AI重投入）的新证据。",
+   "url": "https://xueqiu.com/S/00700"
+  }
+ ]
+}
