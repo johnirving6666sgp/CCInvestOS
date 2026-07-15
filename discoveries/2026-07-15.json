@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-15",
+ "items": [
+  {
+   "date": "2026-07-15",
+   "ticker": "AMD",
+   "market": "US",
+   "name_zh": "超威半导体",
+   "pattern": "错杀成长",
+   "thesis": "AI CPU供需缺口2027-2028或达$10亿级别，Zen 6即将发布且中国获批H200同步利好AMD；股价从高位回撤约35%，叙事从'NVDA替代者'被压制至'配角'，但AI服务器CPU渗透率逻辑从未被证伪。",
+   "price_evidence": "AMD当日+6%至$566.73（7月14日），52周高位参考约$880+，当前回撤约35%，处于中位偏低区间；中国ZTE/Kingsoft获批AMD同级芯片，打开新需求入口。",
+   "key_question": "Zen 6 Venice 7月22日发布后AI服务器CPU渗透率数据是否超预期？MI455X Helios在Meta的Nvidia替代效果是否验证？",
+   "status": "待反馈"
+  }
+ ]
+}
