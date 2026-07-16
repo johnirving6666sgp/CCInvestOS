@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-16",
+ "items": [
+  {
+   "date": "2026-07-16",
+   "ticker": "SKHY",
+   "market": "US",
+   "name_zh": "SK海力士（美国ADR）",
+   "pattern": "戴维斯双击",
+   "thesis": "SK Hynix刚完成Nasdaq ADR上市，HBM内存市场份额领先，CEO明确表示HBM短缺或延续至2030年后；Barclays首次覆盖给Overweight，首日即涨27%后回落至$186区间，存在IPO后估值重评机会。",
+   "price_evidence": "7/14 Nasdaq上市首日涨27%至$186附近，目前在$186-$198 Fibonacci区间整理；52周高点$198（近期IPO定价区间顶部），当前距IPO后高点约-6%，属于'上市初期回调观察期'而非深度回撤。",
+   "key_question": "①SK Hynix HBM4市场份额能否维持vs Micron追赶？②Barclays超配评级的估值模型（Overweight）隐含合理P/B是多少？③ADR流动性与韩国本地股之间的套利折价是否已收敛？",
+   "status": "待反馈"
+  }
+ ]
+}
