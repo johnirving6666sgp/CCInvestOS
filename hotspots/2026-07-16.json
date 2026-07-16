@@ -1,0 +1,47 @@
+{
+ "date": "2026-07-16",
+ "items": [
+  {
+   "title": "IBM暴跌25%创1968年以来最大单日跌幅：CEO证实企业客户6月底将软件预算转向AI硬件采购",
+   "summary": "IBM 7/14发布Q2预警，营收$17.2B vs预期$17.86B，CEO Arvind Krishna明确表示'客户将季度资本开支转向服务器、存储和内存采购以应对供应短缺和价格预期上涨'。软件/咨询板块遭殃：ServiceNow -7%、Salesforce -5%、Accenture -8%。IBM当日蒸发约$700亿市值。",
+   "source": "财经媒体",
+   "why": "IBM事件是AI基础设施建设挤出传统企业软件支出的第一个重量级实证，直接影响MSFT（7/29财报）、Salesforce等软件股的预期叙事。同时从反面印证H1（AI基建支出仍在加速）——企业客户优先购买硬件以锁定供应，正是AI基建建设期的典型行为。对NVDA/MU/AI供应链构成正面背书，对企业软件构成定价风险。",
+   "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"
+  },
+  {
+   "title": "CoreWeave探索内存价格衍生品对冲，触发MU -7%：大型AI云客户开始预判内存价格周期顶部",
+   "summary": "路透社报道CoreWeave正探索用看跌期权对冲未来内存价格下跌风险；SK Hynix完成Nasdaq上市并宣布持续扩产至2030年，双重信号引发市场对AI内存超级周期'提前见顶'的担忧，导致MU单日跌7%+。",
+   "source": "Reuters / TipRanks",
+   "why": "这是MU/SK Hynix内存超级周期预期面临的第一个实质性挑战信号。与IBM事件结合看：AI建设期短期加速购硬件→内存供应扩张→2027-2028年潜在价格松动。投资者需重新评估MU的入场时机。KeyBanc当日仍上调MU目标价（认为供紧持续至2027年），形成分歧。",
+   "url": "https://seekingalpha.com/news/4613809-coreweave-eyes-derivatives-to-hedge-memory-chip-price-risks-report"
+  },
+  {
+   "title": "TSMC Q2 2026财报今日发布（7/16）：AI芯片占比61%、营收+36%，管理层指引是整个AI板块的方向标",
+   "summary": "TSMC今日正式公布Q2业绩，AI芯片贡献61%营收，同比+36%至$39.62B。市场核心关注三个信号：①全年指引是否再次上调；②CoWoS封装产能扩张进度（年底目标12.5~13万片/月）；③NVDA/AMD/定制芯片2H 2026需求是否仍在加速。",
+   "source": "财经媒体",
+   "why": "TSMC财报是芯片行业最重要的中期基本面验证节点。指引上调=AI资本支出周期仍有上行空间，直接驱动NVDA/AVGO/CLS/CRDO等供应链重新定价。今日财报结果将决定整个AI基建板块的短期走向，包括本组合中多只核心持仓。",
+   "url": "https://www.fxleaders.com/news/2026/07/15/tsmc-tsm-stock-slips-despite-strong-ai-chip-demand-and-robust-revenue-growth/"
+  },
+  {
+   "title": "纽约州对超大规模数据中心实施全州暂停令：AI基础设施扩张面临地方监管新变量",
+   "summary": "纽约州宣布对超大规模数据中心建设实施全州暂停令，给CoreWeave、Nebius等数据中心密集型AI云公司带来选址和扩张风险。",
+   "source": "TipRanks",
+   "why": "数据中心能源许可和选址监管是H6/H8（电力层是AI基建下一卡点）假设的关键风险来源。纽约州暂停令若蔓延至其他州，将对CRWV/NBIS/IRM等数据中心资产的估值逻辑形成压力，同时反而利好PWR等电力基础设施建设公司（监管约束=更稀缺的基础设施位置=更高的现有资产溢价）。",
+   "url": "https://www.cnn.com/markets/stocks/CRWV"
+  },
+  {
+   "title": "微信AI Agent连接测试推进中：腾讯股价+3.9%；摩根大通指出Agent推出是降低风险溢价的核心催化剂",
+   "summary": "微信AI Agent已与小程序开发者进行连接测试，更多服务商加入试点计划，美银指出这是'取得更实质进展'的信号。摩根大通维持增持，认为微信Agent推出将降低腾讯的AI商业化不确定性溢价。Q4正式公测预期正在形成。",
+   "source": "东方财富 / 163.com",
+   "why": "微信AI Agent将14亿MAU流量转化为AI应用分发渠道的叙事，是腾讯估值逻辑从'互联网平台PE'切换至'AI平台乘数'的核心触发器。目前腾讯在52周低位区间（距高点-30%），若Q4公测数据超预期，将是H2（AI重投入公司估值修复）最有力的案例。",
+   "url": "https://caifuhao.eastmoney.com/news/20260610141629792817690"
+  },
+  {
+   "title": "AI供应链分化加剧：IBM代表的'传统IT软件'与NVDA/MU代表的'AI硬件'正式走向相反方向",
+   "summary": "7/14-15两天，IBM -25%（企业软件预算被硬件挤出）、MU -7%（供应担忧），同时NVDA +4%（H200出货+TSMC预期）、MSFT +3%（AI业务加速）。市场正在实时完成AI产业链的估值重排。",
+   "source": "Reddit r/stocks / 雪球热帖",
+   "why": "这是H6假设（价值从GPU层向基础设施隐形卡点迁移）的实时演示。软件层（IBM）被挤出，硬件层（MU/NVDA）受益，中间层（MSFT/AVGO）成为叙事分叉点——谁能同时拥有'硬件卡点+软件粘性'才能跑赢。对MSFT 7/29财报的预期至关重要。",
+   "url": "https://247wallst.com/investing/2026/07/15/ibm-just-crashed-if-wall-street-pros-are-right-the-stock-could-soar-from-here/"
+  }
+ ]
+}
