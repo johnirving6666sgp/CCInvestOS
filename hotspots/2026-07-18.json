@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-18",
+ "items": [
+  {
+   "title": "TSMC Q2创纪录：净利+77%、HPC占66%、全年指引升至>40%——但股价盘后跌1.55%",
+   "summary": "TSMC营收$402亿（+36% YoY）超预期，净利润创单季历史新高，HPC/AI芯片占比升至66%；CEO同步宣布追加$1000亿亚利桑那投资；尽管业绩全面超预期，股价盘后下跌1.55%，市场担忧重资本支出压制毛利率。",
+   "source": "财经媒体",
+   "why": "TSMC是全球AI芯片最重要的晴雨表：其业绩超预期而股价不涨，折射出市场对'巨额capex是否能转化为利润'的系统性质疑。这一'好业绩坏股价'模式正在AI供应链中蔓延（见NVDA/CLS近期走势），是H1增强但H7（高位谨慎）并存的典型案例。",
+   "url": "https://www.techtimes.com/articles/320696/20260716/tsmc-posts-record-quarter-ai-chip-demand-pushes-full-year-growth-outlook-past-40.htm"
+  },
+  {
+   "title": "Citi：Google/Meta/Amazon 2027年AI capex合计超$8000亿，三者或同时陷入FCF负值",
+   "summary": "Citi大幅上调超大规模云厂商资本开支预测，预计2027年三大合计超$8000亿，导致每家公司2027-2028年自由现金流转负。Mag7 2026年AI开支合计已达$7250亿。",
+   "source": "财经媒体",
+   "why": "FCF转负的超大规模厂商意味着：①融资需求激增（债券/股票供给扩大）；②对AI供应链上游（GPU、光模块、电力施工）是强需求信号；③资本市场对AI 'payback period'的质疑将在Q2财报季集中爆发，投资者需区分'因为无回报而卖'与'因为太贵而等'两种情绪。",
+   "url": "https://www.tipranks.com/news/amzn-meta-googl-citigroup-says-ai-capex-to-exceed-800-billion-in-2027"
+  },
+  {
+   "title": "Netflix Q2财报后跌超8%：广告营收增长不及预期，成Q2财报季第一只'坏消息'催化剂",
+   "summary": "Netflix Q2 2026财报发布后盘后跌超8%，广告支持订阅收入增速不及分析师预期，引发市场对流媒体广告变现路径的担忧，同步拖累7月16日纳斯达克当日走势。",
+   "source": "TipRanks",
+   "why": "Netflix是非AI板块的第一只Q2财报'响雷'——提醒投资者：即便AI板块capex数据极强，个股执行层面的未达标仍会引发抛售。财报季中MSFT(7/29)/NVDA/AVGO等核心持仓公司的'执行层验证'风险需同步纳入视野，而非仅关注需求面数据。",
+   "url": "https://www.cnbc.com/quotes/NFLX"
+  },
+  {
+   "title": "COHR单日跌7.49%：NVDA主导AI光学扩张被解读为竞争威胁，光模块板块集体承压",
+   "summary": "Coherent Corp大跌7.49%，Applied Optoelectronics跌12%，Lumentum亦受拖累。导火索是关于NVDA可能在AI光学互联层扩大自建或合作伙伴范围的消息，引发市场对COHR/LITE等纯光学供应商竞争格局变化的担忧。",
+   "source": "Smartkarma",
+   "why": "AI供应链价值重分配风险在光模块层具象化：NVDA战略延伸进入互联层，可能引发该层估值体系重塑。对用户持仓COHR而言，此次跌幅(-37%距高点)已触达H7定义的观察下行区间，同时需重新评估NVDA是竞争者还是客户的问题——当前主流分析师认为是后者（COHR是NVDA芯片封测和互联的关键供应商）。",
+   "url": "https://www.smartkarma.com/home/market-movers/coherent-corp-s-stock-price-plummets-to-276-96-recording-a-sharp-7-49-drop/"
+  },
+  {
+   "title": "MSFT 7月29日Q4财报前关键：Morgan Stanley给$650目标、Citi确认'AI首要供应商'，但Citi同步小幅下调目标价",
+   "summary": "Morgan Stanley 7月16日重申MSFT AI领导地位'清晰可见'，Azure/M365/Copilot需求强劲，目标价$650（60%上行）。同日Citi确认MSFT是企业增加AI支出最优先选择的供应商，但小幅下调目标价反映capex担忧。多家机构发布Buy研报，54家分析师中多数维持买入。",
+   "source": "TipRanks / 24/7 Wall St",
+   "why": "MSFT是7月29日财报季最受关注的AI巨头之一，当前价格$393处于52周低位区间（-27%），P3错杀成长+P2戴维斯双击条件已部分就位。MS 60%上行目标是当前可见最强多头声音，但需要Q4财报中Azure增速≥35%+毛利率稳定作为基本面验证。财报前12天是关键观察窗口。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/over-60-analysts-buy-microsoft-150021008.html"
+  }
+ ]
+}
