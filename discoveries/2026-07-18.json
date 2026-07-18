@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-18",
+ "items": [
+  {
+   "date": "2026-07-18",
+   "ticker": "NBIS",
+   "market": "US",
+   "name_zh": "Nebius集团",
+   "pattern": "王者归来",
+   "thesis": "已排除（在观察池中），略过",
+   "price_evidence": "已在观察列表",
+   "key_question": "N/A",
+   "status": "已在观察列表，排除"
+  }
+ ]
+}
