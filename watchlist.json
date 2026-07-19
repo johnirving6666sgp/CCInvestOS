@@ -187,6 +187,13 @@
    "name": "IREN Limited（原Iris Energy，AI算力基础设施）",
    "name_zh": "IREN Limited（原Iris Energy，AI算力基础设施）",
    "focus": []
+  },
+  {
+   "ticker": "BDX",
+   "market": "US",
+   "name": "Becton Dickinson（医疗器械百年王者）",
+   "name_zh": "Becton Dickinson（医疗器械百年王者）",
+   "focus": []
   }
  ]
 }
