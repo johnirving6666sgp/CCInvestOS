@@ -194,6 +194,13 @@
    "name": "Becton Dickinson（医疗器械百年王者）",
    "name_zh": "Becton Dickinson（医疗器械百年王者）",
    "focus": []
+  },
+  {
+   "ticker": "TEAM",
+   "market": "US",
+   "name": "Atlassian（协作软件王者）",
+   "name_zh": "Atlassian（协作软件王者）",
+   "focus": []
   }
  ]
 }
