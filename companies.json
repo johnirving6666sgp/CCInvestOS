@@ -421,6 +421,16 @@
      "reason": "标注(依据 AVGO-20260716-01)"
     }
    ]
+  },
+  {
+   "ticker": "IREN",
+   "market": "US",
+   "name_zh": "IREN Limited（原Iris Energy，AI算力基础设施）",
+   "status": "喜欢",
+   "reason": "标注",
+   "date": "2026-07-19",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
