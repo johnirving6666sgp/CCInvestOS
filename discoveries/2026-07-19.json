@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-19",
+ "items": [
+  {
+   "date": "2026-07-19",
+   "ticker": "IREN",
+   "market": "US",
+   "name_zh": "IREN Limited（原Iris Energy，AI算力基础设施）",
+   "pattern": "王者归来",
+   "thesis": "Neocloud赛道（AI算力租赁）逻辑与CRWV/NBIS一致，但市值更小、估值更低；$34亿NVIDIA合同锚定，近一个月暴跌约40%，Cantor/分析师预期100%+上行，处于深度低位。",
+   "price_evidence": "CNBC/TipRanks报道：IREN近一个月跌幅约28-41%，股价处于极低位；17位分析师预期100%+上行；已获$3.4亿NVIDIA合同，属于AI算力赛道真实收入验证标的。",
+   "key_question": "IREN自建vs租用GPU的成本结构是否支撑盈利路径？当前负债率与运营现金流是否能支撑至2027年不需要稀释性融资？GPU定价压力（JPMorgan已下调至卖出）对IREN的冲击是否比NBIS/CRWV更大？",
+   "status": "待反馈"
+  }
+ ]
+}
