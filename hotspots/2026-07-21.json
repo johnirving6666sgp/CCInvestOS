@@ -1,0 +1,47 @@
+{
+ "date": "2026-07-21",
+ "items": [
+  {
+   "title": "Kimi K3：2.8万亿参数中国开权重模型发布，触发AI芯片'第二次DeepSeek时刻'",
+   "summary": "Moonshot AI于7月17日发布Kimi K3（2.8T参数，全球最大开权重模型），在编程基准测试超越GPT-5.5和Claude Opus 4.8。Philadelphia半导体指数从6月峰值跌超20%进入熊市。7月27日将公开全量模型权重，届时性能声称可独立核验。",
+   "source": "CryptoBriefing / Yahoo Finance",
+   "why": "Kimi K3是2026年最重要的AI叙事冲击事件。它重新引发'美国AI基础设施支出是否过度'的讨论，直接影响NVDA/MU/AVGO估值逻辑。但从买方视角看，若性能属实反而验证了算力需求（更大模型=更多推理算力），属于'短期恐慌/长期确认'的经典错杀场景，7月27日是关键观察节点。",
+   "url": "https://cryptobriefing.com/moonshot-kimi-k3-ai-semiconductor-stocks-selloff/"
+  },
+  {
+   "title": "Citi：'Magnificent Seven'标签已死，AI基础设施资本部署继续分化",
+   "summary": "Citi分析师发报告称Mag7概念已失效，AI基础设施投资正在明显分化：AMD、IREN、硬件/物理基础设施公司获得持续加速资本投入；而HubSpot、Netflix等传统软件面临AI效率化冲击，市场奖励实物算力暴露而惩罚被AI威胁的商业模式。",
+   "source": "TipRanks / Everhint",
+   "why": "这一分化框架直接印证H6（AI供应链价值向物理卡点迁移）和H8（基础设施扩张期）。对监控池而言：IREN、CRWV、NBIS、CLS、PWR在这一框架下处于强势象限；同时提醒警惕AI替代叙事对MSFT等软件公司的估值压制。",
+   "url": "https://www.tipranks.com/news/citi-says-the-magnificent-seven-label-is-dead"
+  },
+  {
+   "title": "Bill Ackman警告：美国AI建设节奏滞后将使'民主处于风险之中'",
+   "summary": "亿万富翁投资者Bill Ackman公开发声称若美国不加快AI基础设施建设速度，将面临战略风险。这与同日AMD×微软Helios合作、IREN$28亿合同等实际资本行动形成呼应，显示顶级投资者对AI基建的紧迫感仍在升温。",
+   "source": "TipRanks",
+   "why": "顶级宏观投资者的公开表态往往是机构资金流向的先行信号，强化AI基础设施'国家战略必需品'的叙事，对H1（资本开支加速）和H8（电力/能源层确定性）是重要佐证。",
+   "url": "https://www.tipranks.com/news/bill-ackman-warns-us-about-slow-ai-buildout"
+  },
+  {
+   "title": "大股东买入：美国参议员Angus King于7月21日买入MSFT股票",
+   "summary": "MarketBeat显示美国参议员Angus S. King Jr.于7月21日买入价值$1000-$15000的MSFT股票，形成国会成员看涨信号。背景：MSFT下跌约20% YTD，临近7月29日Q4财报，德银等机构同日发报告称当前是'有吸引力的入场点'。",
+   "source": "MarketBeat",
+   "why": "国会成员的内幕申报虽然金额不大，但信号意义显著——叠加德银'attractive entry'评价+7/29财报催化剂，是MSFT P3错杀成长叙事的又一支撑。",
+   "url": "https://marketbeat.com/stocks/NASDAQ/MSFT/news"
+  },
+  {
+   "title": "一周大事历：Alphabet、Tesla、AMD、Apple财报集中发布，验证AI支出ROI关键时刻",
+   "summary": "本周是2026年AI基础设施叙事最重要的验证周：Alphabet（周三）、Tesla、AMD、Apple相继发布财报，市场将重点关注超大规模数据中心capex指引是否上调/维持，以及AI应用层ROI证据。华尔街仍整体偏多，但'hyperscaler capex必须持续'是当前估值体系的核心前提（Principal Asset Management首席策略师语）。",
+   "source": "Everhint / Yahoo Finance",
+   "why": "若本周Alphabet、AMD等公司财报显示AI capex指引上调，将直接证伪Kimi K3引发的'过度建设'担忧，可能触发NVDA/MU/AVGO/CRWV/IREN的系统性反弹。反之若下调，则H1面临重大压力测试。这是未来5天最重要的宏观事件窗口。",
+   "url": "https://www.everhint.com/stock-market-news-july-20-2026-morning-update-last-12-hours-pacific-time/"
+  },
+  {
+   "title": "Reddit RDDT Q2财报7月30日：AI数据叙事+广告收入加速，分析师共识看涨",
+   "summary": "RDDT将于7月30日发布Q2财报，分析师重点关注EPS和营收加速情况，以及AI数据授权收入进展。此前Wedbush将RDDT列为互联网头号推荐，强调'最佳AI数据故事'。股价当前约$184（7月20日），距52周高位$282.95约-35%，近期随大盘下跌后出现反弹信号。",
+   "source": "Yahoo Finance / Robinhood",
+   "why": "RDDT是监控池中唯一兼具'AI数据稀缺资产'和'广告复苏'双重叙事的标的，Q2财报若数据授权收入出现实质进展，将是P2戴维斯双击的触发条件。目前市场关注度低于其他AI名字，存在预期差（H2）。",
+   "url": "https://finance.yahoo.com/quote/RDDT/"
+  }
+ ]
+}
