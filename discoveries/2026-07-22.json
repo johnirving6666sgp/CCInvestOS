@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-22",
+ "items": [
+  {
+   "date": "2026-07-22",
+   "ticker": "SNDK",
+   "market": "US",
+   "name_zh": "SanDisk Corporation（西部数字分拆内存独立公司）",
+   "pattern": "王者归来",
+   "thesis": "独立上市的NAND/DRAM巨头，Morgan Stanley目标价$1,750→$3,000，数据中心内存短缺2-3年持续，长期协议(LTA)锁定定价保护，年内涨幅658%但经历近期-25%回调后Morgan Stanley认定'强力买入点'",
+   "price_evidence": "当前$1,532（7月21日），52周高点约$1,750附近（距高点约-12%），从近期高点回调约25%；Morgan Stanley目标$1,750，Bernstein维持$3,000/Outperform",
+   "key_question": "①LTA覆盖率和合同条款是否足够抵御CXMT中国内存供给冲击？②独立上市后资本结构和自由现金流质量如何？③Bernstein FY2027-2028 EPS预测($243/$272)的NAND价格假设是否过于乐观？",
+   "status": "待反馈"
+  }
+ ]
+}
