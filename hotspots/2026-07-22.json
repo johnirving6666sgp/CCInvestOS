@@ -1,0 +1,47 @@
+{
+ "date": "2026-07-22",
+ "items": [
+  {
+   "title": "本周AI超级财报周：Alphabet/Tesla今日、MSFT/TEM/PWR 7月29-30日、CLS 7月27日密集发布",
+   "summary": "7月22日Alphabet(GOOG)和Tesla同日发布财报，拉开本周AI超级财报季序幕。S&P500已有49家公司发报，90%超预期，但指数上周仍-1.55%，说明市场'买预期卖现实'情绪主导。投资者核心诉求：AI支出周期确认（而非仅仅当季beat）。",
+   "source": "Seeking Alpha / Reuters",
+   "why": "Alphabet财报将直接验证hyperscaler AI capex叙事（Google Cloud增速+TPU进展），若数据强劲将为本周后续MSFT/AVGO/CLS等AI产业链公司提供上行动能；若低于预期则可能触发新一轮芯片板块压力。",
+   "url": "https://seekingalpha.com/article/4923301-wall-street-week-ahead"
+  },
+  {
+   "title": "半导体指数(SOX)从6月22日高点下跌20.2%进入技术性熊市，但2026年年初至今仍涨近65%",
+   "summary": "费城半导体指数在过去四周内从高点回落超20%，技术上进入熊市区间，但年内涨幅仍近65%。Carson Group策略师称市场呈现'芯片疲劳'，但结构性AI需求未改变，分析师普遍定性为'纠正+板块轮动'而非'趋势反转'。",
+   "source": "Reuters / 24/7 Wall St.",
+   "why": "SOX熊市信号叠加记忆体股近期-25%+的快速下跌，正在制造AI供应链个股的非系统性错杀机会——特别是基本面未恶化但被技术性抛售的CLS/COHR/CRDO。对价值猎手而言这是窗口期，而非止损点。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-nasdaq-mu-sandisk-nasdaq-sndk-coreweave-nasdaq-crwv-and-iren-nasdaq-iren-recover-as-retail-traders-bet-on-memory-rebound/"
+  },
+  {
+   "title": "Reddit社区热议：GOOG/NVDA/NBIS三只AI股Reddit AI评分和看涨情绪领先；WSB 2026年度推荐首选AMZN，RDDT/NBIS入榜",
+   "summary": "AltIndex追踪显示（7月21日），Reddit上最热议且AI Score高+看涨情绪一致的个股为GOOG、NVDA、NBIS。WSB年度推荐榜前五包含AMZN(#1)、RKLB(#2)、ASTS(#3)、GOOGL(#4)、NBIS(#5)，RDDT因AI数据变现潜力入榜。",
+   "source": "AltIndex / Reddit",
+   "why": "零售情绪是短期动量的重要驱动力，NBIS在Reddit上的高曝光度与其近期+18%反弹形成共振；RDDT被WSB社区自我提名（自引用效应）是有趣的meta交易逻辑，值得跟踪。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "Tempus AI：$15亿收购Personalis引发股价下行，但分析师强调这是MRD $200亿市场的战略布局",
+   "summary": "TEM股价因Personalis全股票收购（约$15亿）摊薄担忧下跌，但Benzinga/Guggenheim/Needham三机构均指出市场反应过度——收购扩展了TEM在癌症MRD监测的全周期能力。7月30日财报+电话会是近期最关键节点。",
+   "source": "Benzinga",
+   "why": "TEM目前股价$48.98，处于52周低位（距高点-52.6%）。若7月30日财报显示核心营收加速+Personalis整合路径清晰，具备从'低位+收购担忧'向'战略扩张认可'的情绪反转条件。是典型'错杀成长'潜在触发事件。",
+   "url": "https://www.benzinga.com/trading-ideas/technicals/26/07/60562651/tempus-ai-tem-stock-cathie-wood-bet-bleedingthinks"
+  },
+  {
+   "title": "UBS：超大规模数据中心capex增速将从2026年+36%降至2027年+25%、2028年+6%，AI供应链'峰值增速'预警",
+   "summary": "UBS预测hyperscaler资本开支增速在2027年放缓至25%（2028年仅6%），且银行BofA 7月调查显示82%受访者认为半导体是'最拥挤的交易'。这是H1假设（AI capex未见顶）的最直接反例信号，值得高度关注。",
+   "source": "Schwab/Reuters引述UBS",
+   "why": "若UBS预测属实，AI供应链公司（NVDA/CLS/COHR/PWR）的估值溢价将面临系统性重估。当前关键分水岭在于：本周Alphabet、下周MSFT/META的财报能否反驳UBS'放缓'预测，提供新的capex加速证据。这是当前最重要的假设验证机会。",
+   "url": "https://www.schwab.wallst.com/schwab/Prospect/research/stocks/news.asp?symbol=MSFT"
+  },
+  {
+   "title": "Atlassian TEAM：-55%距高点创近年低位，Gartner首次Magic Quadrant'领导者'认定+AI工具集成加速，8月6日财报是清算点",
+   "summary": "TEAM 7月21日单日-6.05%，股价$90.60，距历史高$206已-55.4%。多家分析师下调目标价但均维持买入（26买/0卖，共识目标$139.7）。Gartner首次Developer Productivity平台Magic Quadrant将TEAM评为领导者，Rocketlane投资扩展AI生态。",
+   "source": "TipRanks / Investing.com",
+   "why": "TEAM是当前观察池中'王者归来'条件最完整的候选之一：从$206高位跌至$90（-55%）、基本面逻辑（企业协作+AI集成）未被证伪、26位分析师零卖出评级。8月6日财报是关键——FY27 guidance是否给出AI商业化加速信号，将决定是否触发戴维斯双击（P1+P2双模式）。",
+   "url": "https://www.investing.com/equities/atlassian-corp-plc"
+  }
+ ]
+}
