@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19",
+ "updated": "2026-07-22",
  "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。",
  "companies": [
   {
@@ -200,6 +200,13 @@
    "market": "US",
    "name": "Atlassian（协作软件王者）",
    "name_zh": "Atlassian（协作软件王者）",
+   "focus": []
+  },
+  {
+   "ticker": "SNDK",
+   "market": "US",
+   "name": "SanDisk Corporation（西部数字分拆内存独立公司）",
+   "name_zh": "SanDisk Corporation（西部数字分拆内存独立公司）",
    "focus": []
   }
  ]
