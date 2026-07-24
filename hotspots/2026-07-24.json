@@ -1,0 +1,47 @@
+{
+ "date": "2026-07-24",
+ "items": [
+  {
+   "title": "Alphabet Q2 capex上调至$195-205B引发恐慌：GOOGL单日-6.89%，三大指数集体下跌",
+   "summary": "Alphabet Q2营收$119.8B超预期+24%，Google Cloud暴增82%至$24.8B，但2026全年capex指引从$180-190B大幅上调至$195-205B，CFO表示2027将'大幅增加'，自由现金流承压，GOOGL盘后跌约7%拖累大盘。",
+   "source": "财经媒体",
+   "why": "这是本周最重要的市场事件：Cloud超高速增长(+82%)说明AI需求真实，但capex加速意味着ROI兑现时间线延长。对NVDA/MU/AVGO/CLS/PWR等AI供应链是正面信号（需求确定性），但对CRWV/NBIS等AI云初创是竞争压力信号（大厂自建加速）。MSFT 7月29日财报的capex指引成为下一个关键风向标。",
+   "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html"
+  },
+  {
+   "title": "Intel 18A良率升至~85%、首获大型CSP量产制造合同：半导体格局潜在变量",
+   "summary": "Intel Q2财报确认18A制程良率从65%跃升至约85%，并获一家大型云服务商首个商业量产外包订单，同日宣布与Google Cloud扩大AI芯片合作。ASML同期确认Intel是首批18A制程客户之一。",
+   "source": "财经媒体",
+   "why": "若18A量产良率持续提升，将为Intel带来第二收入流（代工），并在AI推理芯片领域对NVDA形成局部竞争。对MU/SNDK是利好（服务器升级拉动HBM/RDIMM需求），对AVGO是中性（ASIC定制不受影响），对CRDO/COHR光互联层无影响。这是2026年半导体结构性变化最值得跟踪的长期信号之一。",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262049825-intel-intc-q2-2026-earnings-results-analysis-july-23-tradingkey"
+  },
+  {
+   "title": "TrendForce：2026全年NAND供不应求，但Q3涨幅从+70%大幅放缓至+10-15%；2027H2才见过剩",
+   "summary": "TrendForce 7月21日最新NAND报告：2026年AI数据中心需求维持NAND市场全年偏紧，但消费端承受力触顶导致Q3涨幅显著放缓。2027年供给增长有望超越消费需求，但AI服务器需求将维持高位，企业SSD细分仍将是高景气赛道。",
+   "source": "TrendForce",
+   "why": "对SNDK/MU直接相关：涨价周期持续但斜率下降，毛利率改善趋势维持但节奏放缓。投资者需区分'价格增速放缓'（未来EPS增速可能低预期）和'价格下跌'（完全不同逻辑），当前是前者，不改变做多内存股的基本逻辑，只是需要降低短期幅度预期。",
+   "url": "https://www.trendforce.com/presscenter/news/20260721-13148.html"
+  },
+  {
+   "title": "CoreWeave Truist升级Buy/$126：42%回撤后机构抄底信号，但高管减持与Meta竞争仍是悬念",
+   "summary": "CRWV连续两机构（Truist/Baird）在7月21-22日给出Buy/Outperform评级，Q2预期营收+108% YoY，exit ARR底线上调至$18B，1GW电力里程碑达成。但股价仍在$80-85区间，较历史高点-45%以上。",
+   "source": "TipRanks / 247WallSt",
+   "why": "P3错杀成长模式观察标的：多空情绪分歧激烈，机构在42%回撤后密集覆盖，是AI基础设施赛道中估值最具争议的公司。关键问题：Q2财报能否验证108%增速预期并收窄亏损？这将决定CRWV是'价值陷阱'还是'真正的错杀成长'。",
+   "url": "https://247wallst.com/investing/2026/07/22/here-are-wednesdays-top-wall-street-analyst-research-calls-altria-circle-internet-coreweave-digital-ocean-ibm-keel-infrastructure-nebius-group-trimble-vornado-realty-and-more/"
+  },
+  {
+   "title": "雪球/X热议：「大厂capex越上调、股价越跌」——AI ROI信仰危机还是价值积累？",
+   "summary": "Alphabet/Tesla Q2财报后，GOOGL/TSLA同日下跌，市场形成新共识：超大规模capex上调导致FCF为负，投资者开始质疑'无限投入'的可持续性。但半导体ETF同日微涨+0.09%，内存股逆势上涨，形成供应链受益vs应用层担忧的板块分化。",
+   "source": "X/财经媒体",
+   "why": "这是H1与H2假设的核心张力所在：AI基建投入确实在加速（H1增强），但资本市场正在对'投入不等于回报'进行定价修正（H2仍需时间验证）。7月29日MSFT财报将是下一个关键数据点——Azure是否兑现'capex转化为营收增长'的逻辑，将决定整个赛道的情绪走向。",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262049251-google-stock-price-prediction-earnings-report-exceeded-expectations-why-stock-price-fall-tradingkey"
+  },
+  {
+   "title": "Credo CRDO三机构集中覆盖（Evercore/$325、Stifel/$350、BofA/$340）：AI互联卡点'被发现'的里程碑时刻",
+   "summary": "7月20日同一天，Evercore ISI新覆盖+Stifel大幅上调+BofA上调，三家机构共同将CRDO定位为AI数据中心铜光混合互联层核心受益者，且目标价均较此前大幅高于市价。",
+   "source": "TipRanks / StocksToTrade",
+   "why": "H6假设'AI供应链隐形卡点被机构发现'的标志性事件。但同时印证H7预警：当三机构在同一天密集覆盖，'盲区'已不再是盲区。当前CRDO已处高位（$236，距高点仅-21.8%），P4瓶颈猎手模式的最佳介入时机可能已过，需等待下一次板块性回调。",
+   "url": "https://timothysykes.com/news/credo-technology-group-holding-ltd-crdo-news-2026_07_20-2/"
+  }
+ ]
+}
