@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-24",
+ "items": [
+  {
+   "date": "2026-07-24",
+   "ticker": "DOCN",
+   "market": "US",
+   "name_zh": "DigitalOcean Holdings（中小企业云+AI基础设施）",
+   "pattern": "王者归来",
+   "thesis": "Stifel于7月22日将DOCN从Hold升至Buy并大幅上调目标至$160，定位为中小企业AI云基础设施受益标的；此前因增长放缓跌幅显著，若AI中小企业渗透加速，逻辑有望重新被验证。",
+   "price_evidence": "7月22日分析师报告同日获Stifel升级，意味着在连续下跌后机构重新介入；目标价$160暗示相当大上行空间，当前价格须进一步核实52周位置，但Stifel从Hold到Buy的转变本身是低位信号。",
+   "key_question": "DOCN中小企业客户的AI工具渗透率和ARPU提升是否已开始兑现？现金流是否转正？与CRWV/NBIS相比差异化优势是否清晰？",
+   "status": "待反馈"
+  }
+ ]
+}
