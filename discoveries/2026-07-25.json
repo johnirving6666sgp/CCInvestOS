@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-25",
+ "items": [
+  {
+   "date": "2026-07-25",
+   "ticker": "GOOGL",
+   "market": "US",
+   "name_zh": "Alphabet谷歌",
+   "pattern": "错杀成长",
+   "thesis": "Google Cloud +82% YoY（史上最快）叠加Alphabet整体营收+24%超预期，但市场以'Capex恐惧'将其两天内打压-14%至$320，RSI 25.6，属于典型的'业绩加速但被资本开支担忧错杀'格局。",
+   "price_evidence": "股价从$374跌至$320（两天内-14.4%），RSI 25.6接近超卖；距今年高点约-14.4%，相对52周区间处于阶段性低点。Google Cloud营收$24.8B（+82% YoY），Gemini App 9.5亿月活，Fortune 100中90%已使用Gemini Enterprise——基本面未被证伪。",
+   "key_question": "①Capex $195-205亿是否导致2026-2027年自由现金流持续转负（需核查FCF趋势）？②Google Cloud增速是否可持续到2027，还是基数效应导致快速回落？③EU罚款+反垄断风险对广告业务的中期压制有多大？",
+   "status": "待反馈"
+  }
+ ]
+}
