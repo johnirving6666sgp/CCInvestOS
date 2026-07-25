@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-25",
+ "items": [
+  {
+   "title": "Alphabet Q2爆发：Google Cloud +82%，但Capex上调至$2050亿致股价-14%——'AI营收验证'与'Capex恐惧'的终极撕裂",
+   "summary": "Alphabet Q2营收$119.8B超预期8%，Google Cloud以82%增速创历史最快，运营利润率扩34%。但公司将全年Capex从$180-190亿上调至$195-205亿，并暗示2027年将'大幅增加'，市场担忧资本回报率，两天内股价从$374跌至$320，RSI 25.6。同周英特尔Q2营收$161亿（+EPS 42c vs 预期21c），创2011年来最快增速，AI服务器需求拉动数据中心营收强劲——'供需两端同时验证AI基建加速'。",
+   "source": "财经媒体",
+   "why": "直接验证假设H1（AI基建资本开支加速未见顶）并为H2（市场错误定价AI重投入）提供最强实证：营收加速+市场以'capex恐惧'打压，正是预期差产生的场景。对NVDA/CLS/PWR/IRM全链条正面溢出。MSFT财报（7月29日）同为本周关键节点。",
+   "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html"
+  },
+  {
+   "title": "Tesla Q2 EPS大幅低于预期(-39%)，股价-14%，而SpaceX-Tesla合并概率被基金经理上调至90%",
+   "summary": "特斯拉Q2 EPS大幅未达预期，汽车毛利率从19%降至16%，自由现金流转负，7月23日单日跌幅14%。与此同时，Gene Munster（Deepwater Asset Management）在业绩会后将SpaceX-Tesla合并概率上调至90%，称合并'在几年内'将发生。",
+   "source": "TradingKey",
+   "why": "汽车巨头盈利压力+AI/太空资产重估正在同步发生，与丰田EV危机形成跨市场共振。对7203.T（丰田）形成负面参考：若连特斯拉这一BEV先行者都在盈利层承压，传统车企BEV转型代价将更高。",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262049825-intel-intc-q2-2026-earnings-results-analysis-july-23-tradingkey"
+  },
+  {
+   "title": "韩国股市KOSPI崩跌近6%，SK Hynix/三星暴跌，日本SoftBank/Kioxia同步下挫——亚洲AI内存股集体崩盘",
+   "summary": "7月24日亚洲市场：韩国KOSPI暴跌近6%，较6月高点累跌30%；SK Hynix、三星均录得大幅下跌。日本SoftBank、Kioxia同步急跌。背景：Kimi K3引发的AI算力效率提升担忧叠加Alphabet/Google Capex上调引发的'花多赚少'质疑形成双重压力。",
+   "source": "TradingKey",
+   "why": "直接影响MU/SNDK的竞争格局与估值逻辑。MU当前-6.99%(-24.1%距高点)，若亚洲内存股持续调整将形成行业性压力，但摩根士丹利仍预测Q2→Q3内存价格至少+25%，需观察基本面能否支撑。",
+   "url": "https://www.tradingkey.com/news/market-movers/262053326-market-movers-avgo-20260724"
+  },
+  {
+   "title": "CLS Q2财报今日（7月27日）收盘后发布：Zacks预期$43.5亿营收/EPS $2.29，连续第9次超预期概率极高",
+   "summary": "Celestica今日（7月27日）盘后将发布Q2 2026财报，共识预期营收$43.5亿（较Q1+7.4%）、EPS $2.29（+64% YoY）。Zacks模型预测'大概率超预期'（过去8季平均超预期8%）。核心驱动：Google TPU系统+AI数据中心机架集成；2027年共封装光学交换机窗口打开。",
+   "source": "Zacks / 247 Wall St",
+   "why": "CLS是H6瓶颈猎手的核心标的，今日财报是判断AI基础设施需求能否持续beat的关键数据点。若营收指引再度上调（beat-and-raise），叠加当前-35.4%回撤位置，将满足P2戴维斯双击+P1王者归来双模式触发前提。",
+   "url": "https://247wallst.com/investing/2026/07/23/the-single-biggest-reason-to-buy-celestica-ahead-of-july-27-q2-earnings/"
+  },
+  {
+   "title": "超级财报周启动：MSFT(7/29)、TEM(7/30)、RDDT(7/30)、SYM(8/5)同步登场，AI兑现时刻全面来临",
+   "summary": "本周是AI产业链最密集的财报验证节点。MSFT（7月29日）：市场预期Azure增速39-40%、Copilot席位/ARPU是核心变量；TEM（7月30日）：Personalis整合+MRD竞争力验证；RDDT（7月30日）：Q1 40%调整后EBITDA率能否延续，AI数据授权商业化进展。同日Quanta Services（PWR）Q2财报也将发布（7月30日盘前）。",
+   "source": "各公司IR公告",
+   "why": "这些财报将同步验证：AI基建ROI是否正在从投入转向回报（H2假设最直接验证窗口）。MSFT是最重要节点——Azure数据将直接影响NVDA需求预测和整条AI供应链估值逻辑。",
+   "url": "https://www.microsoft.com/en-us/investor/default"
+  }
+ ]
+}
