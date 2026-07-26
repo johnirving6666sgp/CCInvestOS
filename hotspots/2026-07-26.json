@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-26",
+ "items": [
+  {
+   "title": "Alphabet Q2财报震惊市场：Cloud +82%，但capex大幅上调至$195-205B，GOOGL单日-7.1%，Nasdaq -2.2%",
+   "summary": "Alphabet Q2营收$119.8B超预期，Google Cloud +82%至$24.8B，但全年capex上调$10-15亿至$195-205B，Q2单季capex $44.9B（+100% YoY），FCF转负。市场对'收入超预期+利润被capex侵蚀'的模式越来越不耐受，这将成为本周MSFT/META财报的风险棱镜。",
+   "source": "财经媒体",
+   "why": "设定了全周超大规模云计算财报的估值框架：AI需求真实但capex过重的叙事已成立，MSFT若不能证明capex回报（Azure加速/Copilot货币化），将面临类似抛售。对所有AI供应链股是双刃剑。",
+   "url": "https://www.startuphub.ai/ai-news/ai-stocks-daily/2026/ai-stocks-2026-07-23"
+  },
+  {
+   "title": "本周AI大科技财报超级周：MSFT/META（7月29日）+ AMZN（7月30日）将决定AI capex叙事走向",
+   "summary": "MSFT（7月29日）和META（7月29日）是本周双主角，AMZN（7月30日）紧随。Alphabet已给出'强增长但capex过重'模板，市场将高度审视MSFT Azure增速是否达40%+，以及FY27 capex指引是否超预期。FOMC也将于7月28-29日开会，市场定价暂停加息但通胀信号导致加息概率升至约24%。",
+   "source": "财经媒体",
+   "why": "这是AI股投资者2026年下半年最密集的单周信息流，直接决定NVDA、CLS、COHR、PWR、CRWV等整条AI供应链的短期估值区间。MSFT财报是NVDA的前置指标。",
+   "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html"
+  },
+  {
+   "title": "Intel Q2震惊市场：营收$161亿(+25% YoY)，数据中心/AI营收+59%至$63亿，Reddit/X财经社区本周讨论热度第一",
+   "summary": "Intel Q2 2026营收$161亿超预期（+25% YoY），数据中心与AI部门+59%至$63亿，全年资本支出上调至$200亿。Intel年内股价+171%，成为WSB/X讨论热词第一。同期发布Fortinet安全处理器合作及长期中国CPU订单，AI芯片需求向英特尔溢出成为社区核心讨论主题。",
+   "source": "Reddit r/wallstreetbets / Benzinga",
+   "why": "Intel复苏故事从'困境到反转'正在兑现，INTC的表现对Nvidia生态形成竞争但更多是AI需求广度的体现。同时印证假设H1：AI芯片需求向多芯片制造商扩散，非NVDA独占。",
+   "url": "https://www.benzinga.com/markets/equities/26/07/60684194/intel-tesla-ibm-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week"
+  },
+  {
+   "title": "开放权重AI公开信联署扩至35家，NVDA为发起方、MSFT迅速跟进主导，OpenAI加入成最大变数",
+   "summary": "一封支持开放权重（open-weight）AI的公开信在24小时内联署方从25家增至35家（+40%），NVDA为原始发起方，MSFT扩充至35家主导版，OpenAI随后加入。联署覆盖芯片/云/模型/企业软件各层。这一动向在X/财经大V中被解读为'生态整合vs监管压力'的战略布局，与中国AI竞争（Kimi、DeepSeek）形成呼应。",
+   "source": "X/财经媒体",
+   "why": "开源AI生态若形成行业标准联盟，将影响AI模型层竞争格局（利好MSFT/NVDA基础设施层，压制封闭模型平台如Anthropic），并可能重塑AI监管政策博弈方向。是MSFT 7月29日财报周的重要背景。",
+   "url": "https://ts2.tech/en/open-weight-ai-alliance-expands-by-40-while-nvidia-nasdaqnvda-microsoft-nasdaqmsft-meta-nasdaqmeta-approach-earnings-results/"
+  },
+  {
+   "title": "雪球/自媒体热议：Hyperscaler capex共识2026年达$6820亿，2027年升至$8780亿——AI基础设施超级周期正式进入'工业量级'",
+   "summary": "Visible Alpha（标普旗下）预测2026年hyperscaler capex总量$6820亿（较上年净增$3000亿），2027年进一步升至$8780亿。美国财经社区将此解读为'AI基础设施超级周期已不可逆'，与Alphabet/Tesla财报后股价下跌形成认知对立——大V普遍认为'市场对capex的恐惧是买入机会，不是卖出信号'。",
+   "source": "雪球/X财经大V",
+   "why": "直接增强假设H1（AI基建capex未见顶），为NVDA/CLS/PWR/COHR/CRDO等供应链提供了长期宏观锚点。同时是判断MSFT财报后市场反应的理论基础。",
+   "url": "https://ts2.tech/en/open-weight-ai-alliance-expands-by-40-while-nvidia-nasdaqnvda-microsoft-nasdaqmsft-meta-nasdaqmeta-approach-earnings-results/"
+  }
+ ]
+}
