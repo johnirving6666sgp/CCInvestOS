@@ -3,27 +3,27 @@
   "ticker": "NVDA",
   "price": 206.84,
   "currency": "USD",
-  "chg1d": -0.92,
+  "chg1d": -2.46,
   "high52": 235.74,
   "low52": 165.17,
   "fromHigh": -12.3,
   "fromLow": 25.2,
   "pos": "中位",
   "posPct": 59,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "MSFT": {
   "ticker": "MSFT",
   "price": 381.7,
   "currency": "USD",
-  "chg1d": 0.03,
+  "chg1d": -2.21,
   "high52": 542.07,
   "low52": 352.83,
   "fromHigh": -29.6,
   "fromLow": 8.2,
   "pos": "低位",
   "posPct": 15,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "7203.T": {
   "ticker": "7203.T",
@@ -36,7 +36,7 @@
   "fromLow": 8.3,
   "pos": "低位",
   "posPct": 17,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "6758.T": {
   "ticker": "6758.T",
@@ -49,7 +49,7 @@
   "fromLow": 9.5,
   "pos": "低位",
   "posPct": 19,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "0700.HK": {
   "ticker": "0700.HK",
@@ -62,33 +62,33 @@
   "fromLow": 5.5,
   "pos": "低位",
   "posPct": 9,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "TEM": {
   "ticker": "TEM",
   "price": 42.69,
   "currency": "USD",
-  "chg1d": -7.22,
+  "chg1d": -9.09,
   "high52": 103.25,
   "low52": 42.37,
   "fromHigh": -58.7,
   "fromLow": 0.8,
   "pos": "低位",
   "posPct": 1,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "FATE": {
   "ticker": "FATE",
   "price": 2.41,
   "currency": "USD",
-  "chg1d": -4.37,
+  "chg1d": -6.59,
   "high52": 3.11,
   "low52": 0.92,
   "fromHigh": -22.5,
   "fromLow": 162,
   "pos": "高位",
   "posPct": 68,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "01729": {
   "ticker": "01729",
@@ -98,105 +98,105 @@
   "ticker": "CLS",
   "price": 305.28,
   "currency": "USD",
-  "chg1d": -8.8,
+  "chg1d": -9.01,
   "high52": 472.4,
   "low52": 170.22,
   "fromHigh": -35.4,
   "fromLow": 79.3,
   "pos": "中位",
   "posPct": 45,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "COHR": {
   "ticker": "COHR",
   "price": 282.39,
   "currency": "USD",
-  "chg1d": -9.84,
+  "chg1d": -9.55,
   "high52": 426.89,
   "low52": 86.55,
   "fromHigh": -33.8,
   "fromLow": 226.3,
   "pos": "中位",
   "posPct": 58,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "PWR": {
   "ticker": "PWR",
   "price": 625.84,
   "currency": "USD",
-  "chg1d": -4.28,
+  "chg1d": -2.69,
   "high52": 785.24,
   "low52": 372.5,
   "fromHigh": -20.3,
   "fromLow": 68,
   "pos": "中位",
   "posPct": 61,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "IRM": {
   "ticker": "IRM",
   "price": 128.31,
   "currency": "USD",
-  "chg1d": 3.02,
+  "chg1d": 3.05,
   "high52": 133.06,
   "low52": 78.86,
   "fromHigh": -3.6,
   "fromLow": 62.7,
   "pos": "高位",
   "posPct": 91,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "NBIS": {
   "ticker": "NBIS",
   "price": 187.77,
   "currency": "USD",
-  "chg1d": -15.02,
+  "chg1d": -13.93,
   "high52": 286.69,
   "low52": 50.4,
   "fromHigh": -34.5,
   "fromLow": 272.6,
   "pos": "中位",
   "posPct": 58,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "CRDO": {
   "ticker": "CRDO",
   "price": 213.15,
   "currency": "USD",
-  "chg1d": -9.87,
+  "chg1d": -6.62,
   "high52": 302.52,
   "low52": 87.81,
   "fromHigh": -29.5,
   "fromLow": 142.7,
   "pos": "中位",
   "posPct": 58,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "SYM": {
   "ticker": "SYM",
   "price": 40.15,
   "currency": "USD",
-  "chg1d": -1.04,
+  "chg1d": -5.44,
   "high52": 87.3,
   "low52": 38.57,
   "fromHigh": -54,
   "fromLow": 4.1,
   "pos": "低位",
   "posPct": 3,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "MU": {
   "ticker": "MU",
   "price": 920.95,
   "currency": "USD",
-  "chg1d": -6.99,
+  "chg1d": -4.02,
   "high52": 1213.56,
   "low52": 104.88,
   "fromHigh": -24.1,
   "fromLow": 778.1,
   "pos": "高位",
   "posPct": 74,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "7974.T": {
   "ticker": "7974.T",
@@ -209,123 +209,123 @@
   "fromLow": 5.8,
   "pos": "低位",
   "posPct": 5,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "LULU": {
   "ticker": "LULU",
   "price": 114.28,
   "currency": "USD",
-  "chg1d": 3.3,
+  "chg1d": 0.8,
   "high52": 219.43,
   "low52": 105.43,
   "fromHigh": -47.9,
   "fromLow": 8.4,
   "pos": "低位",
   "posPct": 8,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "CRWV": {
   "ticker": "CRWV",
   "price": 71.88,
   "currency": "USD",
-  "chg1d": -11.37,
+  "chg1d": -13.02,
   "high52": 148.75,
   "low52": 64.55,
   "fromHigh": -51.7,
   "fromLow": 11.4,
   "pos": "低位",
   "posPct": 9,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "RDDT": {
   "ticker": "RDDT",
   "price": 168.73,
   "currency": "USD",
-  "chg1d": -0.03,
+  "chg1d": -0.97,
   "high52": 270.71,
   "low52": 121.84,
   "fromHigh": -37.7,
   "fromLow": 38.5,
   "pos": "低位",
   "posPct": 31,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "CBRS": {
   "ticker": "CBRS",
   "price": 199.12,
   "currency": "USD",
-  "chg1d": -9.49,
+  "chg1d": -5.09,
   "high52": 311.07,
   "low52": 168.52,
   "fromHigh": -36,
   "fromLow": 18.2,
   "pos": "低位",
   "posPct": 21,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "AVGO": {
   "ticker": "AVGO",
   "price": 381.92,
   "currency": "USD",
-  "chg1d": -2.69,
+  "chg1d": -3.75,
   "high52": 481.57,
   "low52": 288.64,
   "fromHigh": -20.7,
   "fromLow": 32.3,
   "pos": "中位",
   "posPct": 48,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "IREN": {
   "ticker": "IREN",
   "price": 37.07,
   "currency": "USD",
-  "chg1d": -8.65,
+  "chg1d": -10.2,
   "high52": 76.41,
   "low52": 15.4,
   "fromHigh": -51.5,
   "fromLow": 140.7,
   "pos": "中位",
   "posPct": 36,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "BDX": {
   "ticker": "BDX",
   "price": 156.36,
   "currency": "USD",
-  "chg1d": 2.22,
+  "chg1d": 2.09,
   "high52": 185.39,
   "low52": 135.54,
   "fromHigh": -15.7,
   "fromLow": 15.4,
   "pos": "中位",
   "posPct": 42,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "TEAM": {
   "ticker": "TEAM",
   "price": 86.88,
   "currency": "USD",
-  "chg1d": 8.4,
+  "chg1d": 1.73,
   "high52": 203,
   "low52": 57.15,
   "fromHigh": -57.2,
   "fromLow": 52,
   "pos": "低位",
   "posPct": 20,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  },
  "SNDK": {
   "ticker": "SNDK",
   "price": 1436.56,
   "currency": "USD",
-  "chg1d": -10.79,
+  "chg1d": -10.17,
   "high52": 2335,
   "low52": 40.69,
   "fromHigh": -38.5,
   "fromLow": 3430.5,
   "pos": "中位",
   "posPct": 61,
-  "date": "2026-07-25"
+  "date": "2026-07-26"
  }
 }
