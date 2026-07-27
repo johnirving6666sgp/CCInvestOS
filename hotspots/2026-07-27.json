@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-27",
+ "items": [
+  {
+   "title": "超级财报周：MSFT/META/AMZN + 联储决议 + PCE三重压力同至，AI叙事生死存亡时刻",
+   "summary": "本周175家S&P 500公司报财报，三大hyperscaler（MSFT 7/29、META 7/29、AMZN 7/30）集中发布，同时叠加联储利率决议（7/30）和核心PCE通胀数据（7/31）。上周Alphabet因capex增加$150亿引发自身-7.1%和Mag7整体-5.7%的抛售，本周同题再考：AI spending是否ROI可见？",
+   "source": "CNBC / Forbes",
+   "why": "这是2026年AI投资叙事最关键的单周验证窗口：若hyperscaler集体给出'capex有纪律+ROI量化'信号，将修复AI供应链整体估值；反之将加速系统性减仓。对持仓NVDA/CLS/COHR/CRDO/CRWV/NBIS的投资者而言，本周是全年最高风险/回报的单周事件。",
+   "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html"
+  },
+  {
+   "title": "X财经大V：2026 Q1高增速排行榜——NBIS +683%、MU +346%、SNDK +251%，超高成长集群清单",
+   "summary": "X用户HedgeMind列出按YoY营收增速排名的高成长股：NBIS 683%、MU 346%、SNDK 251%、CRDO 157%、APLD 139%、BE 130%、SMCI 123%、CRWV 112%。同日梳理本周AI科技财报日历：CLS(7/27)、GLW(7/28)、MSFT/META/ARM(7/29)、AAPL/AMZN(7/30)。",
+   "source": "X / HedgeMind",
+   "why": "这张榜单是当前AI超级周期受益者的'成绩单'，营收增速与股价表现的背离（如CRWV -51.7%回撤但+112%增速）正是P3模式(错杀成长)的核心猎场。NBIS/SNDK的极端增速背后是否有持续性，是下一阶段关键研究课题。",
+   "url": "https://x.com/HedgeMind/status/2080776503214878750"
+  },
+  {
+   "title": "ASML Q2营收€93亿超预期（析预€88亿），二次上调全年指引至€430-450亿，上半年已累涨63-86%",
+   "summary": "ASML于7月15日发布Q2财报：营收€93亿，净利润€29.2亿（预期€26.2亿），双双超预期。全年指引上调至€430-450亿（原€360-400亿）。Motley Fool称'AI基础设施受益最大赢家'。但股价反而下跌3%，市场担忧hyperscaler capex可持续性，以及中国出口管制收紧。股价今年已涨50-86%。",
+   "source": "CNBC / Motley Fool",
+   "why": "ASML作为半导体设备垄断供应商，其超预期+上调指引是AI capex加速的独立验证信号（H1增强证据），但其已涨50-86%的高位表明市场并未视其为'盲区'。ASML作为EUV垄断者不在排除名单，但价格位置不符合王者归来(P1)筛选条件——适合作为AI周期强度的温度计使用。",
+   "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html"
+  },
+  {
+   "title": "Broadcom铜互联vs共封装光学：一句话重塑AI互联格局，CRDO涨COHR/LITE跌",
+   "summary": "Broadcom CEO Hock Tan在财报中明确表态铜基互联（AEC/Attached Copper）优于共封装光学（CPO）用于当代AI机架，理由是更低延迟、功耗和成本。市场立即重定价：CRDO上涨，COHR和Lumentum下跌。这是迄今最明确的AI互联技术路线划线时刻。",
+   "source": "Seeking Alpha / Broadcom Q2财报",
+   "why": "技术路线选择决定Chokepoint受益结构（H6）：铜互联持续强势→CRDO受益；CPO延迟→COHR短期承压。但长期800G+时代光学仍不可绕过。这一事件为COHR下一步布局提供了'何时是低位买入'的框架：需等待市场将CPO延迟error-in-fact定价出去后再考虑介入。",
+   "url": "https://seekingalpha.com/news/4561259-credo-rises-lumentum-coherent-fall-as-broadcom-puts-weight-behind-attached-copper"
+  },
+  {
+   "title": "Goldman Sachs：对冲基金正以创纪录速度抛售科技股；TSLA Q2 EPS大幅不及预期触发-14%，加剧Mag7整体恐慌",
+   "summary": "TipRanks援引Goldman Sachs数据：对冲基金抛售科技股速度为历史最快。TSLA Q2实际EPS $0.33 vs更高预期，营收$282亿+26% YoY虽超预期，但负自由现金流+汽车毛利率压缩引发-14.41%单日暴跌（RSI一度触19.9）。TSLA拖累叠加Alphabet capex冲击，形成上周Mag7整体-5.7%的主要原因。",
+   "source": "TipRanks / Benzinga",
+   "why": "机构对'AI高capex但低ROI'的容忍度已接近临界点，TSLA和Alphabet是当周两大催化剂。若MSFT本周给出明确ROI量化（如Copilot每席位ARR增长数据），将是整个Mag7估值修复的关键。当前格局：芯片ETF今年+59%，Mag7整体落后，供应链受益已领先应用层——符合H6'价值从GPU层向卡点层迁移'的宏观判断。",
+   "url": "https://www.tipranks.com/news/amzn-meta-googl-citigroup-says-ai-capex-to-exceed-800-billion-in-2027"
+  }
+ ]
+}
