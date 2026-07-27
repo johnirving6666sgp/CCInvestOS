@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-27",
+ "items": [
+  {
+   "date": "2026-07-27",
+   "ticker": "ASML",
+   "market": "US",
+   "name_zh": "ASML荷兰半导体设备",
+   "pattern": "瓶颈猎手（Chokepoint Hunter）",
+   "thesis": "EUV光刻机全球唯一垄断供应商，AI芯片产能扩张的真实物理卡点；Q2营收€93亿大超预期（+21% YoY），二次上调FY2026指引至€430-450亿，但因hyperscaler capex担忧股价已较最新高位回落约20%。",
+   "price_evidence": "ASML 2026年YTD涨幅+63-86%，Q2财报后因市场整体恐慌从高位回落约20%，52周低位距当前约有较大空间；stock已从earnings-day高点下滑3%+近期板块抛售叠加，相对估值重新变得有吸引力。",
+   "key_question": "1）中国出口管制是否进一步收紧（ASML 20%+收入来自中国）？2）hyperscaler capex若2027年放缓，ASML的backlog能否支撑指引？3）当前估值相对TSMC/NVDA是否已充分定价AI超级周期？",
+   "status": "待反馈"
+  }
+ ]
+}
