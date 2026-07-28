@@ -1,0 +1,40 @@
+{
+ "date": "2026-07-28",
+ "items": [
+  {
+   "title": "CXMT上市466%暴涨：内存板块'竞争格局重估'还是情绪性了结？",
+   "summary": "中国长鑫科技（CXMT）7月27日上海STAR Market首日暴涨466%，市值突破$5000亿，引发MU -5%、SNDK -12%、SK Hynix -8%全线崩跌。CXMT已获$86亿IPO融资用于产能扩张，且有报道称Apple正测试其芯片。CNBC分析师警告'内存周期情绪可能已临近短期峰值'。",
+   "source": "财经媒体",
+   "why": "这是2026年内存板块最重要的结构性事件：短期是情绪冲击+利润了结，但中长期若CXMT产能真正释放（2027H2）将压制DRAM/NAND价格——直接影响MU、SNDK、SK Hynix的盈利预测和估值逻辑。持有内存标的的投资者需重新评估价格峰值时间表。",
+   "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html"
+  },
+  {
+   "title": "MSFT Q4 FY2026今日收盘后发布：Azure+capex定调全场AI估值",
+   "summary": "微软今日（7/28）收盘后发布Q4 FY2026财报，共识营收$893.7亿、EPS $4.33。Azure是否维持39-40%增速、FY2027 capex指引是否合理（共识预期约$2200亿），将同步影响NVDA/CRWV/CLS等整个AI供应链估值。MSFT当前YTD -18%，为Mag7最弱，处52周低位。",
+   "source": "财经媒体",
+   "why": "MSFT财报是本周'最高压力测试'——结果将直接验证或否定H1（AI基建加速未见顶）和H2（市场低估AI重投入公司）两大核心假设，并可能触发板块性重定价。持有任何AI供应链标的的投资者须密切关注今晚数据。",
+   "url": "https://www.financecalendar.com/event/msft-earnings-july-2026/"
+  },
+  {
+   "title": "NVDA向Ilya Sutskever的SSI投资约$50亿并锁定Vera Rubin供货，当日股价-5%",
+   "summary": "NVIDIA宣布与SSI（Ilya Sutskever创立）建立长期战略合作并投资约$50亿（Bloomberg报道），提供Vera Rubin GPU平台使SSI算力提升一个数量级。尽管消息重大，当日NVDA股价仍跌约5%，因整体AI情绪偏弱。NVDA Q1非上市股权持仓从$223亿飙升至$434亿，几乎翻倍。",
+   "source": "财经媒体",
+   "why": "NVDA系统性通过股权+硬件捆绑顶尖AI实验室（已有IREN、NBIS、CoreWeave、SSI等），这一'算力投资人'角色将使其在AI生态价值链中更深度分享上行收益——但当前市场不奖励此逻辑，需等待下游capex数据兑现后的重评。",
+   "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/"
+  },
+  {
+   "title": "Reddit/WSB热议：NVDA、AMZN、MU为本周最高热度AI标的，内存崩跌引发情绪分歧",
+   "summary": "根据AltIndex实时追踪，过去24小时Reddit最高提及率标的依次为NVDA、AMZN、MU，情绪整体偏多但内存股（MU/SNDK）因CXMT冲击出现明显分歧。WSB本周热点还包括TSLA（Q2财报后普遍看空）和IBM（业绩符合预期，量子计算讨论多）。",
+   "source": "Reddit",
+   "why": "零售情绪分歧往往领先机构数天——MU/SNDK在WSB高热度但情绪分裂，可能预示短期方向由今晚MSFT财报决定。若MSFT证明capex持续，内存需求预期将修复；若反之，CXMT叙事将主导内存板块卖盘延续。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "任天堂Switch 2美国9月涨价$50（至$499.99），夏季抢购潮预期+6月股价触底反弹",
+   "summary": "任天堂Q1 FY2027（4-6月）销售同比+110%并上调全年指引，Switch 2累计销量19.86万台（超预期）。9月美国涨价前消费者抢购效应已在5月数据中体现（美国硬件消费+38%）。7974.T今日+6.63%，处52周低位（距高点-49.3%），为日股中少见的'非AI基本面强力反弹'。",
+   "source": "财经媒体",
+   "why": "任天堂是当前观察池中最接近P1（王者归来）形态的日股标的：从高位-49.3%的深度回调+Switch 2超预期销售周期+涨价前催化剂叠加，是AI板块之外难得的独立逻辑强催化剂。尤其适合在AI高波动周作为组合多元化考量。",
+   "url": "https://nintendoeverything.com/nintendo-financial-results-may-2026-switch-2-at-19-86-million-units-switch-at-155-92-million-more/"
+  }
+ ]
+}
