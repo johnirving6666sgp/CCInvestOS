@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-28",
+ "items": [
+  {
+   "date": "2026-07-28",
+   "ticker": "WDC",
+   "market": "US",
+   "name_zh": "西部数字",
+   "pattern": "错杀成长",
+   "thesis": "CXMT IPO引发WDC单日-7%，但西部数字同样受益于NAND供需紧张周期，且分拆SanDisk后主营HDD+Flash两翼，CXMT对其NAND业务冲击有限但市场同步定价了全部竞争风险，存在超卖可能。",
+   "price_evidence": "WDC随CXMT IPO冲击单日-7%，处于内存板块集体抛售中；当前股价与SNDK分拆后估值重置阶段，短期回撤幅度可能大于基本面影响。",
+   "key_question": "WDC HDD业务受AI数据中心扩张的独立受益逻辑是否足以与CXMT NAND竞争威胁解耦？CXMT目前是否具备与WDC主力NAND产品节点（162层+）的技术竞争力？",
+   "status": "待反馈"
+  }
+ ]
+}
