@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22",
+ "updated": "2026-07-28",
  "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。",
  "companies": [
   {
@@ -207,6 +207,13 @@
    "market": "US",
    "name": "SanDisk Corporation（西部数字分拆内存独立公司）",
    "name_zh": "SanDisk Corporation（西部数字分拆内存独立公司）",
+   "focus": []
+  },
+  {
+   "ticker": "POET",
+   "market": "US",
+   "name": "POET Technologies（光子集成电路）",
+   "name_zh": "POET Technologies（光子集成电路）",
    "focus": []
   }
  ]
