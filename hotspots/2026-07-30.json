@@ -1,0 +1,47 @@
+{
+ "date": "2026-07-30",
+ "items": [
+  {
+   "title": "MSFT Q4大幅超预期但FY27 Capex $255-260B爆雷，市场陷入'好成绩坏故事'两难",
+   "summary": "微软Q4 FY2026实际EPS $4.74-4.81(超共识$0.41)、营收$900亿(+18%)、净利润+31%，全面超预期。但FY2027 capex指引$255-260亿远超市场预期$220亿区间，复制了Alphabet上季引发-7%抛售的剧本。FY27 capex较2026增幅约35%，Q3 FCF已下降22%。",
+   "source": "财经媒体",
+   "why": "MSFT业绩beat的质量与capex上调的幅度形成对冲，当前52周低位股价(-28%)的反应方向将决定整个AI基建投资叙事的市场定价逻辑：若capex上调被市场接受，AI capex恐惧已见顶；若再度抛售，则证明市场尚未从'ROI验证'模式脱敏。是今日最重要的宏观验证事件。",
+   "url": "https://www.washingtonpost.com/business/2026/07/29/microsoft-earnings-results-ai/814d9b2e-8b93-11f1-8912-d71e69d679d7_story.html"
+  },
+  {
+   "title": "SK Hynix Q2破纪录+557%但略低于共识，股价-9%：'好结果被高预期惩罚'的AI内存困境",
+   "summary": "SK Hynix Q2营业利润+557%至KRW 60.54万亿(76%利润率)，HBM4量产启动，与约10家客户签LTA。但实际营收$546亿低于共识预期$576亿，ADR盘后跌9%。管理层否认AI投资放缓，称高价值货物推迟至H2交付。",
+   "source": "财经媒体",
+   "why": "SK Hynix=HBM供应链代理指标，'破纪录仍跌'验证了内存板块已进入'高预期脆弱区'，直接影响MU/SNDK估值逻辑。同时HBM4量产+LTA锁定=长期供应约束确立，对NVDA Vera Rubin平台需求（更高HBM需求量）是基本面强化信号。",
+   "url": "https://www.koreatimes.co.kr/amp/business/companies/20260729/sk-hynix-shatters-q2-earnings-record-amid-ai-peak-concerns"
+  },
+  {
+   "title": "NVDA $7500亿AI协议 vs '循环融资'指控：Jim Chanos vs Jensen Huang的世纪辩论点燃市场",
+   "summary": "NVDA同期宣布SK Group $5000亿+合作、OpenAI $2500亿数据中心担保(谈判中)、Naver $10亿投资，总规模$7500亿+。Jim Chanos讽刺NVDA'替客户融资买自家芯片'，Applied Economics教授发推称'欢迎进入AI泡沫'。Jensen Huang否认循环性，称NVDA投资占客户总需求极小比例。WSB评论：'MSFT会业绩大爆然后暴跌18%'反映极度情绪分裂。",
+   "source": "Reddit/Benzinga/Bloomberg",
+   "why": "循环融资叙事是目前做空AI基建的最有力故事框架，一旦被市场接受将重创整个AI供应链估值体系(NVDA/CRWV/NBIS/IREN全链条受损)。Jensen Huang的反叙事需要MSFT/META/AMZN的实际capex数据支撑。今日MSFT财报是判断哪种叙事占主导的关键节点。",
+   "url": "https://www.benzinga.com/markets/tech/26/07/60720465/is-the-ai-boom-a-virtuous-circle-or-a-ponzi-scheme-wall-street-is-split"
+  },
+  {
+   "title": "Fed维持3.5-3.75%不变但出现三票异议（2016年来首次），宏观背景对科技股温和支撑",
+   "summary": "7月29日FOMC会议9-3维持联邦基金利率3.5-3.75%不变，三票异议为2016年以来首次单次会议出现三票同向反对（倾向降息方向）。这是近期AI财报周的宏观背景：利率保持不变但降息信号隐现，对高估值AI科技股形成相对支撑。",
+   "source": "TradingKey",
+   "why": "异常的三票异议暗示Fed内部对经济放缓的担忧有所上升，潜在降息预期对MSFT/NVDA等高P/E科技股估值修复有利，与MSFT Q4 beat同日出现可能构成短期催化共振。但需观察MSFT capex叙事是否压过宏观利好。",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262058481-msft-earnings-preview-azure-ai-capital-expenditure-center-stage-stock-price-surge-pressure-tradingkey"
+  },
+  {
+   "title": "任天堂Switch 2累计销量1986万台超PS5同期、FY26营收翻倍，但股价距高点-45.5%仍处低位",
+   "summary": "Switch 2在上市约一年内累计出货1986万台，超越PS5同期销量，Nintendo FY2026 Q4营收$147亿(+98.6% YoY)。Mario Kart World附着率74%。6月连续蝉联美国硬件销量双榜首。股价7986JPY(52周低位，日内+4.27%)，全年仍处低位区间。",
+   "source": "Tech Insider/Punch Jump",
+   "why": "Switch 2销量数据是真实的基本面反转信号：远超预期15M目标、打败PS5、软件附着率极高。但股价距高点-45.5%，P1王者归来的价格与基本面背离结构正在形成。游戏机超级周期通常持续3-5年，后续软件管线变现是长期催化剂。值得优先关注的发现候选。",
+   "url": "https://tech-insider.org/nintendo-switch-2-sales-19-million-2026/"
+  },
+  {
+   "title": "Reddit r/wallstreetbets焦点：'MSFT将大爆财报然后暴跌18%'——散户对capex叙事的双重恐惧",
+   "summary": "WSB近期最热讨论：MSFT将大概率beat EPS，但市场将因capex上调抛售（参考Alphabet -7.1%）；'底部已到，散户在头5分钟恐慌抛售后QQQ涨2%'的反向论点同时流传；韩国AI内存板块被称'比任何人都更早进入AI内存疯狂'。",
+   "source": "Reddit/WSB",
+   "why": "散户情绪极度分裂：看多MSFT beat vs 看空capex二选一，这种'自我否定的期望'结构通常意味着任何方向的超预期都会有夸张反应。MSFT今日盘后走势将是检验散户情绪是否构成反向指标的实时实验。",
+   "url": "https://tradestie.com/apps/reddit/wallstreetbets/"
+  }
+ ]
+}
