@@ -516,6 +516,16 @@
    "date": "2026-07-31",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "02656.HK",
+   "market": "HK",
+   "name_zh": "健康160（港股医疗AI数字入口）",
+   "status": "不喜欢",
+   "reason": "标注",
+   "date": "2026-07-31",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
