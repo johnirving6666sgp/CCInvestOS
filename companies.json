@@ -501,6 +501,16 @@
    "date": "2026-07-31",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "GEV",
+   "market": "US",
+   "name_zh": "GE Vernova（电力/燃气轮机卡点）",
+   "status": "喜欢",
+   "reason": "标注",
+   "date": "2026-07-31",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
