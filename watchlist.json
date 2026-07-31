@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28",
+ "updated": "2026-07-31",
  "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。",
  "companies": [
   {
@@ -214,6 +214,13 @@
    "market": "US",
    "name": "POET Technologies（光子集成电路）",
    "name_zh": "POET Technologies（光子集成电路）",
+   "focus": []
+  },
+  {
+   "ticker": "AMZN",
+   "market": "US",
+   "name": "亚马逊",
+   "name_zh": "亚马逊",
    "focus": []
   }
  ]
