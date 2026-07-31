@@ -1,0 +1,47 @@
+{
+ "date": "2026-07-31",
+ "items": [
+  {
+   "title": "MSFT+AMZN双超预期+上调AI capex：'AI ROI'怀疑论被正面驱逐",
+   "summary": "7月30日超级财报日：MSFT Azure+39%（超34%预期）、AMZN AWS+37%（2021年来最快），AMZN EPS $5.75 vs $1.83预期，AMZN capex上调至$2200亿，Jassy称2028年需求'令人震惊'。MSFT单日+15.51%，AMZN盘后+8%。",
+   "source": "财经媒体",
+   "why": "两大超大规模云巨头的实际数据彻底击碎了'AI capex ROI为零'的空头叙事。AWS+MSFT的需求数据是AI供应链全产业链（NVDA/AVGO/CRWV/NBIS/COHR/PWR）最重要的需求端验证，对7月以来板块性回调构成强力修复基础。",
+   "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html"
+  },
+  {
+   "title": "Citadel接盘Situational Awareness AI持仓：$200亿强制平仓风险消除，neocloud板块单日暴涨30%",
+   "summary": "WSJ报道Citadel购入AI主题基金SA大部分公开股票头寸，消除了市场最担心的NBIS/CRWV/IREN强制抛售风险。三只neocloud股票单日均涨约30%，部分修复了7月以来因Meta Compute担忧和SA压力导致的深度回调。",
+   "source": "财经媒体",
+   "why": "SA事件从'强制平仓恐慌'翻转为'有序退出'，流动性风险解除+AI需求验证（MSFT/AMZN）叠加，形成neocloud板块的双重拐点。CRWV/NBIS/IREN从52周低位大幅反弹，考验P1王者归来模式的进入时机。",
+   "url": "https://www.tipranks.com/news/crwv-nbis-iren-why-are-neocloud-stocks-soaring-today-july-30-2026"
+  },
+  {
+   "title": "PWR Q2 2026大超预期+26%：数据中心+电网现代化双轮驱动，电力基础设施最强财报季",
+   "summary": "Quanta Services Q2营收$95.7亿（超预期$87亿），EPS $4.24（超$3.33预期），同比增长71%，连续四季超预期，平均超预期幅度约30%。",
+   "source": "财经媒体",
+   "why": "PWR是AI基建'最后一英里'（实物电力施工）的最直接受益者。Q2大超+连续超预期为H6（瓶颈猎手：电力层卡点）和H8（AI基础设施扩张期）提供最强硬数据支撑。股价当日+17%，H7（高位警示）需注意，但全年指引上调可期。",
+   "url": "https://www.prnewswire.com/news-releases/quanta-services-reports-second-quarter-2026-results-302838646.html"
+  },
+  {
+   "title": "Reddit Q2超预期但-7%：'超预期被卖出'——Google数据许可协议不确定性成市场核心焦点",
+   "summary": "RDDT Q2营收+61%至$8.05亿，EPS $1.25 vs $0.97预期，但盘后-7%。市场担忧：Other Revenue（含数据许可）仅+24%，且与Google的$6000万/年协议续签谈判存在变数（Reddit考虑封锁Google访问用于AI训练）。",
+   "source": "WSB/财经媒体",
+   "why": "RDDT是'AI数据货币化'逻辑的代表性标的，但Google协议谈判进展直接影响估值上限。超预期被卖出是典型'利好兑现'叠加前瞻性担忧，对处于52周中位（距高点-34%）的RDDT构成时机观察窗口。",
+   "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html"
+  },
+  {
+   "title": "Aschenbrenner $200亿AI基金被Citadel接盘：AI股最大机构尾部风险解除",
+   "summary": "前OpenAI研究员Leopold Aschenbrenner创立的Situational Awareness（持仓含NVDA/AVGO/NBIS/CRWV/IREN）因AI股月内暴跌寻求融资，最终被Citadel接手主要公开股票仓位，避免了市场最担忧的无序抛售。",
+   "source": "Yahoo Finance/WSJ",
+   "why": "这是7月AI板块最大的系统性风险事件的终结。SA持仓集中在用户所有核心AI观察股上，被有序接盘而非强制平仓，是AI板块从'恐慌下行'转入'修复区间'的关键转折点，可能标志着7月调整的阶段性底部。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-nbis-skhy-sndk-stock-104808718.html"
+  },
+  {
+   "title": "Morgan Stanley报告：$1.4万亿AI投入将有回报——MSFT/AMZN/GOOGL三大云巨头验证数据正在兑现",
+   "summary": "Morgan Stanley在MSFT/AMZN财报发布当日重申$1.4万亿AI赌注将带来回报，并指向Azure+39%、AWS+37%作为实证；同时Citi重申内存价格上行至少持续至2027年，否定中国CXMT技术竞争威胁。",
+   "source": "TipRanks/TradingKey",
+   "why": "7月以来的AI股回调核心叙事是'capex无回报'，MSFT/AMZN双双以历史最强增速反驳这一叙事。机构层面（Morgan Stanley/Citi/Wedbush）同步发声，具备短期情绪反转和中期基本面修复的双重价值。",
+   "url": "https://www.tipranks.com/news/company-announcements/microsoft-reports-strong-q1-2026-financial-results"
+  }
+ ]
+}
