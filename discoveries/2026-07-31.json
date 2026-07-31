@@ -1,0 +1,16 @@
+{
+ "date": "2026-07-31",
+ "items": [
+  {
+   "date": "2026-07-31",
+   "ticker": "AMZN",
+   "market": "US",
+   "name_zh": "亚马逊",
+   "pattern": "戴维斯双击",
+   "thesis": "AWS+37%（2021年最快增速）+capex上调至$2200亿+Jassy明确2028年需求能见度，盈利+估值双重修复条件已具备，盘后+8%为起点",
+   "price_evidence": "盘后+8%，AMZN未在排除名单，近期因AI capex担忧回调约11%（过去3个月），当前估值较2021年历史高点仍有折价",
+   "key_question": "AWS Q3增速能否维持35%+？capex $2200亿对FCF压力如何？Prime Day移至Q2后Q3基数效应有多大？",
+   "status": "待反馈"
+  }
+ ]
+}
