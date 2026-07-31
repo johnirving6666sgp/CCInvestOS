@@ -222,6 +222,13 @@
    "name": "亚马逊",
    "name_zh": "亚马逊",
    "focus": []
+  },
+  {
+   "ticker": "GEV",
+   "market": "US",
+   "name": "GE Vernova（电力/燃气轮机卡点）",
+   "name_zh": "GE Vernova（电力/燃气轮机卡点）",
+   "focus": []
   }
  ]
 }
