@@ -68,9 +68,9 @@
    "ticker": "CLS",
    "market": "US",
    "name_zh": "Celestica",
-   "status": "观察",
-   "reason": "AI机架集成ODM，超大规模云厂商\"隐形建筑队\"。市值约$100亿在Chokepoint框架边界，77%高位，等待回调机会。与AMD合作推出Helios机架级AI平台。",
-   "date": "2026-06-15",
+   "status": "喜欢",
+   "reason": "标注",
+   "date": "2026-07-31",
    "origin": "网页标注",
    "history": [
     {
@@ -97,6 +97,11 @@
      "date": "2026-06-14",
      "status": "观察",
      "reason": "Chokepoint候选：机架集成ODM，超大规模云厂商\"隐形建筑队\"。市值约$100亿在框架边界，当前52周77%高位，等待回调介入。与AMD合作推出Helios机架级AI平台。"
+    },
+    {
+     "date": "2026-06-15",
+     "status": "观察",
+     "reason": "AI机架集成ODM，超大规模云厂商\"隐形建筑队\"。市值约$100亿在Chokepoint框架边界，77%高位，等待回调机会。与AMD合作推出Helios机架级AI平台。"
     }
    ]
   },
