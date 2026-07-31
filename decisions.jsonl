@@ -61,3 +61,4 @@
 {"date":"2026-07-28","ticker":"NBIS","name_zh":"Nebius Group","action":"喜欢","price":169.69,"currency":"USD","pos":"中位","reason":"标注(依据 NBIS-20260725-01)","viaId":"NBIS-20260725-01"}
 {"date":"2026-07-31","ticker":"AMZN","name_zh":"亚马逊","action":"喜欢","price":271.27,"currency":"USD","pos":"高位","reason":"标注","viaId":""}
 {"date":"2026-07-31","ticker":"CLS","name_zh":"Celestica（AI机架集成ODM卡点）","action":"喜欢","price":335.95,"currency":"USD","pos":"中位","reason":"标注","viaId":""}
+{"date":"2026-07-31","ticker":"GEV","name_zh":"GE Vernova（电力/燃气轮机卡点）","action":"喜欢","price":991.55,"currency":"USD","pos":"高位","reason":"标注","viaId":""}
