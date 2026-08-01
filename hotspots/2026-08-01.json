@@ -1,0 +1,40 @@
+{
+ "date": "2026-08-01",
+ "items": [
+  {
+   "title": "超级财报周最终战报：AWS+Azure双双超预期，AI capex总承诺突破$6000亿大关",
+   "summary": "AMZN AWS增速37%(18季度最快)+capex上调至$2200亿、MSFT Azure +43%、Google Cloud +82%，三大云巨头Q2数据齐超预期，AI基建投入无减速迹象。本周单周确认的hyperscaler AI capex承诺已超$6000亿。AMZN盘后+9%→次日+15%，MSFT +15.5%，带动整个AI供应链板块大幅反弹。",
+   "source": "财经媒体",
+   "why": "三大云同步超预期消除了市场'AI泡沫'最大担忧，直接利好整个AI基建供应链(NVDA/CLS/CRDO/COHR/GEV/IRM等)。AWS+Azure+GCP的资本承诺将持续数年消化，是H1假设最强单周验证。",
+   "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html"
+  },
+  {
+   "title": "Charles Schwab警告：AI科技股财报后反应是2019年以来最弱——'打预期'已无法驱动涨幅",
+   "summary": "Charles Schwab分析指出，2026年Q2财报季科技股超预期后跑赢S&P500仅约2%，是2019年以来最弱表现。此前2020-2024年超预期后通常驱动0.5-1.3%额外超额收益。市场已将'超预期'定价进去，投资者开始惩罚'指引不够亮眼'而非单纯的EPS beat——RDDT、GOOGL均在超预期后遭遇大幅抛售。",
+   "source": "财经媒体",
+   "why": "这是非常重要的市场微观结构变化信号：在估值已充分反映乐观预期的背景下，操作逻辑必须从'买预期'转向'评估指引vs估值'。对H2(市场正在给AI重投入重新定价)有直接修正意义——市场对'好但不够好'的结果将持续惩罚。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sends-fresh-warning-180754732.html"
+  },
+  {
+   "title": "Reddit考虑切断Google AI数据授权引发-22%暴跌，'数据护城河'vs'流量依赖'的矛盾激化",
+   "summary": "WSJ报道Reddit内部讨论不续签与Google $6000万/年AI数据许可协议，原因是Google AI Overview分流Reddit流量、USA Today等出版商谷歌自然搜索流量骤降近50%。RDDT Q2超预期但盘后-22%，市场担忧AI搜索对流量/广告商业模式的系统性冲击大于数据授权收入本身。",
+   "source": "Reddit r/stocks/WSJ/CNBC",
+   "why": "这是内容平台与AI搜索博弈的标志性事件。若Reddit成功重新谈判或切断Google并获得更高授权费，将为所有内容平台的数据定价权树立先例；若谷歌流量侧下滑加速，则广告模式护城河重新存疑。具有跨行业参考价值。",
+   "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html"
+  },
+  {
+   "title": "Reddit/WSB热议：MU、GOOG、NVDA过去24小时最多提及，AI财报周情绪从恐慌转乐观",
+   "summary": "AltIndex实时数据(截至7/31)：过去24小时WSB/r/stocks最多提及股票为MU、GOOG、NVDA，均具备强AI Score和多头情绪。背景：本周AWS/Azure双超预期后，Reddit散户情绪从上周CXMT/循环融资恐慌中快速修复，AMZN盘后+9%拉动隔日科技板块整体走强。",
+   "source": "Reddit/AltIndex",
+   "why": "散户情绪指标：从恐慌到回归多头的速度异常快，说明市场对AI基建叙事的信仰仍然稳固。过去一周的抛压更多是机构获利了结而非散户信仰崩塌，本周回弹可能持续但需观察是否有新的叙事冲击。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "GEV Q2 EPS大幅低于预期($2.47 vs $3.18共识)：'能源卡点'逻辑面临成本执行力考验",
+   "summary": "GE Vernova Q2 EPS $2.47大幅低于共识$3.18，营收$111亿(+22%)虽超预期，但利润端miss引发'高bar'压力下的抛售。公司上调全年收入指引并披露扩产计划，但高管们承认成本端存在压力。CNBC报道'GEV slides after earnings'，当前$990处于高位。",
+   "source": "MarketScreener/CNBC/MarketBeat",
+   "why": "GEV是H8(能源/电力卡点)的核心标的，EPS miss验证了H7的判断——'逻辑正确但高位+执行风险意味着介入时机需等待'。成本管控是下一个财报的最重要验证点。对AI数据中心电力供给侧投资者具有直接参考价值。",
+   "url": "https://www.tikr.com/blog/reddit-stock-fell-8-in-a-day-on-a-google-licensing-report-heres-where-the-stock-could-go-in-2026"
+  }
+ ]
+}
