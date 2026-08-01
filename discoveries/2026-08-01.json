@@ -1,0 +1,16 @@
+{
+ "date": "2026-08-01",
+ "items": [
+  {
+   "date": "2026-08-01",
+   "ticker": "PSNL",
+   "market": "US",
+   "name_zh": "Personalis",
+   "pattern": "王者归来",
+   "thesis": "TEM以$16.25/股溢价收购，Personalis专注MRD癌症监测，被AI精准医疗龙头战略认可，当前处于被并购溢价锁定状态，但若交易失败风险将暴露底部价值",
+   "price_evidence": "TEM出价$16.25，股价当前应接近该价格但此前曾大幅低于，溢价幅度待核实；属于套利/反转双重逻辑叠加",
+   "key_question": "收购完成概率(监管/股东批准)？若交易失败Personalis独立估值几何？MRD市场竞争格局vs Foundation Medicine/Guardant",
+   "status": "待反馈"
+  }
+ ]
+}
