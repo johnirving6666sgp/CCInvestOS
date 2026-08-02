@@ -1,0 +1,16 @@
+{
+ "date": "2026-08-02",
+ "items": [
+  {
+   "date": "2026-08-02",
+   "ticker": "AMD",
+   "market": "US",
+   "name_zh": "Advanced Micro Devices（超威半导体）",
+   "pattern": "戴维斯双击 / 错杀成长",
+   "thesis": "AMD 2026年YTD+100%+、GPU价格主动涨价≥10%确认需求韧性，同时Helios/OpenAI合作打开AI训练市场新增量，估值从年初低位持续修复，但仍处于AI供应链中仅次于NVDA的核心卡点位置。",
+   "price_evidence": "AMD 2026年YTD+100%，SOXX ETF同期+59%；AMD从年初相对低位大幅修复，当前估值35x FY27 forward PE（高于NVDA但反映更大AI增量预期）；GPU涨价报道当日AMD股价上涨。",
+   "key_question": "AMD Helios芯片OpenAI交付时间表是否兑现？客户多元化（现仅OpenAI为主要AI训练客户）能否在FY2027形成？GPU涨价能否转化为AMD毛利率提升？",
+   "status": "待反馈"
+  }
+ ]
+}
