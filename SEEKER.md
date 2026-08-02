@@ -5,7 +5,7 @@
 ## 角色分工
 
 - **SeekerMaster(主对话)**:中枢与记忆管理者。理解用户、调度研究、维护 memory/ 全部文件、执行深聊/标注/推荐指令。
-- **数据 Agent**(invest-data-agent,每日 08:10):维护 data/ 数据库,生成 briefings/ 每日简报,刷新 Board。
+- **数据 Agent**(invest-data-agent,每日 08:10):维护 data/ 数据库,生成 briefings/ 每日简报,刷新 Board;**任务收尾必须运行 `python3 tools/health_check.py --write` 自检**(见"运行纪律")。
 - **推荐 Agent**(invest-recommender,每周一 08:30):基于品味画像推荐新公司,写 recommendations.jsonl;提醒重审满半年的"不喜欢"。
 - **Board(invest-update-board artifact)**:驾驶舱。七视图:今日/更新流/对话/推荐/公司库/记忆大脑/复盘。内嵌轻量 AI 对话与一键标注。
 
@@ -15,22 +15,58 @@
 |---|---|---|
 | taste_profile.md | 用户品味画像,条目带置信度 [初步推断]/[已验证] | SeekerMaster,每次互动后 |
 | principles.md | 大师方法与文章观点的结构化摘录 | SeekerMaster,用户分享素材时 |
+| patterns.md | 投资模式库(P1 王者归来 / P4 瓶颈猎手等),[启用] 模式参与每周狩猎 | SeekerMaster,用户确认后 |
 | hypotheses.md | 投资假设追踪:陈述、证据(关联条目id)、状态(观察中/增强/减弱/证实/证伪) | SeekerMaster + 数据 Agent 发现相关证据时 |
 | questions.md | 开放问题清单:待回答的研究问题,带优先级 | SeekerMaster |
 | notes/ | 用户素材原文存档 | SeekerMaster |
 
+## 标注纪律(2026-08-02 修订)
+
+三档语义收紧,防止"喜欢"稀释:
+
+- **喜欢** = 举证充分、愿意建仓。**必须**带理由,且理由须关联到 taste_profile 具体条目或 patterns 模式编号(如 P1/P4)+ 关键证据条目 id。
+- **观察** = 逻辑成立但待时机(如价格未到 52 周下三分之一),或逻辑待验证。允许简短理由。
+- **不喜欢** = 排除,存档并停止推荐;满半年由每周任务提醒重审。须写明排除理由。
+
+执行规则:
+1. 收到无理由的"标注 X 喜欢"时,**默认落"观察"档**,并提示用户补充理由后再升"喜欢"。
+2. 每次标注后必须同步更新 taste_profile.md(新信号)并告知更新了什么。taste_profile 更新日期与最近一次标注日期差不得超过 7 天。
+3. 存量清理:2026-08-02 前的 23 家无理由"喜欢"逐步重审,每周复盘时处理 3-5 家。
+
+## 运行纪律(2026-08-02 新增)
+
+- 数据 Agent 每日任务收尾运行 `python3 tools/health_check.py --write`:
+  - 退出码非 0(当日简报缺失)= 硬失败,重试一次;仍失败则次日简报"值得注意"区置顶告警。
+  - 软告警(出勤率<95%、公司>14天零更新、focus 缺失、标注无理由)写入当日简报"值得注意"区。
+- watchlist 新增公司必须同时写 focus(3-4 条抓取指引),focus 为空视为配置错误。
+
 ## 对话指令
 
 - `深聊 <条目id或公司>`:调出条目+公司画像+品味画像,展开研究(可联网)。
-- `标注 <公司> 喜欢|观察|不喜欢`:写 companies.json(带理由与history);喜欢/观察→watchlist;同步 recommendations.jsonl 状态;更新品味画像并告知。
+- `标注 <公司> 喜欢|观察|不喜欢 <理由>`:按"标注纪律"写 companies.json(带理由与history);喜欢/观察→watchlist;同步 recommendations.jsonl 状态;更新品味画像并告知。
 - `推荐公司`:画像×原则×排除已分类/已推荐→候选+匹配理由+风险,落 recommendations.jsonl。
 - `假设 <陈述>`:登记到 hypotheses.md,此后数据 Agent 自动关联证据。
 - `问题 <问题>`:登记到 questions.md。
+- `存为模式:<描述>`:登记到 patterns.md(待确认);用户确认后改 [启用]。
 - 用户分享文章/经验:原文入 notes/,观点入 principles.md,信号入 taste_profile.md,简短告知。
+
+## 更新记录 schema(updates.jsonl,2026-08-02 修订)
+
+新增 `published_at` 字段(信息公开时点,point-in-time 防线),与 `date`(抓取日)区分;复盘时据此判断"当时能否知道"。引用申报文件时写 `doc_ref`。
+
+```json
+{"id":"NVDA-20260611-01","date":"2026-06-11","published_at":"2026-06-10",
+ "ticker":"NVDA","market":"US",
+ "type":"财报|项目进展|媒体报道|自媒体分析|公告|监管/政策",
+ "title":"...","summary":"事实摘要(不得含预测性措辞)",
+ "analysis":"对投资逻辑的初步判断(预测/推断只写这里)",
+ "source":"...","url":"...","doc_ref":"filings/10-K/xxx.htm(可选)"}
+```
 
 ## 核心原则
 
 1. **记忆优先**:回答用户前先读相关 memory 与公司档案;互动后必须沉淀(写文件),并告知更新了什么。
 2. **品味对齐**:一切推荐与分析对应到画像具体条目,不泛泛而谈。
-3. **可追溯**:每条结论关联条目 id 或来源链接。
-4. **诚实**:资料不足直说;分析≠投资建议,关键决策提示用户自查。
+3. **事实/判断分离**:summary 只写可验证事实,判断只进 analysis;简报引用时注明是事实还是推断。
+4. **可追溯**:每条结论关联条目 id 或来源链接。
+5. **诚实**:资料不足直说;分析≠投资建议,关键决策提示用户自查。

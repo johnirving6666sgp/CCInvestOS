@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-31",
- "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。",
+ "updated": "2026-08-02",
+ "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。focus 字段为抓取指引,不得为空——新增公司时必须同时写 focus(3-4 条),否则数据 Agent 抓取质量会显著下降。",
  "companies": [
   {
    "ticker": "NVDA",
@@ -67,168 +67,288 @@
    "market": "US",
    "name": "Tempus AI",
    "name_zh": "Tempus AI",
-   "focus": []
+   "focus": [
+    "AI诊断检测量与数据业务增长",
+    "与药厂数据授权合作管线",
+    "盈利路径(EBITDA转正节奏)",
+    "医保覆盖与报销政策"
+   ]
   },
   {
    "ticker": "FATE",
    "market": "US",
    "name": "Fate Therapeutics",
    "name_zh": "Fate Therapeutics",
-   "focus": []
+   "focus": [
+    "FT819临床数据读出",
+    "现金跑道(≥2年为H4分水岭)",
+    "CAR-T竞品获批格局",
+    "合作伙伴与授权交易"
+   ]
   },
   {
    "ticker": "01729",
    "market": "HK",
    "name": "汇聚科技",
    "name_zh": "汇聚科技",
-   "focus": []
+   "focus": [
+    "AI数据中心线缆/光纤订单",
+    "大客户结构(立讯系/北美云厂)",
+    "产能扩张与毛利率",
+    "P1/P4双模式实盘印证跟踪"
+   ]
   },
   {
    "ticker": "CLS",
    "market": "US",
    "name": "Celestica",
    "name_zh": "Celestica",
-   "focus": []
+   "focus": [
+    "CCS(连接与云)营收增速",
+    "超大规模云厂ODM订单",
+    "AMD Helios平台出货进展",
+    "52周位置与P4介入条件(下三分之一)"
+   ]
   },
   {
    "ticker": "COHR",
    "market": "US",
    "name": "Coherent Corp",
    "name_zh": "Coherent Corp",
-   "focus": []
+   "focus": [
+    "光收发器产能与交货期",
+    "NVDA战略入股后采购承诺兑现",
+    "数据中心营收占比",
+    "CPO(光电共封装)替代风险=P4证伪条件"
+   ]
   },
   {
    "ticker": "PWR",
    "market": "US",
    "name": "Quanta Services",
    "name_zh": "Quanta Services",
-   "focus": []
+   "focus": [
+    "电网/数据中心电力工程backlog",
+    "电工劳动力约束与定价权",
+    "利润率趋势",
+    "大项目集中度"
+   ]
   },
   {
    "ticker": "IRM",
    "market": "US",
    "name": "Iron Mountain",
    "name_zh": "Iron Mountain",
-   "focus": []
+   "focus": [
+    "数据中心托管转型营收占比",
+    "AI相关租赁签约",
+    "传统档案业务现金流稳定性",
+    "'旧经济标签'错误定价修复进度"
+   ]
   },
   {
    "ticker": "NBIS",
    "market": "US",
    "name": "Nebius Group",
    "name_zh": "Nebius Group",
-   "focus": []
+   "focus": [
+    "算力合同RPO与新签",
+    "EBITDA正向可持续性",
+    "资本开支与融资节奏",
+    "大客户集中度"
+   ]
   },
   {
    "ticker": "CRDO",
    "market": "US",
    "name": "Credo Technology",
    "name_zh": "Credo Technology",
-   "focus": []
+   "focus": [
+    "AEC有源电缆放量",
+    "SerDes IP授权进展",
+    "hyperscaler客户集中度",
+    "市值是否溢出P4盲区(>500亿)"
+   ]
   },
   {
    "ticker": "SYM",
    "market": "US",
    "name": "Symbotic",
    "name_zh": "Symbotic",
-   "focus": []
+   "focus": [
+    "沃尔玛部署进度与验收",
+    "新客户签约",
+    "软件收入占比与毛利率",
+    "积压订单消化速度"
+   ]
   },
   {
    "ticker": "MU",
    "market": "US",
    "name": "美光科技",
    "name_zh": "美光科技",
-   "focus": []
+   "focus": [
+    "HBM产能分配与定价",
+    "CXMT竞争对DRAM的实际冲击",
+    "NAND/DRAM周期位置",
+    "资本开支纪律"
+   ]
   },
   {
    "ticker": "7974.T",
    "market": "JP",
    "name": "任天堂",
    "name_zh": "任天堂",
-   "focus": []
+   "focus": [
+    "Switch 2销量与装机周期",
+    "Mario电影(2026H2)IP变现",
+    "第一方软件附着率",
+    "日元汇率影响;P1观察窗口(距高-47.6%)"
+   ]
   },
   {
    "ticker": "LULU",
    "market": "US",
    "name": "露露柠檬",
    "name_zh": "露露柠檬",
-   "focus": []
+   "focus": [
+    "北美同店增速拐点",
+    "中国市场扩张",
+    "库存与折扣率健康度",
+    "Alo/Vuori竞品侵蚀;P1候选跟踪"
+   ]
   },
   {
    "ticker": "CRWV",
    "market": "US",
    "name": "CoreWeave",
    "name_zh": "CoreWeave",
-   "focus": []
+   "focus": [
+    "大客户集中度(MSFT/OpenAI/Moonshot)",
+    "债务成本与GPU折旧政策",
+    "合同期限结构与RPO",
+    "8月财报验证neocloud逻辑"
+   ]
   },
   {
    "ticker": "RDDT",
    "market": "US",
    "name": "Reddit",
    "name_zh": "Reddit",
-   "focus": []
+   "focus": [
+    "Google数据授权续约条款(H4式证伪风险)",
+    "广告收入增长",
+    "DAU与AI搜索流量冲击",
+    "数据授权收入集中度"
+   ]
   },
   {
    "ticker": "CBRS",
    "market": "US",
    "name": "Cerebras Systems",
    "name_zh": "Cerebras Systems",
-   "focus": []
+   "focus": [
+    "晶圆级推理芯片订单",
+    "大客户G42集中度",
+    "与NVDA生态的竞争位置",
+    "IPO后锁定期与稀释"
+   ]
   },
   {
    "ticker": "AVGO",
    "market": "US",
    "name": "博通",
    "name_zh": "博通",
-   "focus": []
+   "focus": [
+    "AI ASIC定制芯片客户数与订单",
+    "网络芯片(Tomahawk/Jericho)增速",
+    "VMware整合与软件利润率",
+    "资本回报政策"
+   ]
   },
   {
    "ticker": "IREN",
    "market": "US",
    "name": "IREN Limited（原Iris Energy，AI算力基础设施）",
    "name_zh": "IREN Limited（原Iris Energy，AI算力基础设施）",
-   "focus": []
+   "focus": [
+    "AI云算力合同签约转化",
+    "德州电力资源与扩容",
+    "比特币挖矿营收占比下降速度",
+    "融资方式与稀释;多空对立(Bernstein vs JPM)跟踪"
+   ]
   },
   {
    "ticker": "BDX",
    "market": "US",
    "name": "Becton Dickinson（医疗器械百年王者）",
    "name_zh": "Becton Dickinson（医疗器械百年王者）",
-   "focus": []
+   "focus": [
+    "分拆/重组进展",
+    "耗材业务恢复增速",
+    "利润率修复路径",
+    "估值低位+百年王者=P1候选"
+   ]
   },
   {
    "ticker": "TEAM",
    "market": "US",
    "name": "Atlassian（协作软件王者）",
    "name_zh": "Atlassian（协作软件王者）",
-   "focus": []
+   "focus": [
+    "Rovo AI产品渗透率",
+    "云迁移收入增速",
+    "付费席位增长",
+    "距高-45.6%的P1/P2双信号验证"
+   ]
   },
   {
    "ticker": "SNDK",
    "market": "US",
    "name": "SanDisk Corporation（西部数字分拆内存独立公司）",
    "name_zh": "SanDisk Corporation（西部数字分拆内存独立公司）",
-   "focus": []
+   "focus": [
+    "NAND价格周期拐点",
+    "分拆后独立运营与成本结构",
+    "AI推理存储需求",
+    "CXMT供给冲击;-29%大跌后反向信号"
+   ]
   },
   {
    "ticker": "POET",
    "market": "US",
    "name": "POET Technologies（光子集成电路）",
    "name_zh": "POET Technologies（光子集成电路）",
-   "focus": []
+   "focus": [
+    "光子集成设计订单落地",
+    "量产合作伙伴进展",
+    "现金跑道与稀释风险",
+    "从故事到收入的验证节点"
+   ]
   },
   {
    "ticker": "AMZN",
    "market": "US",
    "name": "亚马逊",
    "name_zh": "亚马逊",
-   "focus": []
+   "focus": [
+    "AWS增速与商业积压订单",
+    "AI capex回报证据(H1/H2)",
+    "广告业务增速",
+    "零售利润率"
+   ]
   },
   {
    "ticker": "GEV",
    "market": "US",
    "name": "GE Vernova（电力/燃气轮机卡点）",
    "name_zh": "GE Vernova（电力/燃气轮机卡点）",
-   "focus": []
+   "focus": [
+    "燃气轮机订单与交货期(卡点定价权)",
+    "电网设备backlog",
+    "SMR/核能布局",
+    "涨价落地与利润率"
+   ]
   }
  ]
 }
