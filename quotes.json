@@ -10,7 +10,7 @@
   "fromLow": 21.5,
   "pos": "中位",
   "posPct": 50,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "MSFT": {
   "ticker": "MSFT",
@@ -23,7 +23,7 @@
   "fromLow": 31.7,
   "pos": "中位",
   "posPct": 59,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "7203.T": {
   "ticker": "7203.T",
@@ -36,7 +36,7 @@
   "fromLow": 14.7,
   "pos": "低位",
   "posPct": 31,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "6758.T": {
   "ticker": "6758.T",
@@ -49,7 +49,7 @@
   "fromLow": 21.7,
   "pos": "中位",
   "posPct": 42,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "0700.HK": {
   "ticker": "0700.HK",
@@ -62,7 +62,7 @@
   "fromLow": 15.4,
   "pos": "低位",
   "posPct": 24,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "TEM": {
   "ticker": "TEM",
@@ -75,7 +75,7 @@
   "fromLow": 5.6,
   "pos": "低位",
   "posPct": 4,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "FATE": {
   "ticker": "FATE",
@@ -88,7 +88,7 @@
   "fromLow": 166.3,
   "pos": "高位",
   "posPct": 70,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "01729": {
   "ticker": "01729",
@@ -105,7 +105,7 @@
   "fromLow": 82.8,
   "pos": "中位",
   "posPct": 52,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "COHR": {
   "ticker": "COHR",
@@ -118,7 +118,7 @@
   "fromLow": 203.7,
   "pos": "中位",
   "posPct": 52,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "PWR": {
   "ticker": "PWR",
@@ -131,7 +131,7 @@
   "fromLow": 79.2,
   "pos": "高位",
   "posPct": 71,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "IRM": {
   "ticker": "IRM",
@@ -144,7 +144,7 @@
   "fromLow": 55.1,
   "pos": "高位",
   "posPct": 80,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "NBIS": {
   "ticker": "NBIS",
@@ -157,7 +157,7 @@
   "fromLow": 266.2,
   "pos": "中位",
   "posPct": 59,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "CRDO": {
   "ticker": "CRDO",
@@ -170,7 +170,7 @@
   "fromLow": 135.7,
   "pos": "中位",
   "posPct": 56,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "SYM": {
   "ticker": "SYM",
@@ -183,7 +183,7 @@
   "fromLow": 11.6,
   "pos": "低位",
   "posPct": 9,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "MU": {
   "ticker": "MU",
@@ -196,7 +196,7 @@
   "fromLow": 684.7,
   "pos": "中位",
   "posPct": 65,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "7974.T": {
   "ticker": "7974.T",
@@ -209,7 +209,7 @@
   "fromLow": 16.5,
   "pos": "低位",
   "posPct": 14,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "LULU": {
   "ticker": "LULU",
@@ -222,7 +222,7 @@
   "fromLow": 12.7,
   "pos": "低位",
   "posPct": 12,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "CRWV": {
   "ticker": "CRWV",
@@ -235,7 +235,7 @@
   "fromLow": 18,
   "pos": "低位",
   "posPct": 12,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "RDDT": {
   "ticker": "RDDT",
@@ -248,7 +248,7 @@
   "fromLow": 15.5,
   "pos": "低位",
   "posPct": 13,
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "chg1dVerified": true
  },
  "CBRS": {
@@ -262,7 +262,7 @@
   "fromLow": 17.9,
   "pos": "低位",
   "posPct": 21,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "AVGO": {
   "ticker": "AVGO",
@@ -275,7 +275,7 @@
   "fromLow": 34.9,
   "pos": "中位",
   "posPct": 52,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "IREN": {
   "ticker": "IREN",
@@ -288,7 +288,7 @@
   "fromLow": 139,
   "pos": "中位",
   "posPct": 35,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "BDX": {
   "ticker": "BDX",
@@ -301,7 +301,7 @@
   "fromLow": 22.2,
   "pos": "中位",
   "posPct": 60,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "TEAM": {
   "ticker": "TEAM",
@@ -314,7 +314,7 @@
   "fromLow": 76.8,
   "pos": "中位",
   "posPct": 34,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "SNDK": {
   "ticker": "SNDK",
@@ -327,7 +327,7 @@
   "fromLow": 2885.6,
   "pos": "中位",
   "posPct": 51,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "POET": {
   "ticker": "POET",
@@ -340,7 +340,7 @@
   "fromLow": 67.6,
   "pos": "低位",
   "posPct": 17,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "AMZN": {
   "ticker": "AMZN",
@@ -353,7 +353,7 @@
   "fromLow": 36.6,
   "pos": "高位",
   "posPct": 96,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  },
  "GEV": {
   "ticker": "GEV",
@@ -366,6 +366,6 @@
   "fromLow": 80.7,
   "pos": "高位",
   "posPct": 71,
-  "date": "2026-08-01"
+  "date": "2026-08-02"
  }
 }
