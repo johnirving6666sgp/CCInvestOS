@@ -1,0 +1,40 @@
+{
+ "date": "2026-08-02",
+ "items": [
+  {
+   "title": "AMD与NVDA双双涨价≥10%：GPU供给端定价权再获确认",
+   "summary": "AMD已通知合作伙伴8月GPU+显存套装涨价至少10%，并有报道指NVDA同样计划涨价。这是继Alphabet/MSFT/Amazon巨额capex指引之后，AI芯片需求侧最直接的供给端价格信号。",
+   "source": "TipRanks",
+   "why": "GPU主动涨价意味着供给仍紧缺、需求端未见放缓，直接打击'AI毛细管已满'的空头叙事；对NVDA/AMD/MU/SNDK/CRDO/CLS等AI供应链全体利好。假设H1最新增强证据。",
+   "url": "https://www.tipranks.com/news/amd-stock-jumps-as-reports-point-to-a-gpu-price-increase-in-august"
+  },
+  {
+   "title": "Mag7超级财报周：MSFT+AMZN双双大超预期，AI capex ROI争论转向'执行力已证明'",
+   "summary": "MSFT（Azure +43%，商业积压+$510亿）和AMZN（AWS +37%，18季最快，EPS $5.75 vs 共识$1.81）双双大幅超预期，两股单周合计涨幅显著，整体市场情绪从'capex黑洞担忧'转向'AI变现已来临'。",
+   "source": "财经媒体综合",
+   "why": "这是近几周最大的市场转折信号——hyperscaler ROI已开始兑现，将为整个AI供应链（NVDA/CLS/COHR/CRDO/PWR/NBIS等）提供持续催化。H2（市场对AI重投入公司定价不足）的拐点信号。",
+   "url": "https://ts2.tech/en/microsoft-corp-nasdaqmsft-shares-climb-22-as-backlog-expansion-outpaces-capex/"
+  },
+  {
+   "title": "Reddit崩跌-21%：Google流量谈判僵局引发平台护城河质疑",
+   "summary": "Reddit Q2超预期但股价-21%，核心矛盾是Google数据授权合同重谈悬而未决，Q3指引增速隐含放缓。市场担心Google断供（爬虫+API流量）将实质性损害Reddit的数据变现模式。",
+   "source": "财经媒体/Stocktitan",
+   "why": "RDDT已跌至52周低位（-48%），若Google谈判持续僵局，这是P3（错杀成长）vs P1（逻辑被证伪）的分叉口。用户监控RDDT需密切跟踪Google合同进展，这是决定性变量。",
+   "url": "https://www.stocktitan.net/news/RDDT/"
+  },
+  {
+   "title": "Neocloud三重压力后Stocktwits零售情绪逆转：IREN/NBIS/CRWV周末做多信号",
+   "summary": "IREN/NBIS/CRWV本周均跌17-19%，叠加Meta Compute恐慌+JPMorgan高信念做空IREN；但周末零售情绪扭转，Stocktwits标记NBIS 'extremely bullish'、CRWV/IREN 'bullish'，夜盘各涨约1%。",
+   "source": "Stocktwits / Yahoo Finance",
+   "why": "零售情绪是短期反弹的先行指标，但主机构（JPMorgan做空 vs Bernstein买入）分歧更值得关注。Meta Compute威胁若进一步被证伪，neoclud三只股将迎来一致性做多机会。",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-crwv-iren-stocks-014733772.html"
+  },
+  {
+   "title": "COHR Q4财报8月12日：共识EPS $1.43(+93%)，SeekingAlpha密集发文称'AI数据中心光通信终极瓶颈'",
+   "summary": "Coherent Q4 FY2026财报8月12日盘前发布，管理层指引EPS中点$1.62（超共识$1.43），23位分析师17个Strong Buy。多篇Seeking Alpha文章1-2天内密集发布，主题高度一致地强调COHR在AI数据中心光通信的瓶颈地位，平均目标$395.50（vs当前$262.89，上行26.7%）。",
+   "source": "Seeking Alpha / Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/expect-coherents-q4-2026-earnings-121109900.html",
+   "why": "COHR是P4（瓶颈猎手）最纯粹的标的之一；距高点-38.4%、8月12日财报前市场正在积累多头。SA密集发文是机构覆盖度扩大的信号。关键风险：Q3曾beat后次日仍跌7.4%，市场对'超预期'门槛极高。"
+  }
+ ]
+}
