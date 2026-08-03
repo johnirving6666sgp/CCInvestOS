@@ -1,0 +1,47 @@
+{
+ "date": "2026-08-03",
+ "items": [
+  {
+   "title": "Alibaba-Moonshot Kimi K3 出口管制漏洞曝光：云计算'租用绕道'令Washington芯片封锁失效",
+   "summary": "Bloomberg 7月31日确认Moonshot通过阿里巴巴租用约2万张NVDA H200芯片训练Kimi K3，模型性能接近OpenAI/Anthropic顶级系统。白宫同时指控其经东南亚渠道非法获取Blackwell芯片。核心漏洞：芯片未跨境，计算通过互联网传输，现有出口管制无法拦截云租用模式。",
+   "source": "财经媒体",
+   "why": "这是最重要的出口管制结构性漏洞被正式揭露——直接影响NVDA中国需求前景（既证明需求真实，也可能触发更严厉政策）；对NVDA/AVGO/MU等半导体股构成双面信号；同时暗示中国AI追赶速度超预期（DeepSeek效应延续），对AI产业竞争格局有深远影响。",
+   "url": "https://www.tipranks.com/news/alibaba-baba-secretly-funneled-20000-nvidia-chips-to-power-kimi-k3-despite-u-s-export-ban"
+  },
+  {
+   "title": "AI财报季终极验证：MSFT Azure +43%、AMZN AWS +37%（18季度最快）、capex全线上调——H1假设进入'增强接近证实'状态",
+   "summary": "过去一周Mag7财报完成最关键验证：MSFT Azure年化$1000亿+Copilot 3000万付费席位；AMZN AWS +37%+全年capex上调至$2200亿；MSFT商业积压订单单季+$510亿超越capex $410亿。这是AI基建投资加速最直接的宏观验证。港股AI芯片板块同步大涨后震荡。",
+   "source": "财经媒体",
+   "why": "这是投资者等待多季的ROI证据——capex > revenue backlog增长的数学关系开始成立，AI投入从'信仰消费'向'商业验证'过渡。对所有AI供应链标的（NVDA/CLS/COHR/PWR/NBIS等）均属长期逻辑增强，但短期'买预期卖事实'风险已释放（MSFT涨15.5%已消化）。",
+   "url": "https://www.techtimes.com/articles/322143/20260729/azure-tops-100b-copilot-paid-seats-jump-30m-microsoft-blowout-quarter.htm"
+  },
+  {
+   "title": "Reddit RDDT暴跌-22%：Google数据授权谈判悬而未决是2026年最大'H4式证伪风险'标的",
+   "summary": "Reddit Q2营收$8.05亿(+61% YoY)、EPS $1.25大超预期，但因Google续约谈判不确定性和Q3增速隐含放缓，盘后暴跌。当前$140.67距高-48%处于52周低位。核心风险：数据授权收入集中度过高，Google若断供或压价将直接打击增长逻辑。",
+   "source": "财经媒体",
+   "why": "RDDT是'单一大客户依赖型'商业模式最极端的案例。Google续约谈判结果将是投资者必须回答的核心问题——若谈判失败，RDDT整个数据授权业务逻辑被证伪（典型H4证伪条件）。同时，AI搜索对DAU的影响是未来1-2年的长期证伪风险。这是一个-48%低位但逻辑不明的高风险案例。",
+   "url": "https://www.stocktitan.net/news/RDDT/"
+  },
+  {
+   "title": "港股日报：微软FY27 capex指引$1750亿低于市场预期$1900亿，港股AI硬件链午后重挫",
+   "summary": "7月30日MSFT电话会透露FY27 capex约$1750亿（低于市场预期$1900亿），导致港股AI芯片及硬件板块重挫：中芯国际跌超7%、华虹宏力跌超8%。同日，腾讯逆势涨1.16%，大模型板块分化。同时7月27日CXMT上海IPO暴涨471%至市值3.31万亿元，成A股新股王，国产算力产业链估值锚点确立。",
+   "source": "FX168",
+   "why": "capex指引低于预期（$1750亿vs$1900亿）是港股AI硬件最直接的估值压制因素——传导路径：capex↓→数据中心订单预期↓→AI光纤/PCB/芯片股调整。与此同时CXMT IPO暴涨代表国产存储定价权建立，对MU/SNDK构成长期竞争警示。两个信号同向压制AI硬件链但方向不同（一个是需求侧，一个是供给侧），值得投资者区分对待。",
+   "url": "https://news.fx168news.com/cooperate/2607/7481826.shtml"
+  },
+  {
+   "title": "GEV Q2积压订单$1760亿(+88% YoY)但估值44x前瞻PE引发警告；Motley Fool推荐转向PWR",
+   "summary": "GEV Q2 2026订单同比+88%，积压达$1760亿（原2027目标$2000亿提前），全年指引上调，燃气轮机价格三年涨+300%。但Motley Fool警告：44x 2027 PE估值过高，推荐同主题更合理估值的Quanta Services（PWR）替代配置。PWR Q2营收$95.6亿(+41% YoY)大超预期。",
+   "source": "Motley Fool",
+   "why": "这是一个经典的'好公司≠好股票'估值警示。GEV定价权和积压订单无可置疑（H8核心验证），但44x PE明显溢价，回调空间较大。PWR作为替代（电力工程施工）估值更合理且已在52周高位验证超预期。对追求P4瓶颈猎手逻辑的投资者：需等待GEV从高位回调至更合理估值再评估。",
+   "url": "https://www.fool.com/investing/2026/07/22/im-officially-sounding-the-alarm-on-ge-vernova/"
+  },
+  {
+   "title": "Reddit/WSB社区热议：MU、GOOG、NVDA排行前三；CRDO Q4连续四次超预期进入讨论热点",
+   "summary": "据AltIndex 7月31日监测，Reddit各投资社区过去24小时最热股票为MU、GOOG、NVDA（AI Score和情绪看多）。MU社区情绪从7月15日高点66.88降至7月31日48.49（已降温），AVGO情绪复合降幅22.78分。CRDO FY26营收三倍增长+连续四超引发247 Wall St专题分析，但市值$375亿已被机构覆盖。",
+   "source": "Reddit / AltIndex",
+   "why": "MU情绪降温（从66→48）与MU当天股价-5.9%相互印证，反映短期多头力量消耗。CRDO被主流媒体覆盖意味着P4盲区效应减弱。对零售情绪周期判断：MU/NVDA零售关注度仍高，但已从极度乐观回落，短期拐点信号需关注摩根士丹利内存价格+25%预测能否在8-9月财报中兑现。",
+   "url": "https://altindex.com/reddit-stocks"
+  }
+ ]
+}
