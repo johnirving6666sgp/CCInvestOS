@@ -556,6 +556,16 @@
    "date": "2026-08-03",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "NOK",
+   "market": "US",
+   "name_zh": "诺基亚（美股ADR）",
+   "status": "喜欢",
+   "reason": "标注",
+   "date": "2026-08-03",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
