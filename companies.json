@@ -572,6 +572,16 @@
    "date": "2026-08-03",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "LEIDOS (LDO)",
+   "market": "US",
+   "name_zh": "LEIDOS（防务AI）",
+   "status": "不喜欢",
+   "reason": "标注",
+   "date": "2026-08-03",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
