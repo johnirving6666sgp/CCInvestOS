@@ -481,11 +481,17 @@
    "ticker": "SNDK",
    "market": "US",
    "name_zh": "SanDisk Corporation（西部数字分拆内存独立公司）",
-   "status": "喜欢",
+   "status": "不喜欢",
    "reason": "标注",
-   "date": "2026-07-22",
+   "date": "2026-08-03",
    "origin": "网页标注",
-   "history": []
+   "history": [
+    {
+     "date": "2026-07-22",
+     "status": "喜欢",
+     "reason": "标注"
+    }
+   ]
   },
   {
    "ticker": "POET",
