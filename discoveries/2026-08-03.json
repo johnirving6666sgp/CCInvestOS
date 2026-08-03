@@ -1,0 +1,16 @@
+{
+ "date": "2026-08-03",
+ "items": [
+  {
+   "date": "2026-08-03",
+   "ticker": "LEIDOS (LDO)",
+   "market": "US",
+   "name_zh": "LEIDOS（防务AI）",
+   "pattern": "瓶颈猎手（P4）",
+   "thesis": "与CRWV签署国防/情报AI云合作协议，成为政府AI算力采购的关键经纪人节点；防务AI合同规模大、壁垒高、可见度强",
+   "price_evidence": "需单独验证价格位置——发现源自CRWV新闻，尚未确认回撤数据，暂列为待验证",
+   "key_question": "Leidos股价距52周高点回撤幅度？政府AI云合同占总收入比例？与CRWV合作的潜在规模？",
+   "status": "待反馈"
+  }
+ ]
+}
