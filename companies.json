@@ -600,6 +600,16 @@
    "date": "2026-08-03",
    "origin": "网页标注",
    "history": []
+  },
+  {
+   "ticker": "BE",
+   "market": "US",
+   "name_zh": "博隆能源（Bloom Energy）",
+   "status": "喜欢",
+   "reason": "标注",
+   "date": "2026-08-04",
+   "origin": "网页标注",
+   "history": []
   }
  ]
 }
