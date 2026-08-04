@@ -77,3 +77,4 @@
 {"date":"2026-08-04","ticker":"7974.T","name_zh":"任天堂（Nintendo）","action":"喜欢","price":7558,"currency":"JPY","pos":"低位","reason":"标注","viaId":""}
 {"date":"2026-08-04","ticker":"MU","name_zh":"美光科技（Micron Technology）","action":"喜欢","price":892.67,"currency":"USD","pos":"高位","reason":"标注","viaId":""}
 {"date":"2026-08-04","ticker":"BDX","name_zh":"碧迪医疗（Becton, Dickinson and Company）","action":"喜欢","price":170.12,"currency":"USD","pos":"高位","reason":"标注","viaId":""}
+{"date":"2026-08-04","ticker":"LULU","name_zh":"露露柠檬（Lululemon Athletica）","action":"不喜欢","price":123.03,"currency":"USD","pos":"低位","reason":"标注","viaId":""}
