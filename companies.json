@@ -398,9 +398,15 @@
    "name_zh": "露露柠檬",
    "status": "喜欢",
    "reason": "标注",
-   "date": "2026-06-16",
+   "date": "2026-08-04",
    "origin": "网页标注",
-   "history": []
+   "history": [
+    {
+     "date": "2026-06-16",
+     "status": "喜欢",
+     "reason": "标注"
+    }
+   ]
   },
   {
    "ticker": "CRWV",
