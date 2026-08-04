@@ -1,0 +1,40 @@
+{
+ "date": "2026-08-04",
+ "items": [
+  {
+   "title": "neocloud三巨头8/3单日暴涨：CRWV +15%、NBIS +11.6%、IREN +8%——AWS $3万亿+Evercore预测催化",
+   "summary": "Amazon市值8/3首破$3万亿，AWS Q2 +37%为18季度最快增速，带动neocloud板块集体大幅反弹。Evercore预测CRWV/SpaceXAI/IREN将是Dell FY27 $600亿AI服务器营收的主力买家。",
+   "source": "TipRanks",
+   "why": "neocloud板块从7月低点已累计反弹40-50%，但CRWV Q2财报8/11是下一个二元事件。若CRWV积压转化率低于预期或债务成本再次被聚焦，可能再次回落。对持仓者：注意8/11前减仓or加仓的风险管理节点。",
+   "url": "https://www.tipranks.com/news/crwv-nbis-iren-why-are-neocloud-stocks-soaring-today-august-3-2026"
+  },
+  {
+   "title": "MSFT创历史最大单日市值增幅$4920亿（7/29）——超越NVDA 4/9/2025的$4400亿记录",
+   "summary": "MSFT Q4 FY2026发布后+15.5%，单日增加$4920亿市值，创全球股票市场历史最大单日市值增幅。Azure +43%（四年最快）+ FCF正值 + $510亿商业积压订单让AI capex ROI争论告一段落。",
+   "source": "Yahoo Finance / Investing.com",
+   "why": "这一事件从叙事层面正式宣告'AI capex有回报'的市场共识形成，对整个AI供应链（NVDA/CLS/COHR/PWR/NBIS）均构成持续正面情绪支撑。同时也意味着AI基建下游需求可视性最大的不确定性已消除，关注点将转向供给端（能源/光模块/封装）能否跟上。",
+   "url": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html"
+  },
+  {
+   "title": "Michael Burry在~$880扩大MU+NVDA空头，同时买入消费+医疗股——反向信号还是提前预警？",
+   "summary": "Michael Burry据报道扩大对NVDA和MU的空头头寸，并买入消费及医疗保健股，暗示他认为AI内存/芯片估值见顶、消费板块相对低估。Apple CEO同期称内存价格为'百年一遇洪水'。",
+   "source": "Google Finance / TradingKey",
+   "why": "Burry做空科技的历史时机通常偏早（如2020-2021年多次过早），但此次背景是NVDA Q2财报8/26发布前、内存价格已处高位。值得关注的是：若Burry的空头是期权策略，则可能是对高位脆弱性的对冲而非单边下注。对投资者的价值：MU/NVDA持仓在8/26前考虑适度降低敞口。",
+   "url": "https://www.google.com/finance/beta/quote/NVDA:NASDAQ"
+  },
+  {
+   "title": "Reddit社区SNDK 24h提及量暴增54%——内存板块情绪快速转向",
+   "summary": "AltIndex数据显示截至8/2，SNDK Reddit提及量单日暴增54%，MU/NVDA/AMZN同列最高提及。显示内存板块在经历CXMT IPO恐慌性抛售（-29%大跌）后，散户情绪正快速从恐慌转向关注反弹机会。",
+   "source": "AltIndex Reddit Tracker",
+   "why": "SNDK从YTD高点回撤约45%，散户提及量突增往往先于短期价格波动。但NAND供给周期+CXMT竞争的结构性担忧尚未消除，散户情绪主导的反弹可能是交易性而非趋势性。对SNDK持仓者：谨慎追高，等待NAND价格周期确认。",
+   "url": "https://altindex.com/reddit-stocks"
+  },
+  {
+   "title": "Celestica大幅上调FY2026指引至$205亿（+8%中期调整）并预告2027加速——AI ODM卡点逻辑最强印证",
+   "summary": "CLS Q2营收+62%、CCS +84%，全年指引从$190亿上调至$205亿，EPS从$10.15上调至$11.30。2027新增OpenAI+AMD定制机架程序，管理层称2027增速将超2026。约束仅为长交期组件供应。",
+   "source": "CryptoBriefing / Seeking Alpha / Quartr",
+   "why": "CLS是AI数据中心ODM领域最纯粹的P4瓶颈猎手标的之一——不做芯片、不做云、专注超大规模客户的服务器机架集成。$341当前股价距高-27.6%，处于52周中位，是观察池中少数'已证伪高估值担忧'的标的，共识目标$440上行空间明确。",
+   "url": "https://cryptobriefing.com/celestica-fy2026-guidance-ai-demand/"
+  }
+ ]
+}
