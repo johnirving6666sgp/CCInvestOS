@@ -475,9 +475,15 @@
    "name_zh": "Becton Dickinson（医疗器械百年王者）",
    "status": "喜欢",
    "reason": "标注",
-   "date": "2026-07-19",
+   "date": "2026-08-04",
    "origin": "网页标注",
-   "history": []
+   "history": [
+    {
+     "date": "2026-07-19",
+     "status": "喜欢",
+     "reason": "标注"
+    }
+   ]
   },
   {
    "ticker": "TEAM",
