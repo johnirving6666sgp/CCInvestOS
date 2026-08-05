@@ -1,0 +1,16 @@
+{
+ "date": "2026-08-05",
+ "items": [
+  {
+   "date": "2026-08-05",
+   "ticker": "SPCX",
+   "market": "US",
+   "name_zh": "SpaceX（Space Exploration Technologies Corp.）",
+   "pattern": "P4·瓶颈猎手",
+   "thesis": "SpaceX宣布独家使用NVDA Rubin GPU构建Starmind轨道AI数据中心，成为AI算力基础设施的全新物理卡点——轨道算力是地面数据中心无法替代的空间节点（无需土地/电网），且SpaceX是唯一具备规模化入轨能力的运营商",
+   "price_evidence": "SPCX 2026年6月IPO首日收涨19%，市值$2.11万亿；Q2财报后盘后-7%（$115附近）；较IPO后高点已有约10-15%回调，但尚未触及深度低位",
+   "key_question": "①Starmind轨道数据中心是否获FCC批准（已申请100万颗轨道数据中心卫星）？②轨道算力的经济性（$/FLOP）相比地面是否具备商业竞争力？③SPCX当前估值是否已完全定价了轨道AI算力叙事，还是仍属机构盲区？",
+   "status": "待反馈"
+  }
+ ]
+}
