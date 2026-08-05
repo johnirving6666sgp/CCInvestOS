@@ -1,0 +1,47 @@
+{
+ "date": "2026-08-05",
+ "items": [
+  {
+   "title": "SpaceX首份公开季报大超预期，马斯克宣布独家使用NVDA芯片，Starmind轨道数据中心2027启动",
+   "summary": "SpaceX Q2营收$78亿（超预期$69亿），Starlink贡献$42.9亿。马斯克宣布SpaceX将独家基于NVDA Rubin架构构建所有AI基础设施，并披露Starmind卫星计划（搭载Rubin GPU的轨道数据中心），2027年开始部署。SpaceX预计2026年底达2GW算力，2027年底达10GW。SPCX盘后-7%（股价已消化IPO后高溢价），NVDA盘后+2%。",
+   "source": "财经媒体",
+   "why": "SpaceX'独家NVDA'声明是AI芯片供给侧的重大信号：继SK Group、OpenAI、Naver后新增超大规模买家，且宣布向轨道算力拓展，意味着NVDA下代Rubin GPU需求能见度在传统地面数据中心之外还有轨道新增量。对于COHR（光通信在卫星间互联的潜在应用）、CRDO（星间高速互联）也有间接想象空间。",
+   "url": "https://finance.yahoo.com/technology/article/elon-musk-says-spacex-will-build-exclusively-with-nvidia-touts-space-based-ai-servers-211803293.html"
+  },
+  {
+   "title": "Piper Sandler首次覆盖neocloud双雄：CRWV Overweight/$151 vs NBIS Neutral/$224，GPU-as-a-service 2029年达$1000亿",
+   "summary": "Piper Sandler分析师James Fish首次覆盖CRWV和NBIS，前者Overweight目标$151（当前$91，+64%空间），后者Neutral目标$224。核心论点：CRWV合同-融资绑定模式降低执行风险，成本比hyperscalers低40%+，且合同RPO提供更高收入确定性。GPU-as-a-service市场2026年$180亿，2029年破$1000亿。CRWV当日+9%，NBIS+6%。",
+   "source": "Benzinga / TipRanks",
+   "why": "大行初覆盖是机构资金进入的标志性信号。CRWV 8/11财报在即，Piper Sandler的覆盖为多头提供了新的分析框架。NBIS 8/12财报亦临近。两份财报将是neocloud叙事的关键验证节点，对IREN、CRDO、COHR等AI基础设施卖铲人也有间接影响。",
+   "url": "https://www.benzinga.com/trading-ideas/movers/26/08/60920377/coreweave-nebius-shares-rise-whats-going-on-today"
+  },
+  {
+   "title": "SNDK Q4 FY2026今日盘后发布+8/13设投资者日：NAND周期验证窗口正式开启",
+   "summary": "SanDisk今日（8/5）1:30PM PT发布Q4 FY2026财报，指引营收$7.75-8.25亿但共识达$8.3亿（分析师偏乐观）。Goldman Sachs目标价上调至$2200。8/13再设投资者日。历史上SNDK已连续四季大幅超预期（平均超381%）。AI推理存储需求爆发+NAND供应偏紧是核心牛市叙事。",
+   "source": "Yahoo Finance / TradingKey",
+   "why": "SNDK财报和投资者日是2026年下半年NAND存储周期最重要的数据节点。若Q4实际营收和FY27指引超预期，将为MU（HBM+NAND双线逻辑）提供辅证，也可能推动SNDK从-38.9%的回撤位进入P3错杀成长修复窗口。CXMT供给冲击是唯一核心证伪风险。",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262073197-sandisk-earnings-preview-ai-storage-supercycle-3050-top-target-tradingkey"
+  },
+  {
+   "title": "Bloom Energy丑闻与机遇：Q2营收$10.7亿首破$10亿里程碑，但中国钪供应链诉讼威胁AI电力故事",
+   "summary": "BE Q2营收$10.7亿(+30%)、EPS $0.78（近双倍预期），AI数据中心电力需求驱动。但7月8日Hunterbrook做空报告'Bloom's Big Lie'指控公司隐瞒中国钪供应链（通过泰国/日本/韩国中间商），证券诉讼已立案，股价从$270+回调至$228。JP Morgan/UBS/Clear Street目标价维持$283-314。",
+   "source": "Simply Wall St / Timothy Sykes",
+   "why": "BE是AI数据中心分布式电源卡点供应商（固态氧化物燃料电池），基本面极强但监管/供应链合规风险是P1候选的最大拦路虎。若钪诉讼被证伪，则$228是绝佳错杀买入点（距年内高$351达-35%）；若属实则面临供应链重构成本。这是典型的'调查驱动价格偏离'格局——需等待法律程序进展作为信号。",
+   "url": "https://simplywall.st/stocks/us/capital-goods/nyse-be/bloom-energy"
+  },
+  {
+   "title": "GEV Q2积压订单$1760亿、116 GW燃气轮机预约，Electrification分部单季数据中心订单$24亿超全年2025",
+   "summary": "GE Vernova Q2 Electrification分部数据中心设备订单$24亿（超过2025全年），积压总额$1760亿，116 GW气轮机槽位预约锁定多年供应。Q2数据印证AI基础设施对电力设备的结构性需求加速（Q1数据中心订单同比增速>100%）。Wind分部仍在改善中但尚未扭亏。",
+   "source": "GE Vernova SEC 8-K / Quiver Quantitative",
+   "why": "GEV是AI电力基础设施卡点的核心代表（假设H6、H8），但当前估值约44x FY27 EPS处于高位，建议等待Wind分部拖累消化后的回调窗口。Quanta Services（PWR）是Motley Fool推荐的替代选择，可两者互换配置。",
+   "url": "https://www.quiverquant.com/news/GE+Vernova+Stock+(GEV)+Opinions+on+Q2+Earnings+and+AI-Driven+Backlog"
+  },
+  {
+   "title": "Hugging Face CEO警告：中国AI实验室或于2026年底前超越美国前沿AI水平",
+   "summary": "Hugging Face CEO警告称，按当前轨迹，中国AI实验室可能在2026年底前在某些指标上达到甚至超越美国顶级AI实验室。此言论在AI社区引发广泛讨论，也再次引发对NVDA出口管制有效性的质疑。",
+   "source": "TipRanks",
+   "why": "若中国AI能力快速追赶属实，则意味着：①NVDA H20/H200出口管制的战略意义更大（现有管制的绕道风险更高，参见阿里-Moonshot事件NVDA-20260803-01）；②中国AI算力需求仍将通过各种渠道推高全球GPU需求；③中国自研GPU/XPU（华为昇腾等）的加速有助于推动国内AI基础设施投资（对汇聚科技01729.HK等国内供应链形成潜在利好）。",
+   "url": "https://www.cnbc.com/quotes/NVDA"
+  }
+ ]
+}
