@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04",
+ "updated": "2026-08-06",
  "note": "AI_INVEST_OS 监控清单。增删公司直接编辑此文件,数据 Agent 每日按此清单抓取。focus 字段为抓取指引,不得为空——新增公司时必须同时写 focus(3-4 条),否则数据 Agent 抓取质量会显著下降。",
  "companies": [
   {
@@ -376,6 +376,13 @@
    "market": "US",
    "name": "博隆能源（Bloom Energy）",
    "name_zh": "博隆能源（Bloom Energy）",
+   "focus": []
+  },
+  {
+   "ticker": "PLTR",
+   "market": "US",
+   "name": "Palantir Technologies",
+   "name_zh": "Palantir Technologies",
    "focus": []
   }
  ]
