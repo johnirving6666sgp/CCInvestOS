@@ -1,0 +1,16 @@
+{
+ "date": "2026-08-06",
+ "items": [
+  {
+   "date": "2026-08-06",
+   "ticker": "PLTR",
+   "market": "US",
+   "name_zh": "Palantir Technologies",
+   "pattern": "王者归来",
+   "thesis": "Q2营收+93%、美商业+149%、Rule of 40=155%——AI应用层ROI首次大规模量化兑现；股价YTD -29%仍处于低位（本轮超预期前），是'基本面反转但价格尚未完全跟上'的典型王者归来结构",
+   "price_evidence": "Palantir股价YTD -29%（截至Q2发布前），Q2盘后+12%，说明市场此前定价显著偏低于实际增速",
+   "key_question": "美国商业收入能否在Q3维持>100% YoY增速，还是Q2存在一次性大客户签约集中效应？Rule of 40=155%能否在费用季节性上升的Q3（管理层预警）中保持>100%？",
+   "status": "待反馈"
+  }
+ ]
+}
