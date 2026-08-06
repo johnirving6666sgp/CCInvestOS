@@ -1,0 +1,47 @@
+{
+ "date": "2026-08-06",
+ "items": [
+  {
+   "title": "Palantir Q2'震撼季'：营收+93% YoY，美国商业收入+149%，Rule of 40飙至155%",
+   "summary": "Palantir Q2 2026营收$19.4亿（vs预期$18亿），美国商业收入$7.64亿（+149% YoY），EPS $0.41（vs $0.35预期）。全年指引上调至82% YoY增速，美国商业指引+134% YoY。管理层将增长定义为'主权AI革命'——企业从token-based模型转向Palantir的Sovereign AI框架，股价盘后+12%。",
+   "source": "财经媒体",
+   "why": "PLTR的爆炸性数据是AI应用层ROI真正被企业认可的最强证据，直接支撑H1（AI基建资本开支加速）和H2（市场尚未正确定价AI重投入公司）两大假设。同时PLTR与NVDA合作扩展主权AI，对整条AI链条构成正面信号。",
+   "url": "https://www.businesswire.com/news/home/20260802523449/en/Palantir-Reports-Q2-2026-U.S.-Comm-Revenue-Growth-of-149-YY-and-Revenue-Growth-of-93-YY-Raises-FY-2026-Revenue-Guidance-to-82-YY-Growth-and-U.S.-Comm-Revenue-Guidance-to-134-YY-Crushing-Consensus-Expectations"
+  },
+  {
+   "title": "AMD Q2'超越周期'：数据中心营收+107% YoY达$67亿，Q3指引$130亿；宣布与Anthropic+Cerebras双重战略合作",
+   "summary": "AMD Q2 2026营收$115亿（+50% YoY），数据中心$67亿（+107%），Q3指引$130亿（+41% YoY）。同时宣布与Anthropic部署最高2GW Instinct GPU于Helios机架，以及与Cerebras联合打造超低延迟推理方案。标志AMD已从GPU第二名跃升为有独立生态能力的算力平台玩家。",
+   "source": "财经媒体",
+   "why": "AMD数据中心+107%是H1的最强佐证之一——AI需求已不仅是NVDA单家的故事。AMD-Cerebras合作直接关联监控列表中的CBRS；AMD-Anthropic合作涉及Volta Infra生态，间接影响NVDA和AVGO的定价格局。",
+   "url": "https://www.nasdaq.com/press-release/amd-reports-second-quarter-2026-financial-results-2026-08-04"
+  },
+  {
+   "title": "Anthropic $100亿6年算力合同流向NVDA背书的初创Volta Infra——neocloud生态正在向更碎片化演进",
+   "summary": "Anthropic与成立不足一年的Volta Infra Holdings签署$100亿、6年计算合同，Volta由NVDA和Dell共同战略投资，估值$24亿。Volta将在挪威等地建设数据中心。CoreWeave同期也为Anthropic服务但遭遇融资成本上升。显示顶尖AI Lab已开始有意识地分散算力采购，而非押注单一neocloud提供商。",
+   "source": "Bloomberg / Seeking Alpha",
+   "why": "这是neocloud格局从'一两家垄断'走向'多供应商分散'的标志性事件，对CRWV（单一客户集中风险）构成中期压力，同时为NBIS、IREN等提供叙事空间（更多潜在客户机会）。也确认NVDA生态体系化背书能力，假设H1+H6增强。",
+   "url": "https://seekingalpha.com/news/4624601-anthropic-signs-10b-computing-deal-with-infrastructure-startup-volta-report"
+  },
+  {
+   "title": "WSB社区今日关注：AMD期权、SpaceX(SPCX)、Uber大涨——资金轮动至首次财报催化剂标的",
+   "summary": "Reddit WallStreetBets 8/4-8/5讨论热点：AMD财报期权（'AMD calls are toilet paper tomorrow'的看空与看多分歧）、SpaceX上市后首次财报（24小时提及量+87%）、Uber被视为AI出行受益标的（提及量+883%）。半导体ETF SOXL相关交易活跃。",
+   "source": "Reddit/WallStreetBets",
+   "why": "SpaceX首次财报+独家NVDA合作是本周最大零售资金催化剂之一，间接利好NVDA生态。SOXL活跃交易反映散户对半导体板块情绪仍高。AMD期权分歧是本周主要波动源，直接关联CBRS（AMD-Cerebras合作新鲜出炉）。",
+   "url": "https://tradestie.com/apps/reddit/wallstreetbets/"
+  },
+  {
+   "title": "白宫最终确定AI框架但决定暂不公开——监管不确定性悬而未决",
+   "summary": "Axios和The Information分别报道，白宫已邀请AI公司审阅最终版AI监管框架，并已宣告框架定稿，但决定暂不对外公开。这延续了此前'灵活监管'路线，短期内不会形成出口或应用层的硬性约束。",
+   "source": "TipRanks / Axios",
+   "why": "对NVDA出口管制方向有直接影响：若框架中有新的芯片出口限制将是NVDA 8/26财报前的重大证伪风险；若框架保持宽松则维持现状。投资者需跟踪是否有非公开条款通过行业渠道泄露。",
+   "url": "https://www.cnn.com/markets/stocks/NVDA"
+  },
+  {
+   "title": "MSFT证券集体诉讼出现：指控Copilot商业化披露误导，但基本面反转已确认——诉讼是尾部风险非主线",
+   "summary": "多个证券集体诉讼指控微软在2025-2026年间就Copilot性能、竞争力和AI capex与Azure容量关系存在误导性陈述，时间窗口对应Q2 2026前Azure增速不达预期时期。但目前Azure年化收入已突破$1000亿，Copilot席位3000万，基本面已自我修正。",
+   "source": "StocksToTrade",
+   "why": "诉讼不影响当前基本面，但可能在MSFT进入$500+估值区间时形成情绪压制，是中期持有者的尾部风险观测点。对监控组合中MSFT仓位的投资者，需将诉讼进展纳入定期跟踪，特别是和解金额是否影响FY27 FCF。",
+   "url": "https://stockstotrade.com/news/microsoft-corporation-msft-news-2026_08_03/"
+  }
+ ]
+}
